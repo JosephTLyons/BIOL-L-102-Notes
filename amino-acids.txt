@@ -1,0 +1,29 @@
+
+
+
+20 Amino Acids:
+
+- Non-Polar
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+- Polar
+    - Serine
+    - Threonine
+    -
+    - Tyrosine
+    -
+    -
+- Acidic (AG)
+    - Aspartic Acid
+    - Glutamic Acid
+- Basic (LAH)
+    - Lysine
+    - Arginine
+    - Histidine
