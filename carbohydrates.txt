@@ -1,3 +1,48 @@
 Carbohydrates:
-    - Monomer: monosaccharide
-    - Polymer: polysaccharide
+    - Monomer: monosaccharide ("one sugar")
+        - Formula: Cn-H2n-On
+            Example: C6-H12-O6
+        - One carbon group has carbonyl group, all other carbons have hydroxyl
+          group
+        - Must have both of the previous bullet points to be a carbohydrate
+        - Isomer = same molecular formula but different structural arrangement
+            - Need to see a diagram to see the difference (see images on page 14
+              of notes)
+        - Names based on number of carbons (examples):
+            - C3-H6-O3 (glyceraldehyde): Triose
+            - C5-H10-O5 (Ribose): Pentose
+            - C6-H12-O6 (glucose, fructose, galactose): Hexose
+                - These are the 3 most common sugars and all have same formula
+                  (isomers)
+                - glucose can form linearly, but it can bend to become a
+                  ring-structure.
+                    - ring structures (refer to pictures in notes page 15)
+                        - alpha Glucose
+                            - same direction
+                            - easy to break apart via hydrolysis reaction
+                            - starch (still a carbohydrate)
+                                - amylose: plant starch
+                                - glycogen: animal starch ("-gen" = able to
+                                  generate something (glucose))
+                        - beta glucose
+                            - different direction
+                            - very difficult to break bonds, hard to digest
+                            - good for building structures
+                            - often used for building cell walls (plant)
+                            - examples:
+                                - cellulose: main component of wood (plants)
+                                - chitin (fungi / insect exoskeletons)
+                                - peptidoglycans (bacteria: outer layer)
+        - Names based on where the double bond:
+            - Ketoses
+                - carbonyl on internal carbon
+            - Aldoses
+                - carbonyl on terminal carbon
+    - Polymer: polysaccharide ("many sugars")
+        - disaccharide (dimer): (2 monomers linked by dehydration reaction)
+            - sucrose (table sugar) = glucose + fructose
+            - maltose = glucose + glucose
+            - lactose = glucose + galactose
+            - note: linking carbohydrates through dehydration reaction will
+              result in losing an H20, so the structural formula C6-H12-O6 will
+              no longer apply
