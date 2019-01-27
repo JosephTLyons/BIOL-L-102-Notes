@@ -7,3 +7,16 @@ What is a cell?
     - Generally microscopic (but some can be seen with naked eye)
     - Internal aqueous environment (cytosol) that differs from the aqueous
       environment that surrounds it
+    - Surrounded by plasma membrane (cell membrane) consisting of phospholipid
+      bilayer with embedded proteins
+    - Cells make proteins and the function(s) of a given cell are linked to the
+      proteins the cell makes
+    - The proteins are generally made of RNA and the information form making
+      proteins is in the form of DNA, ribosomes are present
+    - It has mechanisms for making ATP, the main direct source for most of its
+      activities.
+
+ATP (adenosine triphosphate)
+    - an adenine nucleotide with three phosphate groups instead of one
+
+LEFT OFF ON PAGE 18 OF NOTES
