@@ -63,4 +63,4 @@ Four Major Macromolecules ("Life Constantly Promotes Normalcy"):
 
 4. Nucleic Acids:
     - Monomer: nucleotides
-    - Polymer: RNA and DNA
+    - Polymer: DNA and RNA
