@@ -1,0 +1,33 @@
+Independent Module 1 Notes (Acids, Bases, and Buffers):
+
+Neutrality:
+
+- [H^+] = [OH^-].  When water has this equilibrium, it has a neutral pH (7)
+- "[H^+]" is read as "the concentration of hydrogen ions."
+- The pH (potential Hydrogen) comes from the inverse log of [H^+].  Neutral is
+  7.0 (the 7 comes from 1 x 10^-7)
+- pH scales goes from 0 - 14
+
+Acids (pH below 7):
+
+- Increases in [H^+], decreases in pH
+- The highest [H^+] possible in an aqueous (water-based) solution is 1 mol/L,
+  which corresponds to a pH of 0
+- The water wants to force the excess H^+ atoms onto others molecules
+
+Bases (pH above 7)
+
+- Decreases in [H^+], increases in pH
+- The lowest [H+] possible in an aqueous solution is 1 x 10-14 which corresponds
+  to a pH of 14
+- The water wants to gain missing H^+ atoms by trying to extract them from other
+  molecules
+
+Buffers:
+- Buffers are molecules that can act either as acids or bases, releasing H^+ to
+  the solution if the pH is too high or picking up H^+ from the solution if the
+  pH is low; buffers tend to stabilize pH.
+- 3 main buffers in the body:
+    - Bicarbonate
+    - Phosphate
+    - Proteins
