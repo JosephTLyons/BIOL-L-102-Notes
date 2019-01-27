@@ -53,6 +53,7 @@ Four Major Macromolecules ("Life Constantly Promotes Normalcy"):
         - The amine group of one amino and the carboxyl group other another
           amino attach to one another through dehydration reaction.  This is a
           polypeptide bond
+        - polypeptides that fold into a fixed structure are proteins
     - Enzymes: just one type of protein
         - Act as chemical catalysts that speed up reactions that support life
         - Active site = region where other molecules called "substrates" can fit
