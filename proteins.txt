@@ -1,0 +1,17 @@
+Proteins:
+    - Monomer: amino acids
+        - Know basic shared structure
+        - Know 20 different names, polar / non-polar, acidic, or basic
+          (amino-acids.txt)
+    - Polymer of amino acids = polypeptide
+        - The amine group of one amino and the carboxyl group other another
+          amino attach to one another through dehydration reaction.  This is a
+          polypeptide bond
+        - polypeptides that fold into a fixed structure are proteins
+    - Enzymes: just one type of protein
+        - Act as chemical catalysts that speed up reactions that support life
+        - Active site = region where other molecules called "substrates" can fit
+          in and interact with the surface of the protein
+    - The function of a protein depends on its shape
+    - The shape of a protein depends upon the sequence of amino acids in its
+      polypeptide chains

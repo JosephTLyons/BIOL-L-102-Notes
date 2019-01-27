@@ -1,0 +1,41 @@
+Lipids:
+========================== Building Blocks Below ===========================
+- Monomers:
+    1. fatty acids
+        - long chains of hydrocarbons + carbonyl group
+        - mostly non-polar (hydrophobic), but are considered amphipathic
+          because their carbon end is non-polar and their carbonyl end is
+          polar
+        - Saturated
+            - all single bonds linking carbons
+            - not kinked
+            - "saturated" refers to the Hydrogen atoms.  With all single
+              bonds, we can have more hydrogen atoms (saturated hydrogen)
+            - can pack tightly
+            - behave like a solid at room temperature
+        - Unsaturated
+            - have at least one double bond between carbon atoms
+            - are kinked
+            - pack more loosely
+            - behave like a liquid at room temperature
+        - trans fats
+            - has double bond, but is linear, not kinked
+    2. glycerol
+- Steroids
+    - hydrocarbon ring structure (hippopotamus)
+        - 4 rings
+            - 3 6-sided
+            - 1 5-sided
+========================== Building Blocks Above ===========================
+- Polymers
+    - Triglycerides
+        - 1 glycerol + 3 fatty acid chains
+        - fatty acid chains attach to glycerol through dehydration reaction
+    - Phospholipids
+        - 1 glycerol + 2 fatty acid chains + 1 phosphate group
+        - fatty acid chains attach to glycerol through dehydration
+        - Phospholipid Bilayer
+            - The type of fatty acid affects the permeability of the
+              membrane
+                - saturated = packed, not as permeable
+                - unsaturated = kinks and loosely packed, more permeable

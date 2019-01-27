@@ -1,0 +1,3 @@
+Carbohydrates:
+    - Monomer: monosaccharide
+    - Polymer: polysaccharide
