@@ -1,3 +1,35 @@
 Nucleic Acids:
     - Monomer: nucleotides
-    - Polymer: DNA and RNA
+        - Images on page 16 of notes
+        - Ribose (5 carbon sugar) + phosphate group on carbon 5 + nitrogenous
+          base on carbon 1
+        - Phosphate group is attached to carbon 5
+        - 5 kinds organized into 2 categories:
+            - Pyrimidines (nitrogenous base has 1 ring structure):
+                - Cytosine
+                - Uracil
+                - Thymine
+            - Purines (nitrogenous base has 2 ring structure)
+                - Guanine
+                - Adenine
+        - The Pyrimidines always link to purines
+        - Use image on slide 18 or lecture 5 for 5 prime and 3 prime material
+        - Use images in slides 20 and 21 of lecture 5 for how the links between
+          pyrimidines and purines form the bonds that help to create RNA or DNA
+
+    - Polymer: DNA or RNA
+        - Ribose monomers linked together at carbon 3 of the ribose and the
+          phosphate group of the next nucleotide
+        - When linked, they form Ribonucleic Acid
+        - If the OH hydroxyl group on carbon 2 is removed and we only have an H,
+          we get DNA
+        - Deoxy-Ribonucleic Acid
+            - Consists of two polynucleotide chains with corresponding
+              nucleotides, linked together via hydrogen bonds between base
+              pairs; these linked chains naturally take on a twisted shape
+              called a double helix (slide 21 lecture 5)
+        - Ribonucleic Acid
+            - Consists of a single polynucleotide chain that can fold in upon
+              itself through base pair matching between different parts of the
+              strand; this generates stem and loop structures (slide 21 lecture
+              6)
