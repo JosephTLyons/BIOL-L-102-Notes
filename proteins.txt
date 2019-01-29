@@ -6,13 +6,38 @@ Proteins:
     - Polymer of amino acids = polypeptide
         - The amine group of one amino and the carboxyl group other another
           amino attach to one another through dehydration reaction.  This is a
-          polypeptide bond
-        - proteins consist of one of more polypeptides
+          peptide bond
+        - proteins consist of one of more polypeptide chains
             - polypeptides that fold into a fixed structure are proteins
     - Enzymes: just one type of protein
         - Act as chemical catalysts that speed up reactions that support life
         - Active site = region where other molecules called "substrates" can fit
           in and interact with the surface of the protein
+    - Folding
+        - primary structure
+            - determined by the sequence of amino acids that make up the protein
+            - influences higher levels of structure
+            - bond: peptide (between amino acids hydroxyl and carboxyl groups)
+        - secondary structure (which type of fold is determined by amino acid
+          arrangement)
+            - alpha helices (strands run in same direction)
+            - beta sheets (strands run in opposite direction)
+            - bond: hydrogen bond
+            - How the strand folds depends on the solution it is in and the
+              polarity of the R-group
+                - Ex: in water, polar R-groups face out, non-polar r-groups pull
+                  to each other and face inside of bundle.
+        - tertiary structure
+            - Overall 3D shape of protein
+            - shape is determined by interactions between R-groups and other
+              R-groups, but also determined by interactions between R-groups and
+              molecules in the surrounding environment.
+            - again, hydrophobic R-groups might face outward and hydrophilic
+              R-groups might face inward.
+            - bonds: hydrogen and more
+        - quaternary structure
+            - one or more polypeptide chains grouping together
+            - bonds: hydrogen and more
     - The function of a protein depends on its shape
     - The shape of a protein depends upon the sequence of amino acids in its
       polypeptide chains
