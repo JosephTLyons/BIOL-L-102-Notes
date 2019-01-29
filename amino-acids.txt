@@ -12,22 +12,20 @@
     - Proline
 
 - Polar (6):
-    - Serine *
-    - Threonine *
+    - Serine
+    - Threonine
     - Cysteine
-    - Tyrosine *
+    - Tyrosine
     - Asparagine
     - Glutamine
 
 ========================== Electrically Charged Below ==========================
 
 - Acidic (2) (AG):
-    - Aspartic Acid *
-    - Glutamic Acid *
+    - Aspartic Acid
+    - Glutamic Acid
 
 - Basic (3) (LAH):
-    - Lysine *
-    - Arginine *
-    - Histidine *
-
-* = memorized
+    - Lysine
+    - Arginine
+    - Histidine
