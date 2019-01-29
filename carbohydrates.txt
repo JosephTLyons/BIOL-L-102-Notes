@@ -1,4 +1,4 @@
-Carbohydrates:
+Carbohydrates (sugars / starches):
     - Monomer: monosaccharide ("one sugar")
         - Formula: Cn-H2n-On
             Example: C6-H12-O6
@@ -44,5 +44,5 @@ Carbohydrates:
             - maltose = glucose + glucose
             - lactose = glucose + galactose
             - note: linking carbohydrates through dehydration reaction will
-              result in losing an H20, so the structural formula C6-H12-O6 will
+              result in losing an H20, so the molecular formula Cn-H2n-On will
               no longer apply
