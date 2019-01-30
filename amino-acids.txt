@@ -22,8 +22,8 @@
 ========================== Electrically Charged Below ==========================
 
 - Acidic (2) (AG):
-    - Aspartic Acid
-    - Glutamic Acid
+    - Aspartic Acid (or aspartate)
+    - Glutamic Acid (or glutamate)
 
 - Basic (3) (LAH):
     - Lysine
