@@ -33,3 +33,5 @@ Nucleic Acids:
               itself through base pair matching between different parts of the
               strand; this generates stem and loop structures (slide 21 lecture
               6)
+        - The nucleic acid strand that is in both RNA and DNA has a
+          sugar-phosphate backbone
