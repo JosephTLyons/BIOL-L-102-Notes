@@ -4,15 +4,16 @@ Nucleic Acids:
         - Ribose (5 carbon sugar) + phosphate group on carbon 5 + nitrogenous
           base on carbon 1
         - Phosphate group is attached to carbon 5
-        - 5 kinds organized into 2 categories:
-            - Pyrimidines (nitrogenous base has 1 ring structure):
-                - Cytosine
-                - Uracil
-                - Thymine
-            - Purines (nitrogenous base has 2 ring structure)
-                - Guanine
-                - Adenine
-        - The Pyrimidines always link to purines
+        - Nitrogenous base on carbon 1
+            -5 kinds organized into 2 categories:
+                - Pyrimidines (1 ring structure):
+                    - Cytosine
+                    - Uracil
+                    - Thymine
+                - Purines (2 ring structure)
+                    - Guanine (pairs with Cytosine)
+                    - Adenine (pairs with Thymine (DNA) or Uracil (RNA))
+                - Pyrimidines always link to Purines
         - Use image on slide 18 or lecture 5 for 5 prime and 3 prime material
         - Use images in slides 20 and 21 of lecture 5 for how the links between
           pyrimidines and purines form the bonds that help to create RNA or DNA
@@ -28,10 +29,26 @@ Nucleic Acids:
               nucleotides, linked together via hydrogen bonds between base
               pairs; these linked chains naturally take on a twisted shape
               called a double helix (slide 21 lecture 5)
+            - Structure
+                - Primary
+                    - Nitrogenous base sequence consisting of A, T, G, C
+                - Secondary
+                    - 2 antiparallel strands twisted into a double helix
+                    - Hydrogen bonds between complimentary nitrogenous bases
+                - Tertiary
+                    - generally none
         - Ribonucleic Acid
             - Consists of a single polynucleotide chain that can fold in upon
               itself through base pair matching between different parts of the
               strand; this generates stem and loop structures (slide 21 lecture
               6)
+            - Structure
+                - Primary
+                    - Nitrogenous base sequence consisting of A, U, G, C
+                - Secondary
+                    - Single strand that can fold back on itself to form "loops"
+                      with short double helix "stems"
+                - Tertiary
+                    - Folds form distinctive 3D shape
         - The nucleic acid strand that is in both RNA and DNA has a
           sugar-phosphate backbone
