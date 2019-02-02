@@ -48,6 +48,7 @@ Nucleic Acids:
                 - Secondary
                     - Single strand that can fold back on itself to form "loops"
                       with short double helix "stems"
+                    - Loops are held together with hydrogen bonds
                 - Tertiary
                     - Folds form distinctive 3D shape
         - The nucleic acid strand that is in both RNA and DNA has a
