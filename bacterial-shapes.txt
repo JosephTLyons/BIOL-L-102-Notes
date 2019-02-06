@@ -1,0 +1,19 @@
+Base shapes:
+
+Coccus - spherical
+Bacillus - rod-shaped
+Spirillum - big spirals
+Spirochetes - small spirals
+Vibrio - comma-shaped
+
+
+Modifiers:
+
+Strepto: a strip
+    - Example: streptococci (a strip of spherical bacteria)
+
+Diplo: two
+    - Example: diplobacilli (two rod-shaped bacteria)
+
+Staphlo: a grape-like bunch
+    - Example: staphylococci (grape-like bunch of bacteria)
