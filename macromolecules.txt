@@ -1,6 +1,14 @@
 Four Major Macromolecules:
     Mnemonic: "Life Constantly Promotes Normalcy"
     1. Lipids (fats and oils)
+        - Monomers: Glycerol and Fatty Acids
+        - Polymers: Phospholipids, Triacylglyerides
     2. Carbohydrates
+        - Monomers: Monosaccharides
+        - Polymers: Polysaccharides
     3. Proteins
+        - Monomers: Amino Acids
+        - Polymers: Polypeptides
     4. Nucleic Acids
+        - Monomers: Nucleotides
+        - Polymers: RNA and DNA
