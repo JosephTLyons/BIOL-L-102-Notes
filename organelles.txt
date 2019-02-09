@@ -1,0 +1,115 @@
+Organelles have cell membranes around them, if a structure does not have a cell
+member, it is technically not an organelle.
+
+Organelles
+    01. Ribosomes: Necessary for building polypeptides (required for proteins)
+        - NOT AN ORGANELLE! but a key structure
+        - Present in all cells (eukaryotes and prokaryotes)
+        - Large and Small subunit made of proteins and rRNA
+
+    02. Nucleus and Related Structures:
+        - Nuclear Envelope
+            - A double membrane that surrounds the nucleus and separates it from
+              the fluid environment of the rest of the cell
+        - Nuclear Pores
+            - Large holes in the nuclear envelope that allow very large
+              structures (e.g., proteins, ribosomes, mRNA) to pass between the
+              nucleoplasm and the cytoplasm
+        - Nucleoplasm
+            - Fluid environment inside the nucleus, consisting primarily of
+              “chromatin”
+            - Chromatin is the form the chromosomes take when they are
+              unspooled, making the genetic information available for protein
+              synthesis; chromatin, like chromosomes, is made of DNA and
+              histone proteins
+        - Nucleolus
+            - A region inside the nucleus where ribosomes are made; the
+              chromatin of chromosomes with genes for making ribosomes are found
+              here
+
+    03. Endoplasmic Reticulum - A network of cell membrane arranged into folds
+        and pockets that is an extension of the outer membrane of the nuclear
+        envelope; divided into two regions
+        - Rough Endoplasmic Reticulum
+            - Long, parallel folds
+            - lots of ribosomes here
+            - Major site of peptide synthesis (ribosomes are used to build
+              polypeptides)
+        - Smooth Endoplasmic Reticulum
+            - Membrane folds are irregular forming circular pockets
+            - Major site of lipid synthesis and detoxification
+
+    04. Golgi Apparatus - ?
+        - Cisternae - elongated chamber surrounded by single membrane
+            - Lumen - interior
+            - A tight stack of cisternae make up the golgi apparatus
+        - Cis face
+            - Faces rough ER of nucleus
+            - Vesicles travel from the rough ER to the cis face and assemble to
+              form new cisternae, pushing other cisternae down the stack
+        - Trans face
+            - Faces away from cis face
+            - When the cisternae reach the trans face, they disassemble into
+              small vesicles that contain finished proteins and carry them to
+              where they are needed in the cell
+            - Secretory vesicles transport protein from the trans face to the
+              outer cell membrane where the contents will be released out of the
+              cell via the process called exocytosis.
+
+    05. Centrosomes
+        - Not technically an organelle (not surrounded by a membrane)
+        - Consists of 2 cylindrical centrioles composed primarily of tubulin
+          protein positioned at right angles to each other.
+        - Play a role in establishing and organizing microtubule networks in the
+          cell cytoskeleton that assist in the movement of objects within the
+          cell (especially apparent during cell division)
+        - Centrioles also form the “basal bodies” necessary for the formation of
+          flagella and cilia
+
+    06. Lysosomes (animal feature)
+        - Contain enzymes for hydrolysis reaction (breaking of a bond using
+          water molecule - opposite of dehydration reaction) allowing it to
+          break down and recycle various macromolecules
+        - Internal PH is more acidic than pH of cytoplasm
+        - A feature of animal cells
+
+    07. Peroxisomes
+        - Contain enzymes that break down fatty acids and other non-polymer
+          molecules through oxidation or redox reactions (different from
+          condensation or hydrolysis reactions); these reactions produce highly
+          reactive products, such as hydrogen peroxide, which would be dangerous
+          if they were allowed to enter the cytoplasm; the peroxisome contains
+          enzymes that render these reactive products harmless
+
+    08. Vacuoles (plant feature)
+        - A large organelle in plant or fungal cells that can serve multiple
+          functions
+            - maintain pressure inside the cell
+            - storage of various compounds
+            - the breakdown and recycling of macromolecules (like the lysosomes
+              of animal cells)
+
+    09. Mitochondria: "POWERHOUSE OF THE CELL," main site of ATP production and
+        is responsible for the aerobic part of cellular respiration
+        - Inner and outer membranes (double membrane)
+            - Outer member is rounded and smooth and inner member is wrinkled up
+              and has folds
+        - Intermembrane space
+            - Space between inner member and outer membrane
+        - Matrix
+            - Inner fluid environment
+        - Cristae
+            - Folds in the inner membrane
+
+    10. Chloroplasts: site of photosynthesis (use for ATP and glucose
+        production)
+        - Feature of plant cells and some protists
+        - Site of photosynthesis (used for ATP and glucose production)
+        - Inner and outer membranes (double membrane)
+            - Roughly the same shape; rounded
+        - Stroma
+            - Fluid environment inside the chloroplast
+        - Grana
+            - Stack of thylakoids
+        - Thylakoids
+            - Disk-like sac that contains a fluid called "lumen"
