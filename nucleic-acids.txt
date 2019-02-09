@@ -11,9 +11,11 @@ Nucleic Acids:
                     - Uracil
                     - Thymine
                 - Purines (2 ring structure)
-                    - Guanine (pairs with Cytosine)
+                    - Guanine (pairs with Cytosine (both RNA and DNA))
                     - Adenine (pairs with Thymine (DNA) or Uracil (RNA))
                 - Pyrimidines always link to Purines
+                - Thymine is only in DNA
+                - Uracil is only in RNA
         - Use image on slide 18 or lecture 5 for 5 prime and 3 prime material
         - Use images in slides 20 and 21 of lecture 5 for how the links between
           pyrimidines and purines form the bonds that help to create RNA or DNA
