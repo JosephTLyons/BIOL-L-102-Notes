@@ -66,12 +66,11 @@ Organelles
         - Centrioles also form the “basal bodies” necessary for the formation of
           flagella and cilia
 
-    06. Lysosomes (animal feature)
+    06. Lysosomes
         - Contain enzymes for hydrolysis reaction (breaking of a bond using
           water molecule - opposite of dehydration reaction) allowing it to
           break down and recycle various macromolecules
         - Internal PH is more acidic than pH of cytoplasm
-        - A feature of animal cells
 
     07. Peroxisomes
         - Contain enzymes that break down fatty acids and other non-polymer
