@@ -17,6 +17,101 @@ What is a cell?
       activities.
 
 ATP (adenosine triphosphate)
-    - an adenine nucleotide with three phosphate groups instead of one
+    - An adenine nucleotide with three phosphate groups instead of one
+    - The linkage between the 2nd and 3rd phosphate contains a large amount of
+      chemical energy that can be transferred to other molecules, providing
+      activation energy for many chemical reactions in the cell to occur.
+    - ATP <-> ADP + Psub(i)
 
-LEFT OFF ON PAGE 18 OF NOTES
+All cells have
+    - Cell membrane
+    - Cytosol / cytoplasm
+        - Cytoplasm = all items inside cell but nucleus
+        - Cytosol = cytoplasm - organelles
+    - Cytoskeleton
+    - A specific region for storing DNA
+    - A mechanism for making ATP
+    - Ribosomes for making proteins
+
+Common structures found in some cells, but not others
+    - Cell walls
+    - Organelles
+        - A specialized structure or region within a cell, dedicated to
+          performing specific function(s), like that of human organs.
+        - Are surrounded in a membrane (phospholipid membrane)
+            - see organelles.txt
+
+Organelles move around the cell via a framework called the cytoskeleton.
+
+The phospholipid bilayer of cells have embedded proteins to help facilitate with
+movement of things that cant pass through the membrane between the
+phospholipids, such as ions, molecules, information, etc.
+
+Generalized prokaryotic cell
+    - Flagellum
+        - aids in movement of the cell
+    - Cytoplasm
+        - all items inside cell minus the nucleus
+    - Ribosomes
+        - used for building polypeptides
+    - Nucleoid
+        - Single, circular, chromosome
+        - Mostly composed of multiple compacted copies of DNA in a
+          continuous thread, with the addition of some RNA and proteins.
+        - not an organelle because no phospholipid bilayer, similar to nucleus,
+          but is not the same.
+    - Plasma membrane
+        - a microscopic membrane of lipids and proteins which forms the external
+          boundary of the cytoplasm of a cell or encloses a vacuole, and
+          regulates the passage of molecules in and out of the cytoplasm.
+    - Cell wall
+        - a rigid layer of polysaccharides lying outside the plasma membrane of
+          the cells of plants, fungi, and bacteria. In the algae and higher
+          plants it consists mainly of cellulose.
+    - Plasmid
+        - small segment ring of DNA, (only present in prokaryotes)
+        - Ring-shaped
+        - Found int cytoplasm
+        - Only enough DNA for 1 or 2 proteins
+        - Can be exchanged among cells, can be replicated independently of the
+          whole cell
+
+Bacterial shapes - see bacterial-shapes.txt
+
+Gram Staining - see gram-stain.txt
+
+3 Domains to classify living things
+    - Bacteria (prokaryotes)
+    - Archaea (prokaryotes)
+    - Eukaryota
+
+Whittaker 5 Kingdom
+    - Plants, Fungi, Animals at top (eukaryotes)
+    - Protistans at middle (eukaryotes)
+    - Monerans at bottom (prokaryotes)
+
+Protist examples
+    - Volvox (death star)
+    - Stentor (paddle-shaped)
+    - Amoeba
+        - Animal-like protist
+    - Euglena (like animal cells, non-geometric shapes)
+        - Plant-like protist
+    - Scenedesmus (green disk-like stacks)
+    - Paramecium (boot-shaped)
+    - Slime mold
+        - Fungi-like protist
+
+Bacteria                  | Archaea            | Eukaryotes
+--------------------------------------------------------------------------------
+Nucleoid                                       | Nucleus
+Circular Chromosomes (in nucleoid)             | Linear Chromosomes (in nucleus)
+Plasmids                                       | No plasmids
+No organelles (generally)                      | Many organelles
+Rotary Flagellum (spins)                       | Undulatory Flagellum (waves)
+Fatty acid-based          | Isoprene-based     | Fatty acid-based phospholipid
+    phospholipid          |     phospholipid   |
+Peptidoglycans            | No peptidoglycans, if walls are present, they are
+                          |     made of other polysaccharides
+No histone proteins       | Histone proteins present in cells
+                          | Shared feature of protein synthesis
