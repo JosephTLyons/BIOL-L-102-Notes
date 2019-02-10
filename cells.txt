@@ -115,3 +115,36 @@ Peptidoglycans            | No peptidoglycans, if walls are present, they are
                           |     made of other polysaccharides
 No histone proteins       | Histone proteins present in cells
                           | Shared feature of protein synthesis
+
+* Know similarities and differences: bacteria and archaea, bacteria and
+Eukaryotes, archaea and eukaryotes
+
+First amino acid in the sequence for archaea and eukaryotes: methionine
+Ribosomes of eukaryotes and archaea are more similar than the ribosomes of
+bacteria.
+
+Flagella
+    - prokaryotes
+        - Flagella in prokaryotes extend out of the shell
+        - Rotate
+        - Aren't considered organelles, since they have no membrane.
+        - They are anchored in the cell membrane / cell wall.
+    - Eukaryotes
+        - Flagella in eukaryotes are covered by membrane
+        - Undulate (move in waves).
+        - Are considered organelles
+        - They are anchored to basal bodies, which are centriole-like structures
+          inside the cytoplasm.
+
+LUCA = Last Universal Common Ancestor - an ancestor that links prokaryotes and
+eukaryotes (more than likely a billion years ago or more)
+
+Cell Walls
+    - Animal: no cell wall
+    - Plant: wall made of cellulose
+    - Fungi: wall made of chitin
+        - Cells arranged in linear, branching threads called “hyphae”
+            - Septate hyphae - is separated into compartments
+            - Coenocytic hyphae - is not separated into compartments
+
+Cellular Respiration - see cellular-respiration.txt
