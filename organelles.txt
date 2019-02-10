@@ -58,8 +58,8 @@ Organelles
 
     05. Centrosomes
         - Not technically an organelle (not surrounded by a membrane)
-        - Consists of 2 cylindrical centrioles composed primarily of tubulin
-          protein positioned at right angles to each other.
+        - Consists of 2 cylindrical centrioles (only in animals) composed
+          primarily of tubulin protein positioned at right angles to each other.
         - Play a role in establishing and organizing microtubule networks in the
           cell cytoskeleton that assist in the movement of objects within the
           cell (especially apparent during cell division)
