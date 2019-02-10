@@ -39,7 +39,7 @@ Organelles
             - Membrane folds are irregular forming circular pockets
             - Major site of lipid synthesis and detoxification
 
-    04. Golgi Apparatus - ?
+    04. Golgi Apparatus - Processes proteins from the ER, packages / ships them
         - Cisternae - elongated chamber surrounded by single membrane
             - Lumen - interior
             - A tight stack of cisternae make up the golgi apparatus
@@ -69,7 +69,7 @@ Organelles
     06. Lysosomes
         - Contain enzymes for hydrolysis reaction (breaking of a bond using
           water molecule - opposite of dehydration reaction) allowing it to
-          break down and recycle various macromolecules
+          break down and recycle various macromolecules, including proteins
         - Internal PH is more acidic than pH of cytoplasm
 
     07. Peroxisomes
