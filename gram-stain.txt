@@ -1,0 +1,17 @@
+Gram Staining (identifying different kinds of cell wall)
+    1) Get cultures of bacteria
+    2) Heat fix cells
+    3) Apply crystal violet (purple)
+        - stains peptidoglycans (polymers of beta-glucose) of single
+          phospholipid bilayer cells and outer layer of cells with two
+          phospholipid bilayer
+    4) Mordant (iodine) - fixes crystal violet to peptidoglycans, but doesn't
+       fix crystal violet to outer layers of cells with two phospholipid
+       bilayers
+    5) Decolorizer (ethanol) - washes off crystal violet from cells that it is
+       not fixed to (the cells with two phospholipid bilayers)
+    6) Counterstain with safranin (pink) - stains both, but more so the cells
+       with two phospholipid bilayers, and the color isn't as noticeable in the
+       cells with peptidoglycan outer layer since it is already stained purple.
+    Purple = gram positive
+    Pink = gram negative
