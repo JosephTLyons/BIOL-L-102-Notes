@@ -144,6 +144,8 @@ Cell Walls
     - Plant: wall made of cellulose
     - Fungi: wall made of chitin
         - Cells arranged in linear, branching threads called “hyphae”
+            - fruiting body - reproductive structures made of hyphae
+            - mycelia - loosely bundled mass of hyphae
             - Septate hyphae - is separated into compartments
             - Coenocytic hyphae - is not separated into compartments
 
