@@ -1,0 +1,65 @@
+Cellular Respiration (short overview)
+- Objective of cellular respiration is to obtain the energy stored in the
+  covalent bonds between carbon atoms (glucose specifically in example below)
+  and use that energy to convert ADP to ATP.
+
+Energy storage molecules:
+
+    Low energy forms    High energy forms
+    -------------------------------------
+    NAD              -> NADH
+    FAD              -> FADHsub(2)
+    ADP              -> ATP
+
+ATP (Adenosine Triphosphate - a nucleotide)
+    - Has high potential energy and allows cells to overcome life's energy
+      barriers.
+
+Net reaction:
+
+    C6-H12-O2 + 6 O2 -> 6 CO2 + 6 H20 + ATP (many)
+    (glucose)
+
+        Broken down into 2 sub-reactions:
+
+        1) C6-H12-O2 -> 6 CO2             |  2) 6 O2        -> 6 H20
+           ----------||-----------        |     ------------||-----------
+           ADP       -> ATP (some)        |     ADP         -> ATP (lots)
+           NAD       -> NADH              | ->  NADH        -> NAD
+           FAD       -> FADHsub(2)        | ->  FADHsub(2)  -> FAD
+                                          |
+        C-C-C-C-C-C  -> C02-CO2-C02-CO2-  |  NOTE: Most ATP production happens
+                        C02-CO2           |  here in 2nd sub-reaction
+                                          |
+                                          |
+        Every time covalent bonds break,  |
+        as in breaking them in glucose    |
+        above, energy is created.  Which  |
+        is why high energy forms of each  |
+        item is created.                  |
+
+================================================================================
+
+Full Cellular Respiration Process (aerobic - when oxygen is present):
+
+1) Glycolysis (produces some ATP and some NADH)
+    - "lysis" - to break apart
+    - so Glycolysis means to break apart glucose
+
+    1) One six-carbon glucose molecule is broken down into two three-carbon
+       molecules called pyruvates.
+
+       C-C-C-C-C-C -> C-C-C and C-C-C
+       2 ATP       -> 4 ATP
+
+        - ATP is produced from ADP and Psub(i)
+        - NAD is reduced to NADH
+
+2) Oxidative decarboxylation (pyruvate oxidation)
+3) Krebs cycle (citric acid cycle)
+4) Oxidative phosphorylation (electron transport chain, chemiosmosis)
+
+Net reaction:
+C6-H12-O2 + 6 O2 -> 6 CO2 + 6 H20 + ATP (many)
+
+Full Fermentation Process Process (anaerobic - when oxygen is not present):
