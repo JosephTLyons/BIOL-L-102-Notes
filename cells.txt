@@ -138,6 +138,7 @@ Flagella
 
 LUCA = Last Universal Common Ancestor - an ancestor that links prokaryotes and
 eukaryotes (more than likely a billion years ago or more)
+    - Would've probably has circular chromosome, rotary flagella, plasmids, etc.
 
 Cell Walls
     - Animal: no cell wall
