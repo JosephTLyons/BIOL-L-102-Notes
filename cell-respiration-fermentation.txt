@@ -28,8 +28,8 @@ Net reaction:
            NAD       -> NADH              | ->  NADH        -> NAD
            FAD       -> FADHsub(2)        | ->  FADHsub(2)  -> FAD
                                           |
-        C-C-C-C-C-C  -> C02-CO2-C02-CO2-  |  NOTE: Most ATP production happens
-                        C02-CO2           |  here in 2nd sub-reaction
+        C-C-C-C-C-C  -> C02 CO2 C02 CO2   |  NOTE: Most ATP production happens
+                        C02 CO2           |  here in 2nd sub-reaction
                                           |
                                           |
         Every time covalent bonds break,  |
