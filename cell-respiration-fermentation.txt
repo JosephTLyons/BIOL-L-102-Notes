@@ -72,12 +72,12 @@ Full Cellular Respiration Process (aerobic - when oxygen is present):
                pyruvate (yeast) -> CO2 + ethanol
                C-C-C            -> C     C-C
 
-                    glycolysis
-            Glucose     ->     Pyruvate ----> Fermentation end product
-            NAD --------------> NADH
-            ^                    |
-            |____________________|
-            +2 ATP
+                       glycolysis
+               Glucose     ->     Pyruvate ----> Fermentation end product
+               NAD --------------> NADH
+               ^                    |
+               |____________________|
+               +2 ATP
 
 2) Oxidative decarboxylation (pyruvate oxidation)
     - Begins to move into the mitochondria, which requires energy to pass double
