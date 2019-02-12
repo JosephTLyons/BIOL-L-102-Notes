@@ -112,12 +112,11 @@ Full Cellular Respiration Process (aerobic - when oxygen is present):
     Acetyl CoA      |       Citric Acid
         -----       |               -----
     C-C-|CoA| ------------> C-C-C-C-|C-C|
-        -----         /             -----
-                      |        |
-    Oxaloacetate      |        v
-    C-C-C-C ----------|     C-C-C-C-C-C
-    ^                         |      |                      1 ATP,
-    |                         v       -> Break this         Some NADH,
+        -----         /       |     -----
+                      |       v
+    Oxaloacetate      |     C-C-C-C-C-C
+    C-C-C-C ----------|       |      |                      1 ATP,
+    ^                         v       -> Break this         Some NADH,
     |                       C-C-C-C-C                       Some FADHsub(2)
     |                         |    |
     --------------------------      -> Break This
