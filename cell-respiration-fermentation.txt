@@ -91,7 +91,7 @@ Full Cellular Respiration Process (aerobic - when oxygen is present):
        |                            |   |            ^                 -----
         break here to create energy |   | Coenzyme A-|
         pass double membrane        |   |
-                                    |   | Each glucose has 2 pyruvtates, so:
+                                    |   | Each glucose has 2 pyruvates, so:
     Uses NAD                        |   |
 
                                 CoA --|
