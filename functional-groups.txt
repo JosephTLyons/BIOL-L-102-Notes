@@ -7,4 +7,4 @@ Carbonyl          | CO                | Attached to an inner carbon: keytones
 Hydroxyl          | OH                | Alcohols
 Phosphate         | POsub(4)super(3-) | Organic Phosphates
 sulfhydryl        | SH                | Thiols
-Methyl            | CH3               | Alkane
+Methyl            | CH3               | Alkanes
