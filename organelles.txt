@@ -74,11 +74,12 @@ Organelles
 
     07. Peroxisomes
         - Contain enzymes that break down fatty acids and other non-polymer
-          molecules through oxidation or redox reactions (different from
-          condensation or hydrolysis reactions); these reactions produce highly
-          reactive products, such as hydrogen peroxide, which would be dangerous
-          if they were allowed to enter the cytoplasm; the peroxisome contains
-          enzymes that render these reactive products harmless
+          molecules through oxidation (losing of electrons) or redox reactions
+          (different from condensation or hydrolysis reactions); these reactions
+          produce highly reactive products, such as hydrogen peroxide, which
+          would be dangerous if they were allowed to enter the cytoplasm; the
+          peroxisome contains enzymes that render these reactive products
+          harmless
 
     08. Vacuoles (plant feature)
         - A large organelle in plant or fungal cells that can serve multiple
