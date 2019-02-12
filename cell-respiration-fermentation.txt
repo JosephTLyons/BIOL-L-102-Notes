@@ -102,6 +102,8 @@ Full Cellular Respiration Process (aerobic - when oxygen is present):
                           C-C-C       -> C-C            C
                           2 NAD       -> 2 NADH
 
+    NOTE: No ATP is made during this step
+
 3) Krebs cycle (citric acid cycle)
     - Occurs in the mitochondrion and requires oxygen
 4) Oxidative phosphorylation (electron transport chain, chemiosmosis)
