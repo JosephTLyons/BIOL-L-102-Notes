@@ -121,7 +121,11 @@ Full Cellular Respiration Process (aerobic - when oxygen is present):
     |                         |    |
     --------------------------      -> Break This
 
-Net reaction:
-C6-H12-O2 + 6 O2 -> 6 CO2 + 6 H20 + ATP (many)
+--------------------------------------------------------------------------------
+Steps 1 through 3 collectively break down glucose into 6 CO2 molecules.
+Energy released by this process gets converted mostly into NADH and FADHsub(2),
+    you do get some ATP however, but only a small amount.
+--------------------------------------------------------------------------------
+
 
 Full Fermentation Process Process (anaerobic - when oxygen is not present):
