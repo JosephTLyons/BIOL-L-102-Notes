@@ -80,7 +80,28 @@ Full Cellular Respiration Process (aerobic - when oxygen is present):
             +2 ATP
 
 2) Oxidative decarboxylation (pyruvate oxidation)
+    - Begins to move into the mitochondria, which requires energy to pass double
+      membrane
+
+    Cytosol           Mitochondrion Double Cell Membrane    Mitochondrial Matrix
+    ----------------------------------------------------------------------------
+                                    |   |    --> CO2 + NADH        Acetyl CoA
+    Pyruvate                        |   |   |                      |   -----
+    C-C-C   ------------------------|---|------------------------> C-C-|CoA|
+       |                            |   |            ^                 -----
+        break here to create energy |   | Coenzyme A-|
+        pass double membrane        |   |
+                                    |   | Each glucose has 2 pyruvtates, so:
+    Uses NAD                        |   |
+
+                                CoA --|
+                                      v
+                          2 pyruvates -> 2 acetyl CoA + 2 CO2
+                          C-C-C       -> C-C            C
+                          2 NAD       -> 2 NADH
+
 3) Krebs cycle (citric acid cycle)
+    - Occurs in the mitochondrion and requires oxygen
 4) Oxidative phosphorylation (electron transport chain, chemiosmosis)
 
 Net reaction:
