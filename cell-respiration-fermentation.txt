@@ -103,8 +103,3 @@ Full Cellular Respiration Process (aerobic - when oxygen is present):
 3) Krebs cycle (citric acid cycle)
     - Occurs in the mitochondrion and requires oxygen
 4) Oxidative phosphorylation (electron transport chain, chemiosmosis)
-
-Net reaction:
-C6-H12-O2 + 6 O2 -> 6 CO2 + 6 H20 + ATP (many)
-
-Full Fermentation Process Process (anaerobic - when oxygen is not present):
