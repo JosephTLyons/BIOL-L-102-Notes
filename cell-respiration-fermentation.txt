@@ -45,8 +45,8 @@ Full Cellular Respiration Process (aerobic - when oxygen is present):
 1) Glycolysis (produces some ATP and some NADH)
     - "lysis" - to break apart; so Glycolysis means to break apart glucose
     - Takes place in the cytoplasm
-    - Consumes 2 ATP, but produces 4 ATP per glucose, therefore, net yield 2 ATP
-      per glucose and 2 NADH.
+    - Consumes 2 ATP (which become ADP), but produces 4 ATP per glucose,
+      therefore, net yield 2 ATP per glucose and 2 NADH.
 
     One six-carbon glucose molecule is broken down into two three-carbon
     molecules called pyruvates.
