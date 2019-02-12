@@ -1,7 +1,7 @@
 Functional Groups | Formula           | Family of Molecules
 --------------------------------------------------------------------------------
 Amino             | NH2               | Amines
-Carboxyl          | COOH              | Carboxylic Acid
+Carboxyl          | COOH              | Carboxylic Acids
 Carbonyl          | CO                | Attached to an inner carbon: keytones
                   |                   | Attached to a terminal carbon: aldehydes
 Hydroxyl          | OH                | Alcohols
