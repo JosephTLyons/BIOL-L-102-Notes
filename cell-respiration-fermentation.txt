@@ -105,8 +105,22 @@ Full Cellular Respiration Process (aerobic - when oxygen is present):
     NOTE: No ATP is made during this step
 
 3) Krebs cycle (citric acid cycle)
-    - Occurs in the mitochondrion and requires oxygen
-4) Oxidative phosphorylation (electron transport chain, chemiosmosis)
+    - Occurs in the matrix of the mitochondrion and requires oxygen
+
+                     -> CoA comes off and can be used again in step 2
+                    |
+    Acetyl CoA      |       Citric Acid
+        -----       |               -----
+    C-C-|CoA| ------------> C-C-C-C-|C-C|
+        -----         /             -----
+                      |        |
+    Oxaloacetate      |        v
+    C-C-C-C ----------|     C-C-C-C-C-C
+    ^                         |      |                      1 ATP,
+    |                         v       -> Break this         Some NADH,
+    |                       C-C-C-C-C                       Some FADHsub(2)
+    |                         |    |
+    --------------------------      -> Break This
 
 Net reaction:
 C6-H12-O2 + 6 O2 -> 6 CO2 + 6 H20 + ATP (many)
