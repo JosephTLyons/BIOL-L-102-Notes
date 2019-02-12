@@ -43,17 +43,41 @@ Net reaction:
 Full Cellular Respiration Process (aerobic - when oxygen is present):
 
 1) Glycolysis (produces some ATP and some NADH)
-    - "lysis" - to break apart
-    - so Glycolysis means to break apart glucose
+    - "lysis" - to break apart; so Glycolysis means to break apart glucose
+    - Takes place in the cytoplasm
+    - Consumes 2 ATP, but produces 4 ATP per glucose, therefore, net yield 2 ATP
+      per glucose and 2 NADH.
 
-    1) One six-carbon glucose molecule is broken down into two three-carbon
-       molecules called pyruvates.
+    One six-carbon glucose molecule is broken down into two three-carbon
+    molecules called pyruvates.
 
-       C-C-C-C-C-C -> C-C-C and C-C-C
-       2 ATP       -> 4 ATP
+    C-C-C-C-C-C -> C-C-C and C-C-C
+    ------------------------------
+    Glucose     -> Pyruvates
+    2 ATP       -> 4 ATP
 
-        - ATP is produced from ADP and Psub(i)
-        - NAD is reduced to NADH
+    - ATP is produced from ADP and Psub(i)
+    - NAD is reduced to NADH
+
+    Is oxygen available?
+        - Yes (aerobic): pyruvates go to oxidative decarboxylation step (step 2)
+        - No (anaerobic): Everything else is skipped and fermentation process
+                          occurs
+            - Fermentation process:
+            1) Lactic acid fermentation:
+                pyruvate -> lactate
+                C-C-C    -> C-C-C
+
+            2) Ethanol fermentation:
+               pyruvate (yeast) -> CO2 + ethanol
+               C-C-C            -> C     C-C
+
+                    glycolysis
+            Glucose     ->     Pyruvate ----> Fermentation end product
+            NAD --------------> NADH
+            ^                    |
+            |____________________|
+            +2 ATP
 
 2) Oxidative decarboxylation (pyruvate oxidation)
 3) Krebs cycle (citric acid cycle)
