@@ -14,6 +14,8 @@ Energy storage molecules:
 ATP (Adenosine Triphosphate - a nucleotide)
     - Has high potential energy and allows cells to overcome life's energy
       barriers.
+    - ATP is produced from ADP and Psub(i).  This makes sense because adenosine
+      triphosphate = adenosine diphosphate + 1 inorganic phosphate
 
 Net reaction:
 
@@ -42,11 +44,13 @@ Net reaction:
 
 Full Cellular Respiration Process (aerobic - when oxygen is present):
 
-1) Glycolysis (produces some ATP and some NADH)
+1) Glycolysis
     - "lysis" - to break apart; so Glycolysis means to break apart glucose
     - Takes place in the cytoplasm
-    - Consumes 2 ATP (which become ADP), but produces 4 ATP per glucose,
-      therefore, net yield 2 ATP per glucose and 2 NADH.
+
+    Inputs:  Glucose,     2 ATP, NAD
+    Outputs: 2 Pyruvates, 2 ADP, NADH, 4 ATP (per glucose)
+    - Net yield 2 ATP per glucose and 2 NADH.
 
     One six-carbon glucose molecule is broken down into two three-carbon
     molecules called pyruvates.
@@ -55,9 +59,6 @@ Full Cellular Respiration Process (aerobic - when oxygen is present):
     ------------------------------
     Glucose     -> Pyruvates
     2 ATP       -> 4 ATP
-
-    - ATP is produced from ADP and Psub(i)
-    - NAD is reduced to NADH
 
     Is oxygen available?
         - Yes (aerobic): pyruvates go to oxidative decarboxylation step (step 2)
@@ -80,8 +81,11 @@ Full Cellular Respiration Process (aerobic - when oxygen is present):
                +2 ATP
 
 2) Oxidative decarboxylation (pyruvate oxidation)
-    - Begins to move into the mitochondria, which requires energy to pass double
-      membrane
+    - Begins to move from cytosol into the mitochondria, which requires energy
+      to pass double membrane
+
+    Inputs:  Pyruvate, CoA,   NAD
+    Outputs: Acetyl CoA, CO2, NADH
 
     Cytosol           Mitochondrion Double Cell Membrane    Mitochondrial Matrix
     ----------------------------------------------------------------------------
@@ -96,7 +100,7 @@ Full Cellular Respiration Process (aerobic - when oxygen is present):
 
                           Each glucose has 2 pyruvates, so:
 
-                                CoA --|
+                              2 CoA --|
                                       v
                           2 pyruvates -> 2 acetyl CoA + 2 CO2
                           C-C-C       -> C-C            C
@@ -106,6 +110,9 @@ Full Cellular Respiration Process (aerobic - when oxygen is present):
 
 3) Krebs cycle (citric acid cycle)
     - Occurs in the matrix of the mitochondrion and requires oxygen
+
+    Inputs:  Acetyl CoA, NAD, FAD
+    Outputs: 1 ATP (per Acetyl CoA), CoA, NADH, FADHsub(2)
 
                      -> CoA comes off and can be used again in step 2
                     |
@@ -127,5 +134,80 @@ Energy released by this process gets converted mostly into NADH and FADHsub(2),
     you do get some ATP however, but only a small amount.
 --------------------------------------------------------------------------------
 
+4) Oxidative phosphorylation
 
-Full Fermentation Process Process (anaerobic - when oxygen is not present):
+    Inputs:  NADH, FADHsub(2) [electron donors: these power ETC]
+    Outputs: NAD,  FAD, H^+ (mixes with O2 to make), H2O, ATP (lots)
+
+    NADH and FADHsub(2) are electron donors
+    O2 is electron acceptor -> Forms H2O
+
+    1) Electron Transport Chain
+
+    Uses a series of proteins in the membrane of the crista
+
+    ============================================================================
+
+        Mitochondrion double wall                               matrix
+        |  |                  -        ----
+        |  |                 |Q|      |CytC|
+        |  |                  -        ----
+        |  |
+        |   \----------O------O------O------O---------------------------------\
+        |    Complex:  i      ii     iii    iv                                 |
+        |              |             |      |                                  |
+        |              v             v      v                                  |
+        |            4 H^+         4 H^+  2 H^+  -------------v                |
+        |       pumped from the matrix into IMS              ----              |
+        |                                                   |    |             |
+        |   /-----------------------------------------------|    |------------/
+        |  |        ^                                       |    |
+        |  | crista-|                                        ---- <-ATP Synthase
+        |  |                                                  ||
+        |  |                                                 ----
+                                matrix                      |    |
+                                                             ----
+                                                        ADP + Psub(i) = ATP
+
+    NOTE: Not a fully illustrative example; it is missing FADH and NADHsub(2)
+          portions
+    ============================================================================
+
+        Q = ubiquinone
+        CytC = Cytochrome C
+
+        Complex i:
+            - Takes electrons from NAHD, passes to Q, pumps 4 H^+ into
+              intermembrane space
+        Complex ii:
+            - Takes electrons from FADHsub(2), passes to Q, does not pump H^+
+        Complex iii:
+            - Takes electrons from Q, passes them to CytC, pumps 4 H^+ ions into
+              intermembrane space
+        Complex iv:
+            - Takes electrons from Cyt C, pumps 2 H^+ ions into intermembrane
+              space, also, passes electrons to oxygen, where
+
+        For each NADH, 10 H^+ gets pumped across membrane
+        For each FADHsub(2), 6 H^+ gets pumped across membrane
+
+        Summary: Energy from NADH and FADHsub(2) used to generate [H^+]
+        gradient.
+
+    2) Chemiosmosis
+        The portion of this process that uses the [H^+] gradient to do work.
+        Difference in [H^+], higher [H^+] in intermembrane space forces ATP
+        synthase (turbine) to spin as they exit, which then puts ADP and Psub(i)
+        together to form ADP.
+
+        Summary: The [H^+] gradient is used to activate ATP synthase; H^+ ions
+        diffuse through a channel in the middle of ATP synthase, causing it to
+        rotate, an action which mechanically attaches Psub(i) to ADP to make
+        ATP.
+
+Final Short Recap of Products (On page 27 of notes below Krebs cycle)
+
+    2 ATP from Glycolysis + 2 from Krebs + 34 from Oxidative Phosphorylation
+        total = 38 ATP from one Glucose molecule
+
+    FINISH THIS SECTION
