@@ -177,16 +177,18 @@ Energy released by this process gets converted mostly into NADH and FADHsub(2),
         CytC = Cytochrome C
 
         Complex i:
-            - Takes electrons from NAHD, passes to Q, pumps 4 H^+ into
+            - Takes electrons from NAHD (donor), passes to Q, pumps 4 H^+ into
               intermembrane space
         Complex ii:
-            - Takes electrons from FADHsub(2), passes to Q, does not pump H^+
+            - Takes electrons from FADHsub(2) (donor), passes to Q, does not
+              pump H^+
         Complex iii:
             - Takes electrons from Q, passes them to CytC, pumps 4 H^+ ions into
               intermembrane space
         Complex iv:
             - Takes electrons from Cyt C, pumps 2 H^+ ions into intermembrane
-              space, also, passes electrons to oxygen, where
+              space, also, passes electrons to oxygen (acceptor), where it
+              becomes H20.
 
         For each NADH, 10 H^+ gets pumped across membrane
         For each FADHsub(2), 6 H^+ gets pumped across membrane
