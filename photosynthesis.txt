@@ -1,0 +1,24 @@
+Photosynthesis
+
+A plant cell's chloroplast captures light energy and converts it to ATP or
+glucose, during this process, O2 is produced and CO2 is consumed.
+
+Photosynthesis
+
+          Light Energy
+               |
+               v
+6 CO2 + 6 H2O -> C6-H12-O6 + 6 O2
+
+This process produces oxygen as a waste product.
+
+The overall process of photosynthesis consists of 2 key steps:
+    1) Light-Dependent Reaction (aka Light Reaction, Z-scheme)
+        6 H2O -> 6 O2
+    2) Light-Independent Reaction (aka Calvin Cycle, Dark Reaction)
+        6 CO2 -> C6-H12-O6
+
+The Calvin Cycle can be divided into 3 steps:
+	1) Fixation
+    2) Reduction
+    3) Regeneration
