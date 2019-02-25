@@ -1,0 +1,67 @@
+Bones:
+    Terms:
+        - Articulation: a point in which bones make contact
+
+    - Head:
+        - Frontal: forehead region
+        - Temporal: above the ear
+        - Parietal: upper back of the head
+        - Occipital: bottom back of the head
+        - Lacrimal: tear duct region
+        - Mandible: jaw bone
+        - Maxilla: bone upper teeth are attached to
+
+    - Shoulder:
+        - Scapula: shoulder bone
+
+    - Arm:
+        - Humerus: Upper arm that connects to shoulder socket and ulna
+        - Ulna: (wrench) connects to humerus, pairs with the radius
+        - Radius: makes up the wrist bone and pairs with the ulna
+
+    - Leg:
+        - Femur: leg bone that connects hip to knee
+        - Tibia: larger weight-bearing bone that attaches to femur and runs down
+                 to the ankle, pairs with the fibula
+        - Fibula: smaller bone that pairs with the tibia
+
+    - Hip:
+        - Ilium: uppermost largest part of the hip bone
+        - Ischium: the curved bone forming the base of each half of the pelvis
+        - Pubis: two bones (on the left and right side) that connect to the
+                 pubic symphysis (lower center pelvic bone)
+
+    - Mouth:
+        - Teeth:
+            - Incisors: Snipping (scissor-like) teeth (front row for humans)
+            - Canines: Pointer teeth in front left and right (dog-like)
+            - Pre-molars: Between canines and molars, look like molars
+            - Molars: Very back teeth, used for grinding and mashing
+
+            - Classifications based on types of teeth:
+                - Homodont: Teeth are of one type
+                    - if all incisors, likely a carnivore
+                    - if all molars, likely a herbivore
+
+                - Heterodont: Teeth can be a variety of types
+                    - indicates a variety of diets
+
+        - Diastema: gap in the mouths of herbivores
+
+    - Vertebrae (top-down order)
+        - Cervical: neck region
+            - Atlas: holds up the head (Atlas "holds the globe")
+            - Axis: next bone that allows rotation of the head
+        - Thoracic: chest region
+        - Lumber: lower back region
+        - Sacral: hip area
+        - Caudal: tail bone in species that have tails
+
+================================================================================
+
+Printed sheet items (slide 5)
+Lab Items
+Know vertebrae order
+Slide items
+    - All of them
+    - Focus on slide 5, 37
