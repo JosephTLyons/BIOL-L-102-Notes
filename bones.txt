@@ -1,6 +1,10 @@
 Bones:
     Terms:
         - Articulation: a point in which bones make contact
+        - Condyles: smooth, rounded bulges, site of articulation
+        - Fossae: indented area for articulation, to provide room for muscle
+        - Process: bumps or ridges, sites of muscle attachments
+        - Foramina: holes for nerves, blood vessels
 
     - Head:
         - Frontal: forehead region
