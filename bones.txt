@@ -59,7 +59,8 @@ Bones:
         - Thoracic: chest region
         - Lumber: lower back region
         - Sacral: hip area
-        - Caudal: tail bone in species that have tails
+        - Caudal: bones of the tail (these are fussed in humans and are
+                  referred to as the coccyx)
 
 ================================================================================
 
