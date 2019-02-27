@@ -1,13 +1,17 @@
 Bones:
     Terms:
         - Homologous Traits:
-            Features that are shared among animals because they inherited them
+            features that are shared among animals because they inherited them
             from a common ancestor
 
         - Convergent Evolution:
             traits that are similar in structure due to similar selective
             pressures. They are not similar because inherited from a common
             ancestor.
+
+            the process whereby organisms not closely related independently
+            evolve similar traits as a result of having to adapt to similar
+            environments or ecological niche
 
         - Adaptive Radiation:
             related organisms that have evolved different traits because of
