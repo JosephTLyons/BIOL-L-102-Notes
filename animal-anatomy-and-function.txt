@@ -1,21 +1,22 @@
 Bones:
     Terms:
-        - Homologous Traits: Features that are shared among animals because
-                             they inherited them from a common ancestor
+        - Homologous Traits:
+            Features that are shared among animals because they inherited them
+            from a common ancestor
 
-        - Convergent Evolution: traits that are similar in structure due to
-                                similar selective pressures. They are not
-                                similar because inherited from a common
-                                ancestor.
+        - Convergent Evolution:
+            traits that are similar in structure due to similar selective
+            pressures. They are not similar because inherited from a common
+            ancestor.
 
-        - Adaptive Radiation: related organisms that have evolved different
-                              traits because of differences in their ecology
-                              (resulting in experiencing different natural
-                              selection pressures).
-
+        - Adaptive Radiation:
+            related organisms that have evolved different traits because of
+            differences in their ecology (resulting in experiencing different
+            natural selection pressures).
+        ========================================================================
         - Axial: bones of the skull, vertebral column, and rib cage
         - Appendicular: bones of the upper and lower limbs, shoulder, and hip
-
+        ========================================================================
         - Articulation: a point in which bones make contact
         - Condyles: smooth, rounded bulges, site of articulation
         - Fossae: indented area for articulation, to provide room for muscle
