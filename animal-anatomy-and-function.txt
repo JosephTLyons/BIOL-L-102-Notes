@@ -1,5 +1,8 @@
 Bones:
     Terms:
+        - Axial: bones of the skull, vertebral column, and rib cage
+        - Appendicular: bones of the upper and lower limbs, shoulder, and hip
+
         - Articulation: a point in which bones make contact
         - Condyles: smooth, rounded bulges, site of articulation
         - Fossae: indented area for articulation, to provide room for muscle
