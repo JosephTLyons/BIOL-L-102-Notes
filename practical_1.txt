@@ -52,7 +52,7 @@ Practical 1 Items to Know:
     2) Internal and External anatomy of crayfish (know structures and their function)
         - Be able to identify sex (use lab manual to figure these out)
     3) Invertebrate phyla (know diagnostic characteristics for each phyla and know body plans)
-        - Porifera: ("pore-bearing")
+        [] Porifera: ("pore-bearing")
             - Common name: sponges
             - Examples: ?
             - Body Plan:
@@ -77,7 +77,7 @@ Practical 1 Items to Know:
                 - Sessile: rooted in a single spot
                 - Digest cells intracellularly
 
-        - Cnidarian
+        [] Cnidarian
             - Common name: ?
             - Examples: Jellyfish, Sea Anemones, Hydra, Coral
             - Body Plan:
@@ -94,72 +94,72 @@ Practical 1 Items to Know:
 
             - Other Key Features:
 
-        - Platyhelminthes
+        [] Platyhelminthes
             - Common name: Flatworms
             - Examples: Tapeworm (a parasitic flatworm)
             - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
             - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
             - Other Key Features:
 
-        - Mullusca
+        [] Mullusca
             -Classes:
-                - Bivalves
+                [] Bivalves
                     - Common name:
                     - Example: ?
                     - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
                     - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
                     - Other Key Features:
-                - Gastropods
+                [] Gastropods
                     - Common name:
                     - Example: ?
                     - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
                     - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
                     - Other Key Features:
-                - Cephalopods
+                [] Cephalopods
                     - Common name:
                     - Example: ?
                     - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
                     - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
                     - Other Key Features:
-        - Nematoda
+        [] Nematoda
             - Common name:
             - Examples: ?
             - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
             - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
             - Other Key Features:
-        - Annelida
+        [] Annelida
             - Common name:
             - Examples: ?
             - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
             - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
             - Other Key Features:
-        - Anthropoda
+        [] Anthropoda
             - Classes:
-                - Crustacea
+                [] Crustacea
                     - Common name:
                     - Examples: ?
                     - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
                     - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
                     - Other Key Features:
-                - Chelicerata
+                [] Chelicerata
                     - Common name:
                     - Examples: ?
                     - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
                     - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
                     - Other Key Features:
-                - Insecta
+                [] Insecta
                     - Common name:
                     - Examples: ?
                     - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
                     - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
                     - Other Key Features:
-                - Myriapoda
+                [] Myriapoda
                     - Common name:
                     - Examples: ?
                     - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
                     - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
                     - Other Key Features:
-        - Echinodermata
+        [] Echinodermata
             - Common name:
             - Examples: ?
             - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
