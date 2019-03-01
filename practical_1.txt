@@ -1,0 +1,108 @@
+Practical 1 Items to Know:
+* Spelling is not a great issue with this lab professor
+
+    - Lab 3:
+        - All items surrounding Lab 3
+        - Know the difference in prokaryotes and eukaryotes
+            - Eukaryote is much bigger, has organelles, and nucleus
+            - Prokaryotes are much smaller, lack organelles, no nucleus
+        - Whittaker 5 kindgom model
+        - Taxonomic ranks
+            - KPCOFGS
+                - Kingdom
+                - Phylum
+                - Class
+                - Order
+                - Family
+                - Genus
+                - Species
+        - Be able to look at slide and tell what sort of bacteria
+            - gram positive = purple | gram negative = pink
+                - see: gram-stain.txt
+            - all bacteria is prokaryote
+            - see: bacterial-shapes.txt
+            - Be able to recognize all the protists
+                - see: cells.txt (protist examples) and midterm 1
+    - Lab 7:
+        1) Internal and External anatomy of squid (know structures and their function)
+            - Be able to identify sex (use lab manual to figure these out)
+        2) Internal and External anatomy of crayfish (know structures and their function)
+            - Be able to identify sex (use lab manual to figure these out)
+        3) Invertebrate phyla (know diagnostic characteristics for each phyla and know body plans)
+            - Porifera: ("pore-bearing")
+                - Common name: sponges
+                - Example: ??****??
+                - Features:
+                    - Asymmetrical
+                    - Lack of true tissue
+                    - If broken down to the level of their cells, they can
+                      reassemble themselves.
+                    - Food is harvested from water
+                - Parts
+                    - Osculum: main opening at top to eject water pulled in from
+                      from pores (ostia)
+                    - Ostium: pores on the sponge that pull in water
+                    - Spongocoel: Large central cavity of sponges.
+                    - Spicules: Sharp 3 pointed-star item made of silicone
+                - Diagnostic characteristics: ??****??
+                - Body plans: ??****??
+            - Cnidarian
+            - Platyhelminthes
+                Common Name: Flatworms
+                Example: Tapeworm (a parasitic flatworm)
+            - Mullusca
+                -Classes:
+                    - Bivalves
+                    - Gastropods
+                    - Cephalopods
+            - Nematoda
+            - Annelida
+            - Anthropoda
+                - Classes:
+                    - Crustacea
+                    - Chelicerata
+                    - Insecta
+                    - Myriapoda
+            - Echinodermata
+    - Lab 8:
+        1) General concepts in lab:
+            - Homology
+            - Convergent evolution
+            - Adaptive radiation
+        2) Skeleton of cat and human
+            - know all things here: animal-anatomy-and-function.txt
+            - be able to differentiate between the cat vertebrae
+            - Use lab 7 quiz as well
+
+            - be able to identify each bone
+            - be able to connect structure of bone to function
+        3) Mammalian teeth and skull features
+            - Heterodont: (incisors, canines, pre-molars, molars)
+            - Homodont: (fish, reptiles)
+            - Be able to classify skulls as omnivore, herbivore, or carnivore
+            - Be able to relate skull, jaw, and tooth features to diet
+                - Angle of jaw articulation
+                - Temporalis and masseter muscle attachments
+                - Cononiod process
+                - Structure of canines, molars, presence / absence of diastema
+
+================================================================================
+
+Others / Unorganized
+
+Printed sheet items (slide 5)
+Lab Items
+Know vertebrae order
+Slide items
+    - All of them
+    - Focus on slide 5, 37
+
+Important Points:
+    - Know the skeleton
+    - Know the teeth
+    - Be able to tell differences between carnivores, herbivores, omnivores
+
+
+
+References:
+    animal-anatomy-and-function.txt

@@ -2,7 +2,7 @@ Gram Staining (identifying different kinds of cell wall)
     1) Get cultures of bacteria
     2) Heat fix cells
     3) Apply crystal violet (purple)
-        - stains peptidoglycans (polymers of beta-glucose) of single
+        - stains peptidoglycans (beta-glucose polymer - cell wall) of single
           phospholipid bilayer cells and outer layer of cells with two
           phospholipid bilayer
     4) Mordant (iodine) - fixes crystal violet to peptidoglycans, but doesn't

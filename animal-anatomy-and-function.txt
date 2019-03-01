@@ -63,6 +63,9 @@ Bones:
             - Pre-molars: Between canines and molars, look like molars
             - Molars: Very back teeth, used for grinding and mashing
 
+            - Carnassial: molars that are shaped like triangles / incisors for
+                          cutting meat (carnivores)
+
             - Classifications based on types of teeth:
                 - Homodont: Teeth are of one type
                     - if all incisors, likely a carnivore
@@ -70,6 +73,7 @@ Bones:
 
                 - Heterodont: Teeth can be a variety of types
                     - indicates a variety of diets
+                    - All mammals are heterodonts; all heterodonts are mammals
 
         - Diastema: gap in the mouths of herbivores
 
@@ -107,3 +111,7 @@ Muscles
         - Near the top of the head
             - if this is larger and the masseter is smaller, then it is probably
               a meat-eater, or carnivore
+
+        - Related item: Sagittal crest - ridge running lengthwise along the
+          middle top of the skull.  Indicates a very strong bite, as its purpose
+          is to connect to the temporalis muscle
