@@ -101,12 +101,29 @@ Posterior: located to the back, or in back of
         - Refer to image in Lab7_Squid_Crayfish_InvertPhylaMaterials.pptx
 
         - Orientation
-            - Anterior:
-            - Posterior:
-            - Dorsal:
-            - Ventral:
+            - Anterior: side of shell segments
+            - Posterior: side of swimmerets
+            - Dorsal: tail side
+            - Ventral: chela side
 
         - Structures and their functions
+            - Compound eye and eyestalk
+            - Male has hard swimmerets
+            - Female has soft swimmerets and an opening just above them
+            - Cephalothorax: main body (where legs and pinchers attach)
+            - Abdomen: lower body (tail region, swimmeret region)
+            - Open heart system
+            - Cardiac stomach: right behind eyes, is in the head
+            - Pyloric stomach: right behind the cardiac stomach
+            - Digestive glands surround the pyloric stomach
+            - Gills are on the left and right side of the heart
+            - Heart in lower cephalothorax
+            - Ovaries or testes are in the same region as heart, but under it
+            - Separate mouth and anus
+            - Uropod: flaps on either side of the tail (telson)
+            - Telson: last segment in the tail
+            - 8 walking legs
+            - 2 Chela (pinchers)
 
 
     3) Invertebrate phyla
@@ -119,14 +136,16 @@ Posterior: located to the back, or in back of
     e           - Spongocoel: Large central cavity of sponges.
                     - "-coel" = a cavity or space
             - Diagnostic characteristics:
-                - Osculum: large opening to spongocoel where water exits
-                  after it enters through the ostia
+                - Osculum: large opening to spongocoel where water exits after
+                  it enters through the ostia
                 - Choanocytes: specialized feeding cells, a ring of
                   finger-like projections of the cell membrane that trap
-                  food particles
+                  food particles.  Their flagella beat, creating a water flow
+                  across the microvilli, which then filter out nutrients from
+                  the water.
                 - Ostia: many small pores where water enters
-                - Spicules: Sharp 3 pointed-star item made of silicone,
-                  skeletal elements
+                - Spicules: Sharp 3 pointed-star item made of silicone, skeletal
+                  elements
 
             - Other Key Features:
                 - If broken down to the level of their cells, they can
@@ -162,7 +181,8 @@ Posterior: located to the back, or in back of
                 - Triploblastic: having a body derived from three embryonic
                   cell layers
                 - Gastrovascular cavity
-                - Acoelomate
+                - Acoelomate: doesn't have a cavity around digestive tract, it
+                  has a tissue-filled region.
 
             - Diagnostic characteristics:
                 - Some parasitic forms lack digestive tract
