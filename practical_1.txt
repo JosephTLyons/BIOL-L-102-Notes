@@ -43,22 +43,80 @@ Practical 1 Items to Know:
             - Be able to relate skull, jaw, and tooth features to diet
                 - Angle of jaw articulation
                 - Temporalis and masseter muscle attachments
-                - Cononiod process
+                - Coronoid process
                 - Structure of canines, molars, presence / absence of diastema
 
+Dorsal: Back
+Ventral: Belly
+Anterior: located to the front, or in front of
+Posterior: located to the back, or in back of
+
 - Lab 8 (Invertebrates):
-    1) Internal and External anatomy of squid (know structures and their function)
-        - Be able to identify sex (use lab manual to figure these out)
-    2) Internal and External anatomy of crayfish (know structures and their function)
-        - Be able to identify sex (use lab manual to figure these out)
-    3) Invertebrate phyla (know diagnostic characteristics for each phyla and know body plans)
+    1) Internal and External anatomy of squid
+        - Refer to image in Lab7_Squid_Crayfish_InvertPhylaMaterials.pptx
+
+        - Orientation
+            - Anterior: Side of the eyes, opposite of siphon
+            - Posterior: Side of the siphon (dissection side)
+            - Dorsal: By the fin
+            - Ventral: Foot (tentacles and arms)
+
+        - Structures and their functions
+            - Mantle: Sheath-like structure that fits over the top of the squid
+            - Tentacles (2): longer of the appendages
+            - Arms (8): shorter of the appendages
+            - Buccal mass: region that contains / surrounds the beak, connects
+              to the esophagus
+            - Beak: (like that of a bird)
+            - Radula: Tongue covered in tiny teeth-like structures
+            - Gill: long rod-like structures in the mantle through which the
+              squid obtains oxygen
+            - Eye
+            - Siphon (Multi-functional): used for movement (fills mantle with
+              water to breath and shoots it out of the siphon), disposal of
+              waste, sperm or eggs leave through the siphon as well
+            - Siphon retractor muscles: support and position the funnel during
+              propulsion
+            - Cephalic retractor muscles: involved with movement of the head
+            - Penis
+            - Vas deferens
+            - Nidamental gland: coat eggs with protective covering before
+              release
+            - Oviductal gland: coat eggs with protective covering before release
+            - Testes / Ovaries: In the mantle, located on the dorsal side
+            - Ink sac: between the gills
+            - Rectum: Tube that places waste in the siphon to be ejected
+            - Pen: A structure made of chitin located near the dorsal area and
+              supports the squid's muscular tissues and organs, runs the length
+              of the squid.
+            - Branchial Heart: found at the base of each gill near the center of
+              the squid, both attach to a systemic heart
+            - Systemic Heart: a central heart that the branchial hearts attach
+              to
+            - Stomach
+            - Cecum: a thin walled extension of the stomach that continues
+              towards the dorsal tip of the mantle.
+
+    2) Internal and External anatomy of crayfish
+        - Refer to image in Lab7_Squid_Crayfish_InvertPhylaMaterials.pptx
+
+        - Orientation
+            - Anterior:
+            - Posterior:
+            - Dorsal:
+            - Ventral:
+
+        - Structures and their functions
+
+
+    3) Invertebrate phyla
         - Porifera: ("pore-bearing")
-            - Common name: sponges
-            - Examples: ?
-            - Body Plan:
-                - Asymmetrical
-                - Lack of true tissue
-                - Spongocoel: Large central cavity of sponges.
+    s   - Common name: sponges
+    i       - Examples: ?
+    m       - Body Plan:
+    p           - Asymmetrical
+    l           - Lack of true tissue
+    e           - Spongocoel: Large central cavity of sponges.
                     - "-coel" = a cavity or space
             - Diagnostic characteristics:
                 - Osculum: large opening to spongocoel where water exits
@@ -82,8 +140,10 @@ Practical 1 Items to Know:
             - Examples: Jellyfish, Sea Anemones, Hydra, Coral
             - Body Plan:
                 - Radial Symmetry
-                - Diploblastic
-                - Gastrovascular cavity (has an opening for mouth / anus)
+                - Diploblastic: having a body derived from only two embryonic
+                  cell layers (endoderm and ectoderm)
+                - mesoglea: a jelly-like layer between endoderm and ectoderm
+                - Gastrovascular cavity (has single opening for mouth / anus)
             - Diagnostic characteristics:
                 - Body has two different stages:
                     1) a sessile "polyp" or free-moving medusa, many having a
@@ -92,14 +152,23 @@ Practical 1 Items to Know:
                 - tentacles with stinging cells that capture live prey
                 - many are colonial with many interconnected polyps
 
-            - Other Key Features:
-
         - Platyhelminthes
             - Common name: Flatworms
-            - Examples: Tapeworm (a parasitic flatworm)
-            - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
-            - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
-            - Other Key Features:
+            - Examples: Planaria (non-parasitic), Flatworms and Flukes (parasitic)
+                - planaria have eye-spots and an eversible pharynx; mouth in the
+                  central underside of the body
+            - Body Plan:
+                - Bilateral symmetric
+                - Triploblastic: having a body derived from three embryonic
+                  cell layers
+                - Gastrovascular cavity
+                - Acoelomate
+
+            - Diagnostic characteristics:
+                - Some parasitic forms lack digestive tract
+                - tapeworms have body segments called “proglottids”
+                - tapeworms have anterior “scolex” for attaching to intestinal
+                  walls
 
         - Mullusca
             -Classes:
@@ -115,7 +184,7 @@ Practical 1 Items to Know:
                     - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
                     - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
                     - Other Key Features:
-                - Cephalopods
+                - Cephalopods ("Head Foot")
                     - Common name:
                     - Example: ?
                     - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
