@@ -195,22 +195,22 @@ Posterior: located to the back, or in back of
                   walls
 
         - Mullusca
+            - Body Plan (all):
+                - Bilateral symmetry
+                    - hinged together, the hinge lies in the sagittal
+                      plane
+                - Triploblastic
+                - Alimentary canal (the whole passage along which food
+                  passes through the body from mouth to anus. It
+                  includes the esophagus, stomach, and intestines.)
+                - coelomate: have a coelom (a cavity surrounding the
+                  digestive tract)
+                - protostome: mouth develops from a primary embryonic
+                  opening
             -Classes:
                 - Bivalves
                     - Common name: ?
                     - Example: Oysters, clams, mussels, scallops
-                    - Body Plan:
-                        - Bilateral symmetry
-                            - hinged together, the hinge lies in the sagittal
-                              plane
-                        - Triploblastic
-                        - Alimentary canal (the whole passage along which food
-                          passes through the body from mouth to anus. It
-                          includes the esophagus, stomach, and intestines.)
-                        - coelomate: have a coelom (a cavity surrounding the
-                          digestive tract)
-                        - protostome: mouth develops from a primary embryonic
-                          opening
                     - Diagnostic characteristics:
                         - Have 2 shells (bi-valve) that are hinged together
                         - When they die, the ligament that hinges the two shells
@@ -228,8 +228,6 @@ Posterior: located to the back, or in back of
                 - Gastropods ("Stomach Foot")
                     - Common name: ?
                     - Example: Snails and slugs
-                    - Body Plan:
-                        - Same as bivalves
                     - Diagnostic characteristics:
                     - Other Key Features:
                         - same as bivalves, except they have...
@@ -237,8 +235,6 @@ Posterior: located to the back, or in back of
                 - Cephalopods ("Head Foot")
                     - Common name: ?
                     - Example: Squid and octopi
-                    - Body Plan:
-                        - Same as bivalves
                     - Diagnostic characteristics:
                     - Other Key Features:
                         - same as bivalves, except they have...
@@ -274,31 +270,52 @@ Posterior: located to the back, or in back of
             - Diagnostic characteristics:
             - Other Key Features:
         - Anthropoda
+            - Body Plan (all):
+                - bilateral symmetry
+                - triploblastic
+                - alimentary canal
+                - coelomate
+                - protostome
+                - segmentation
+                - ecdysis (have a hard outer cuticle that must be shed
+                  periodically to allow for growth)
+            - Other Key Features (all):
+                - an exoskeleton containing chitin
+                - jointed appendages
+
             - Classes:
                 - Crustacea
                     - Common name:
-                    - Examples: ?
-                    - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
-                    - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
-                    - Other Key Features:
+                    - Examples: Crabs, crayfish, shrimp, pillbugs, barnacles
+                    - Diagnostic characteristics:
+                        - 2 pairs of antennae
+                        - Biramus (2-lobed) appendages
+                        - Carapace (common covering over head and thorax)
+                        - compound eyes usually on stalks
                 - Chelicerata
                     - Common name:
-                    - Examples: ?
-                    - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
-                    - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
-                    - Other Key Features:
+                    - Examples: Spiders, scorpions, mites, ticks, horseshoe
+                      crabs
+                    - Diagnostic characteristics:
+                        - first pair of appendages are for piercing or pinching
+                          and are called “chelicera”
+                        - No antenna
+                        - Two main body divisions (prosoma, opisthosoma)
                 - Insecta
                     - Common name:
-                    - Examples: ?
-                    - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
-                    - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
-                    - Other Key Features:
+                    - Examples: Any insect
+                    - Diagnostic characteristics:
+                        - 1 pair of antenna, 4 pairs of feeding appendages
+                        - 3 pairs of legs, 2 pairs of wings (or wings absent)
+                        - 3 main body divisions (head, thorax, abdomen)
                 - Myriapoda
                     - Common name:
-                    - Examples: ?
-                    - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
-                    - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
-                    - Other Key Features:
+                    - Examples: Millipedes and centipedes
+                    - Diagnostic characteristics:
+                        - 1 pair of antenna
+                        - head and elongated trunk
+                        - one pair of legs per trunk segment (centipede) or two
+                          pairs of legs per trunk segment (millepede)
         - Echinodermata
             - Common name:
             - Examples: Starfish, Sea Urchins, Sand Dollars, Sea Cucumbers
@@ -312,8 +329,7 @@ Posterior: located to the back, or in back of
             - Other Key Features:
                 - endoskeleton
                 - water vascular system associated with movement and control of
-                  “tube feet” 
-
+                  “tube feet”
 
 ================================================================================
 
