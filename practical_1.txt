@@ -173,16 +173,20 @@ Posterior: located to the back, or in back of
 
         - Platyhelminthes
             - Common name: Flatworms
-            - Examples: Planaria (non-parasitic), Flatworms and Flukes (parasitic)
+
+            - Examples: Planaria (non-parasitic), Flatworms and Flukes
+              (parasitic)
                 - planaria have eye-spots and an eversible pharynx; mouth in the
                   central underside of the body
+
             - Body Plan:
                 - Bilateral symmetric
                 - Triploblastic: having a body derived from three embryonic
                   cell layers
                 - Gastrovascular cavity
-                - Acoelomate: doesn't have a cavity around digestive tract, it
-                  has a tissue-filled region.
+                - Acoelomate: lacking a coelom (a cavity surrounding the
+                  digestive tract) it has a tissue-filled region that surrounds
+                  the digestive tract.
 
             - Diagnostic characteristics:
                 - Some parasitic forms lack digestive tract
@@ -193,34 +197,81 @@ Posterior: located to the back, or in back of
         - Mullusca
             -Classes:
                 - Bivalves
-                    - Common name:
-                    - Example: ?
-                    - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
-                    - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
+                    - Common name: ?
+                    - Example: Oysters, clams, mussels, scallops
+                    - Body Plan:
+                        - Bilateral symmetry
+                            - hinged together, the hinge lies in the sagittal
+                              plane
+                        - Triploblastic
+                        - Alimentary canal (the whole passage along which food
+                          passes through the body from mouth to anus. It
+                          includes the esophagus, stomach, and intestines.)
+                        - coelomate: have a coelom (a cavity surrounding the
+                          digestive tract)
+                        - protostome: mouth develops from a primary embryonic
+                          opening
+                    - Diagnostic characteristics:
+                        - Have 2 shells (bi-valve) that are hinged together
+                        - When they die, the ligament that hinges the two shells
+                          together breaks down faster than the shell, so we are
+                          left with only the single shell.
+                        - The shell is typically bilaterally symmetrical, with
+                          the hinge lying in the sagittal plane
                     - Other Key Features:
-                - Gastropods
-                    - Common name:
-                    - Example: ?
-                    - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
-                    - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
+                        - a soft body with a muscular “foot”
+                        - a “mantle” that produces a protective shell for the
+                          soft body
+                        - Do not have a rasping tongue (radula) like gastropods
+                          and cephalopods.
+
+                - Gastropods ("Stomach Foot")
+                    - Common name: ?
+                    - Example: Snails and slugs
+                    - Body Plan:
+                        - Same as bivalves
+                    - Diagnostic characteristics:
                     - Other Key Features:
+                        - same as bivalves, except they have...
+                        - a rasping tongue called a “radula”, absent in bivalves
                 - Cephalopods ("Head Foot")
-                    - Common name:
-                    - Example: ?
-                    - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
-                    - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
+                    - Common name: ?
+                    - Example: Squid and octopi
+                    - Body Plan:
+                        - Same as bivalves
+                    - Diagnostic characteristics:
                     - Other Key Features:
-        - Nematoda
-            - Common name:
-            - Examples: ?
-            - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
-            - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
-            - Other Key Features:
+                        - same as bivalves, except they have...
+                        - a rasping tongue called a “radula”, absent in bivalves
         - Annelida
-            - Common name:
-            - Examples: ?
-            - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
-            - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
+            - Common name: Ringed / Segmented worms
+            - Examples: Earthworms, Leeches, and Polychaetes
+            - Body Plan:
+                - bilateral symmetry
+                - triploblastic
+                - alimentary canal
+                - coelomate: has a coelom (cavity around digestive tract)
+                - protostome
+                - segmentation
+            - Diagnostic characteristics:
+            - polychaetes have paired, fleshy appendages on each segment called
+              “parapodia”
+            - earthworms and polychaetes have bristles called “chaetes”
+
+        - Nematoda
+            - Common name: Roundworms
+            - Examples: vinegar eels, hook worms, filarial worms
+            - Body Plan:
+                - no segments like annelida
+                - bilateral symmetry
+                - triploblastic
+                - alimentary canal
+                - pseudocoelomate
+                - protostome
+                - ecdysis (hard outer cuticle that must be shed periodically
+                  for the animal to grow)
+
+            - Diagnostic characteristics:
             - Other Key Features:
         - Anthropoda
             - Classes:
@@ -250,10 +301,19 @@ Posterior: located to the back, or in back of
                     - Other Key Features:
         - Echinodermata
             - Common name:
-            - Examples: ?
-            - Body Plan: (USE PHOTOS TO KNOW WHICH ONES)
-            - Diagnostic characteristics: (USE PHOTOS TO KNOW WHICH ONES)
+            - Examples: Starfish, Sea Urchins, Sand Dollars, Sea Cucumbers
+            - Body Plan:
+                - radial symmetry (pentaradiate)
+                - triploblastic
+                - alimentary canal
+                - coelomate
+                - deuterostome
+            - Diagnostic characteristics:
             - Other Key Features:
+                - endoskeleton
+                - water vascular system associated with movement and control of
+                  “tube feet” 
+
 
 ================================================================================
 
