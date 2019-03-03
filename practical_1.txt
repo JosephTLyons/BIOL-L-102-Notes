@@ -128,13 +128,16 @@ Posterior: located to the back, or in back of
 
     3) Invertebrate phyla
         - Porifera: ("pore-bearing")
-    s   - Common name: sponges
-    i       - Examples: ?
-    m       - Body Plan:
-    p           - Asymmetrical
-    l           - Lack of true tissue
-    e           - Spongocoel: Large central cavity of sponges.
+    s       - Common name: sponges
+    i
+    m       - Examples: ?
+    p
+    l       - Body Plan:
+    e           - Asymmetrical
+                - Lack of true tissue
+                - Spongocoel: Large central cavity of sponges.
                     - "-coel" = a cavity or space
+
             - Diagnostic characteristics:
                 - Osculum: large opening to spongocoel where water exits after
                   it enters through the ostia
@@ -156,13 +159,16 @@ Posterior: located to the back, or in back of
 
         - Cnidarian
             - Common name: ?
+
             - Examples: Jellyfish, Sea Anemones, Hydra, Coral
+
             - Body Plan:
                 - Radial Symmetry
                 - Diploblastic: having a body derived from only two embryonic
                   cell layers (endoderm and ectoderm)
                 - mesoglea: a jelly-like layer between endoderm and ectoderm
                 - Gastrovascular cavity (has single opening for mouth / anus)
+
             - Diagnostic characteristics:
                 - Body has two different stages:
                     1) a sessile "polyp" or free-moving medusa, many having a
@@ -207,10 +213,13 @@ Posterior: located to the back, or in back of
                   digestive tract)
                 - protostome: mouth develops from a primary embryonic
                   opening
+
             -Classes:
                 - Bivalves
                     - Common name: ?
+
                     - Example: Oysters, clams, mussels, scallops
+
                     - Diagnostic characteristics:
                         - Have 2 shells (bi-valve) that are hinged together
                         - When they die, the ligament that hinges the two shells
@@ -218,6 +227,7 @@ Posterior: located to the back, or in back of
                           left with only the single shell.
                         - The shell is typically bilaterally symmetrical, with
                           the hinge lying in the sagittal plane
+
                     - Other Key Features:
                         - a soft body with a muscular “foot”
                         - a “mantle” that produces a protective shell for the
@@ -227,21 +237,31 @@ Posterior: located to the back, or in back of
 
                 - Gastropods ("Stomach Foot")
                     - Common name: ?
+
                     - Example: Snails and slugs
+
                     - Diagnostic characteristics:
+
                     - Other Key Features:
                         - same as bivalves, except they have...
                         - a rasping tongue called a “radula”, absent in bivalves
+
                 - Cephalopods ("Head Foot")
                     - Common name: ?
+
                     - Example: Squid and octopi
+
                     - Diagnostic characteristics:
+
                     - Other Key Features:
                         - same as bivalves, except they have...
                         - a rasping tongue called a “radula”, absent in bivalves
+
         - Annelida
             - Common name: Ringed / Segmented worms
+
             - Examples: Earthworms, Leeches, and Polychaetes
+
             - Body Plan:
                 - bilateral symmetry
                 - triploblastic
@@ -249,14 +269,17 @@ Posterior: located to the back, or in back of
                 - coelomate: has a coelom (cavity around digestive tract)
                 - protostome
                 - segmentation
+
             - Diagnostic characteristics:
-            - polychaetes have paired, fleshy appendages on each segment called
-              “parapodia”
-            - earthworms and polychaetes have bristles called “chaetes”
+                - polychaetes have paired, fleshy appendages on each segment
+                  called “parapodia”
+                - earthworms and polychaetes have bristles called “chaetes”
 
         - Nematoda
             - Common name: Roundworms
+
             - Examples: vinegar eels, hook worms, filarial worms
+
             - Body Plan:
                 - no segments like annelida
                 - bilateral symmetry
@@ -268,7 +291,9 @@ Posterior: located to the back, or in back of
                   for the animal to grow)
 
             - Diagnostic characteristics:
+
             - Other Key Features:
+
         - Anthropoda
             - Body Plan (all):
                 - bilateral symmetry
@@ -279,6 +304,7 @@ Posterior: located to the back, or in back of
                 - segmentation
                 - ecdysis (have a hard outer cuticle that must be shed
                   periodically to allow for growth)
+
             - Other Key Features (all):
                 - an exoskeleton containing chitin
                 - jointed appendages
@@ -286,46 +312,62 @@ Posterior: located to the back, or in back of
             - Classes:
                 - Crustacea
                     - Common name:
+
                     - Examples: Crabs, crayfish, shrimp, pillbugs, barnacles
+
                     - Diagnostic characteristics:
                         - 2 pairs of antennae
                         - Biramus (2-lobed) appendages
                         - Carapace (common covering over head and thorax)
                         - compound eyes usually on stalks
+
                 - Chelicerata
                     - Common name:
+
                     - Examples: Spiders, scorpions, mites, ticks, horseshoe
                       crabs
+
                     - Diagnostic characteristics:
                         - first pair of appendages are for piercing or pinching
                           and are called “chelicera”
                         - No antenna
                         - Two main body divisions (prosoma, opisthosoma)
+
                 - Insecta
                     - Common name:
+
                     - Examples: Any insect
+
                     - Diagnostic characteristics:
                         - 1 pair of antenna, 4 pairs of feeding appendages
                         - 3 pairs of legs, 2 pairs of wings (or wings absent)
                         - 3 main body divisions (head, thorax, abdomen)
+
                 - Myriapoda
                     - Common name:
+
                     - Examples: Millipedes and centipedes
+
                     - Diagnostic characteristics:
                         - 1 pair of antenna
                         - head and elongated trunk
                         - one pair of legs per trunk segment (centipede) or two
                           pairs of legs per trunk segment (millepede)
+
         - Echinodermata
             - Common name:
+
             - Examples: Starfish, Sea Urchins, Sand Dollars, Sea Cucumbers
+
             - Body Plan:
                 - radial symmetry (pentaradiate)
                 - triploblastic
                 - alimentary canal
                 - coelomate
                 - deuterostome
+
             - Diagnostic characteristics:
+
             - Other Key Features:
                 - endoskeleton
                 - water vascular system associated with movement and control of
