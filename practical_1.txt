@@ -103,8 +103,8 @@ Posterior: located to the back, or in back of
         - Orientation
             - Anterior: front, by chelipeds
             - Posterior: back, by tail
-            - Dorsal: belly, swimmeret side
-            - Ventral: back, abdomen and cephalothorax side
+            - Dorsal: back, abdomen and cephalothorax side
+            - Ventral: belly, swimmeret side
 
         - Structures and their functions
             - Compound eye and eyestalk
