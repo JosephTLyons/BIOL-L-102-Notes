@@ -79,10 +79,11 @@ Posterior: located to the back, or in back of
               propulsion
             - Cephalic retractor muscles: involved with movement of the head
             - Penis
-            - Vas deferens
+            - Vas deferens: the duct which conveys sperm from the testicle to
+              the urethra.
+            - Oviductal gland: creates the shell around the egg
             - Nidamental gland: coat eggs with protective covering before
               release
-            - Oviductal gland: coat eggs with protective covering before release
             - Testes / Ovaries: In the mantle, located on the dorsal side
             - Ink sac: between the gills
             - Rectum: Tube that places waste in the siphon to be ejected
@@ -107,9 +108,12 @@ Posterior: located to the back, or in back of
             - Ventral: belly, swimmeret side
 
         - Structures and their functions
+            - Male has hard copulatory swimmerets
+            - Female has soft swimmerets and an opening just above them, seminal
+              receptacle.  They also other openings above the seminal
+              receptacle, which dispenses the eggs, called the:
+            - Ovaduct openings
             - Compound eye and eyestalk
-            - Male has hard swimmerets
-            - Female has soft swimmerets and an opening just above them
             - Cephalothorax: main body (where legs and pinchers attach)
             - Abdomen: lower body (tail region, swimmeret region)
             - Open heart system
@@ -121,10 +125,29 @@ Posterior: located to the back, or in back of
             - Ovaries or testes are in the same region as heart, but under it
             - Separate mouth and anus
             - Uropod: flaps on either side of the tail (telson)
-            - Telson: last segment in the tail
+            - Telson: Tip of the abdomen, located between the two uropods
             - 8 walking legs
             - 2 Chela (pinchers)
-            - Not complete
+            - Mandibles: feeding appendages
+
+            - Tagmata (segments with similar structure and function that
+              collectively merge together)
+                - In crayfish
+                    - Cephalothorax: segments here have fussed to form a
+                        - Carapace:
+                            - Rostrum: point formed at top of carapace
+
+                    - Abdomen
+
+            - Have hard exteriors made of chitin called exoskeleton.  Molting,
+              or shedding of this exoskeleton, is required for the crayfish to
+              grow.
+
+            - Male places sperm in the seminal receptacle with his male
+              copulatory swimmerets.  Eggs come out of the ovaduct, receive
+              sperm from seminal receptacle and are fertilized, then the
+              female's swimmerets capture and hold the eggs.  Therefore,
+              fertilization is external.
 
     3) Invertebrate phyla
         - Porifera: ("pore-bearing")
