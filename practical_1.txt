@@ -101,10 +101,10 @@ Posterior: located to the back, or in back of
         - Refer to image in Lab7_Squid_Crayfish_InvertPhylaMaterials.pptx
 
         - Orientation
-            - Anterior: side of shell segments
-            - Posterior: side of swimmerets
-            - Dorsal: tail side
-            - Ventral: chela side
+            - Anterior: front, by chelipeds
+            - Posterior: back, by tail
+            - Dorsal: belly, swimmeret side
+            - Ventral: back, abdomen and cephalothorax side
 
         - Structures and their functions
             - Compound eye and eyestalk
