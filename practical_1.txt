@@ -200,6 +200,43 @@ Posterior: located to the back, or in back of
                 - tapeworms have anterior “scolex” for attaching to intestinal
                   walls
 
+        - Nematoda
+            - Common name: Roundworms
+
+            - Examples: vinegar eels, hook worms, filarial worms
+
+            - Body Plan:
+                - no segments like annelida
+                - bilateral symmetry
+                - triploblastic
+                - alimentary canal
+                - pseudocoelomate
+                - protostome
+                - ecdysis (hard outer cuticle that must be shed periodically
+                  for the animal to grow)
+
+            - Diagnostic characteristics:
+
+            - Other Key Features:
+
+        - Annelida
+            - Common name: Ringed / Segmented worms
+
+            - Examples: Earthworms, Leeches, and Polychaetes
+
+            - Body Plan:
+                - bilateral symmetry
+                - triploblastic
+                - alimentary canal
+                - coelomate: has a coelom (cavity around digestive tract)
+                - protostome
+                - segmentation
+
+            - Diagnostic characteristics:
+                - polychaetes have paired, fleshy appendages on each segment
+                  called “parapodia”
+                - earthworms and polychaetes have bristles called “chaetes”
+
         - Mullusca
             - Body Plan (all):
                 - Bilateral symmetry
@@ -256,43 +293,6 @@ Posterior: located to the back, or in back of
                     - Other Key Features:
                         - same as bivalves, except they have...
                         - a rasping tongue called a “radula”, absent in bivalves
-
-        - Annelida
-            - Common name: Ringed / Segmented worms
-
-            - Examples: Earthworms, Leeches, and Polychaetes
-
-            - Body Plan:
-                - bilateral symmetry
-                - triploblastic
-                - alimentary canal
-                - coelomate: has a coelom (cavity around digestive tract)
-                - protostome
-                - segmentation
-
-            - Diagnostic characteristics:
-                - polychaetes have paired, fleshy appendages on each segment
-                  called “parapodia”
-                - earthworms and polychaetes have bristles called “chaetes”
-
-        - Nematoda
-            - Common name: Roundworms
-
-            - Examples: vinegar eels, hook worms, filarial worms
-
-            - Body Plan:
-                - no segments like annelida
-                - bilateral symmetry
-                - triploblastic
-                - alimentary canal
-                - pseudocoelomate
-                - protostome
-                - ecdysis (hard outer cuticle that must be shed periodically
-                  for the animal to grow)
-
-            - Diagnostic characteristics:
-
-            - Other Key Features:
 
         - Anthropoda
             - Body Plan (all):
