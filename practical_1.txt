@@ -240,8 +240,6 @@ Posterior: located to the back, or in back of
         - Mullusca
             - Body Plan (all):
                 - Bilateral symmetry
-                    - hinged together, the hinge lies in the sagittal
-                      plane
                 - Triploblastic
                 - Alimentary canal (the whole passage along which food
                   passes through the body from mouth to anus. It
@@ -258,6 +256,8 @@ Posterior: located to the back, or in back of
                     - Example: Oysters, clams, mussels, scallops
 
                     - Diagnostic characteristics:
+                        - hinged together, the hinge lies in the sagittal
+                          plane
                         - Have 2 shells (bi-valve) that are hinged together
                         - When they die, the ligament that hinges the two shells
                           together breaks down faster than the shell, so we are
