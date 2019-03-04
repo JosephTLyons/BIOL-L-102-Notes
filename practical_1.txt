@@ -124,7 +124,7 @@ Posterior: located to the back, or in back of
             - Telson: last segment in the tail
             - 8 walking legs
             - 2 Chela (pinchers)
-
+            - Not complete
 
     3) Invertebrate phyla
         - Porifera: ("pore-bearing")
@@ -135,17 +135,17 @@ Posterior: located to the back, or in back of
     l       - Body Plan:
     e           - Asymmetrical
                 - Lack of true tissue
-                - Spongocoel: Large central cavity of sponges.
-                    - "-coel" = a cavity or space
-
+    |           - Spongocoel: Large central cavity of sponges.
+    |               - "-coel" = a cavity or space
+    v
             - Diagnostic characteristics:
-                - Osculum: large opening to spongocoel where water exits after
-                  it enters through the ostia
-                - Choanocytes: specialized feeding cells, a ring of
-                  finger-like projections of the cell membrane that trap
-                  food particles.  Their flagella beat, creating a water flow
-                  across the microvilli, which then filter out nutrients from
-                  the water.
+    c           - Osculum: large opening to spongocoel where water exits after
+    o             it enters through the ostia
+    m           - Choanocytes: specialized feeding cells, a ring of
+    p             finger-like projections of the cell membrane that trap
+    l             food particles.  Their flagella beat, creating a water flow
+    e             across the microvilli, which then filter out nutrients from
+    x             the water.
                 - Ostia: many small pores where water enters
                 - Spicules: Sharp 3 pointed-star item made of silicone, skeletal
                   elements
