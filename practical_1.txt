@@ -28,6 +28,11 @@ Practical 1 Items to Know:
         1) General concepts in lab:
             - Homology
             - Convergent evolution
+                - Ex: How unrelated animals all developed the same type of teeth
+                    - Molars and diastema for herbivores
+                    - Mixture of incisors, canines, and molars for omnivores
+                      (heterodonts)
+                    - Mostly incisors for carnivores and insectivores
             - Adaptive radiation
         2) Skeleton of cat and human
             - know all things here: animal-anatomy-and-function.txt
@@ -38,12 +43,17 @@ Practical 1 Items to Know:
             - be able to connect structure of bone to function
         3) Mammalian teeth and skull features
             - Heterodont: (incisors, canines, pre-molars, molars)
+                - Mammals only
             - Homodont: (fish, reptiles)
             - Be able to classify skulls as omnivore, herbivore, or carnivore
             - Be able to relate skull, jaw, and tooth features to diet
                 - Angle of jaw articulation
+                    - If the jaw has room to move laterally (grind), it
+                      indicates that it could be a herbivore
                 - Temporalis and masseter muscle attachments
-                - Coronoid process
+                - Coronoid process: use to attach temporal muscle to jaw; a
+                  large coronoid process indicates large temporal muscle, which
+                  indicates the specimen is a carnivore.
                 - Structure of canines, molars, presence / absence of diastema
 
 Dorsal: Back
@@ -216,6 +226,7 @@ Posterior: located to the back, or in back of
                 - Acoelomate: lacking a coelom (a cavity surrounding the
                   digestive tract) it has a tissue-filled region that surrounds
                   the digestive tract.
+                - Branched digestive cavity
 
             - Diagnostic characteristics:
                 - Some parasitic forms lack digestive tract
@@ -387,7 +398,7 @@ Posterior: located to the back, or in back of
                 - triploblastic
                 - alimentary canal
                 - coelomate
-                - deuterostome
+                - deuterostome (anus develops first)
 
             - Diagnostic characteristics:
 
