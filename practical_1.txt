@@ -8,7 +8,8 @@ Practical 1 Items to Know:
             - Prokaryotes are much smaller, lack organelles, no nucleus
         - Whittaker 5 Kingdom model
         - Taxonomic ranks
-            - K.P.C.O.F.G.S.
+            - D.K.P.C.O.F.G.S.
+                - Domain (probably won't matter for this professor)
                 - Kingdom
                 - Phylum
                 - Class
