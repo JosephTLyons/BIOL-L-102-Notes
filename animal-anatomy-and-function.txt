@@ -63,8 +63,8 @@ Bones:
             - Pre-molars: Between canines and molars, look like molars
             - Molars: Very back teeth, used for grinding and mashing
 
-            - Carnassial: molars that are shaped like triangles / incisors for
-                          cutting meat (carnivores)
+            - Carnassial: molars that have evolved to become triangles /
+                          incisors for cutting meat (carnivores)
 
             - Classifications based on types of teeth:
                 - Homodont: Teeth are of one type
