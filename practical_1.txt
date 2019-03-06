@@ -285,8 +285,7 @@ Posterior: located to the back, or in back of
                   includes the esophagus, stomach, and intestines.)
                 - coelomate: have a coelom (a cavity surrounding the
                   digestive tract)
-                - protostome: mouth develops from a primary embryonic
-                  opening
+                - protostome: mouth develops first
 
             -Classes:
                 - Bivalves
@@ -411,6 +410,41 @@ Posterior: located to the back, or in back of
                 - endoskeleton
                 - water vascular system associated with movement and control of
                   “tube feet”
+
+================================================================================
+
+                  Diploblastic
+                  |   Triploblastic
+                  |   |   Protostome
+                  |   |   |   Deuterostome
+                  |   |   |   |   Alimentary Canal
+                  |   |   |   |   |   Acoelomate
+                  |   |   |   |   |   |   Pseudocoelomate
+                  |   |   |   |   |   |   |   Coelomate
+                  |   |   |   |   |   |   |   |   Segmentation
+                  |   |   |   |   |   |   |   |   |   Asymmetry
+                  |   |   |   |   |   |   |   |   |   |   Radial Symmetry
+                  |   |   |   |   |   |   |   |   |   |   |   Bilateral Symmetry
+                  |   |   |   |   |   |   |   |   |   |   |   |   Pentaradial Sym
+                  |   |   |   |   |   |   |   |   |   |   |   |   |
+Table Recap       v   v   v   v   v   v   v   v   v   v   v   v   v
+--------------------------------------------------------------------------------
+Porifera        |   |   |   |   |   |   |   |   |   | X |   |   |   |
+Cnidaria        | X |   |   |   |   |   |   |   |   |   | X |   |   |
+Platyhelminthes |   | X | X |   | ? | X |   |   |   |   |   | X |   |
+Nematoda        |   | X | X |   | X |   | X |   |   |   |   | X |   |
+Annelids        |   | X | X |   | X |   |   | X | X |   |   | X |   |
+Mollusca        |   | X | X |   | X |   |   | X |   |   |   | X |   |
+    Bivalves    |   | X | X |   | X |   |   | X |   |   |   | X |   |
+    Gastropods  |   | X | X |   | X |   |   | X |   |   |   | X |   |
+    Cephalopods |   | X | X |   | X |   |   | X |   |   |   | X |   |
+Anthropods      |   | X | X |   | X |   |   | X | X |   |   | X |   |
+    Crustacea   |   | X | X |   | X |   |   | X | X |   |   | X |   |
+    Chelicerata |   | X | X |   | X |   |   | X | X |   |   | X |   |
+    Myriapoda   |   | X | X |   | X |   |   | X | X |   |   | X |   |
+    Insecta     |   | X | X |   | X |   |   | X | X |   |   | X |   |
+Echinodermata   |   | X |   | X | X |   |   | X |   |   |   |   | X |
+Chordata        |   | X |   | X | X |   |   | X | X |   |   | X |   |
 
 ================================================================================
 
