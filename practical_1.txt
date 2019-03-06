@@ -285,7 +285,7 @@ Posterior: located to the back, or in back of
                   includes the esophagus, stomach, and intestines.)
                 - coelomate: have a coelom (a cavity surrounding the
                   digestive tract)
-                - protostome: mouth develops first
+                - protostome: digestive tract develops mouth first
 
             -Classes:
                 - Bivalves
@@ -402,7 +402,7 @@ Posterior: located to the back, or in back of
                 - triploblastic
                 - alimentary canal
                 - coelomate
-                - deuterostome (anus develops first)
+                - deuterostome (digestive tract develops anus first)
 
             - Diagnostic characteristics:
 
