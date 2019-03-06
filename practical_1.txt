@@ -93,21 +93,23 @@ Posterior: located to the back, or in back of
             - Vas deferens: the duct which conveys sperm from the testicle to
               the urethra.
             - Oviductal gland: creates the shell around the egg
-            - Nidamental gland: coat eggs with protective covering before
-              release
+            - Nidamental gland: coats eggs with protective covering before
+              release (after oviductal gland creates the egg shell)
             - Testes / Ovaries: In the mantle, located on the dorsal side
             - Ink sac: between the gills
             - Rectum: Tube that places waste in the siphon to be ejected
             - Pen: A structure made of chitin located near the dorsal area and
               supports the squid's muscular tissues and organs, runs the length
-              of the squid.
+              of the squid.  Homologous to the shell (or valve) in the bivalve.
+              There is no proper shell left in cephalopods, the pen is all that
+              is left that relates to it.
             - Branchial Heart: found at the base of each gill near the center of
               the squid, both attach to a systemic heart
             - Systemic Heart: a central heart that the branchial hearts attach
               to
             - Stomach
             - Cecum: a thin walled extension of the stomach that continues
-              towards the dorsal tip of the mantle.
+              towards the dorsal tip of the mantle, produces digestive enzymes
 
     2) Internal and External anatomy of crayfish
         - Refer to image in Lab7_Squid_Crayfish_InvertPhylaMaterials.pptx
@@ -232,6 +234,8 @@ Posterior: located to the back, or in back of
             - Diagnostic characteristics:
                 - Some parasitic forms lack digestive tract
                 - tapeworms have body segments called “proglottids”
+                    NOTE: This is not true segmentation, as we see in annelida.
+                    Each "segment" is still connected
                 - tapeworms have anterior “scolex” for attaching to intestinal
                   walls
 
