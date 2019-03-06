@@ -429,8 +429,8 @@ Posterior: located to the back, or in back of
                   |   |   |   |   |   |   |   |   |   |   |   |   |
 Table Recap       v   v   v   v   v   v   v   v   v   v   v   v   v
 --------------------------------------------------------------------------------
-Porifera        |   |   |   |   |   |   |   |   |   | X |   |   |   |
-Cnidaria        | X |   |   |   |   |   |   |   |   |   | X |   |   |
+Porifera        |   |   |   |   |   | X |   |   |   | X |   |   |   |
+Cnidaria        | X |   |   |   |   | X |   |   |   |   | X |   |   |
 Platyhelminthes |   | X | X |   | ? | X |   |   |   |   |   | X |   |
 Nematoda        |   | X | X |   | X |   | X |   |   |   |   | X |   |
 Annelids        |   | X | X |   | X |   |   | X | X |   |   | X |   |
