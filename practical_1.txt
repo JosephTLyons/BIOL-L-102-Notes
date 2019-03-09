@@ -203,6 +203,8 @@ Posterior: located to the back, or in back of
                 - Diploblastic: having a body derived from only two embryonic
                   cell layers (endoderm and ectoderm)
                 - mesoglea: a jelly-like layer between endoderm and ectoderm
+                    - The mesoglea is a gelatinous matrix that contains fibers
+                      made up of the protein collagen
                 - Gastrovascular cavity (has single opening for mouth / anus)
 
             - Diagnostic characteristics:
