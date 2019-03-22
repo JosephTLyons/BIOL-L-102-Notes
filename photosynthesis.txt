@@ -8,7 +8,7 @@ Photosynthesis
 A plant cell's chloroplast captures light energy and converts it to ATP or
 glucose, during this process, O2 is produced and CO2 is consumed.
 
-          Light Energy
+          Light Energy (Photons)
                |
                v
 6 CO2 + 6 H2O -> C6-H12-O6 + 6 O2 + ATP
@@ -60,12 +60,17 @@ Light Dependent Reaction
         - This ATP also moves onto the Calvin cycle
         - Remember, O2 is released as a byproduct to this process.
 
+        * Essentially
+            - PS II = ATP
+            - PS I  = NADPH
+
     - Photosystem Details:
         - Made of proteins and pigments (chlorophyll)
             - 2 L's MATTERS!
         - Consists of:
             1) Antenna Complex
-                - Chlorophyll is here, has magnesium atom in the center
+                - Made of Chlorophyll
+                    - Has Magnesium atom in its center
                      __    __       _
                     /  \__/  \       |
                     \        /       |
@@ -82,15 +87,40 @@ Light Dependent Reaction
                         - Having both a polar and a non-polar end
 
                     - Purpose:
+                        - Is the main tool that funnels the light energy into
+                          the reaction center.
+                            - "When pigments in the antenna complex absorbs
+                              photons, the energy - but not the electron itself
+                              - is passed to a nearby chlorophyll molecule,
+                              where another electron is excited"
+                                - This is similar to "the wave" at a sports
+                                  event
                         - Sticks into the phospholipid bilayer like a stake
+                            - This works well because the PB has fatty acid
+                              chains that are hydrocarbon chains, so the chain
+                              on the chlorophyll is accepted easily.
+                    - Chlorophyll is green because that is the color it isn't
+                      absorbing, it is absorbing red and blue
 
                 - Collects light energy and funnels it to the reaction center
             2) Reaction Center
                 - Takes energy from the antenna complex and generates high
                   energy electrons.
 
-
-The Calvin Cycle can be divided into 3 steps:
-	1) Fixation
-    2) Reduction
-    3) Regeneration
+Calvin Cycle
+    - Take place in the stroma
+        - parallel to Krebs cycle in the matrix or mitochondrion
+        - Main objective is to build larger molecules from CO2
+            - To do this, it requires energy in the form of ATP and NADPH
+                - These are generated from the light dependent reaction
+            - Converts ATP and NADPH into C-C covalent bonds
+    - The Calvin Cycle can be divided into 3 steps:
+	    1) Fixation
+            - Taking a 5 carbon molecule called ribulose bisphosphate and adding
+              carbon dioxide to it.
+                - Ribulose bisphosphate = Rubisco.  Most abundant enzyme on the
+                  planet.
+            - Result: a 6 carbon molecule that immediately breaks in half to
+              generate 2 3-carbon molecules (2 glycerates)
+        2) Reduction
+        3) Regeneration
