@@ -1,12 +1,15 @@
 Weakest to Strongest:
 
     Hydrogen:
+        - ?
         - When molecules have polar covalent bonds, shared electrons spend more
           time near one atom than the other, which results in poles. These poles
           are charged and attract other polar molecules.
     Ionic:
+        - Salts
         - One atom gives another one an electron.  One atom now has a positive
           charge while the other one has a negative charge.  They are now a
           attracted to each other.
     Covalent:
+        - Molecules
         - Bond held by the sharing of electrons
