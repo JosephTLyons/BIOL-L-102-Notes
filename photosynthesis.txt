@@ -61,8 +61,9 @@ Light Dependent Reaction
         - Remember, O2 is released as a byproduct to this process.
 
         * Essentially
-            - PS II = ATP
-            - PS I  = NADPH
+            - PS II = Uses light energy to generate a [H^+] gradient, which
+              creates ATP.
+            - PS I  = Uses light energy to convert NADP into NADPH
 
     - Photosystem Details:
         - Made of proteins and pigments (chlorophyll)
