@@ -1,22 +1,94 @@
 Photosynthesis
+    - the process of converting light energy into chemical energy, allowing CO2
+      to be used to build glucose
+    - Parallel: things that happen in the chloroplast in photosynthesis are very
+      similar to things that happen in the mitochondrion during cell
+      respiration.
 
 A plant cell's chloroplast captures light energy and converts it to ATP or
 glucose, during this process, O2 is produced and CO2 is consumed.
 
-Photosynthesis
-
           Light Energy
                |
                v
-6 CO2 + 6 H2O -> C6-H12-O6 + 6 O2
+6 CO2 + 6 H2O -> C6-H12-O6 + 6 O2 + ATP
+                 (glucose)
 
 This process produces oxygen as a waste product.
 
+================================================================================
+
 The overall process of photosynthesis consists of 2 key steps:
-    1) Light-Dependent Reaction (aka Light Reaction, Z-scheme)
-        6 H2O -> 6 O2
-    2) Light-Independent Reaction (aka Calvin Cycle, Dark Reaction)
-        6 CO2 -> C6-H12-O6
+
+1)  6 H2O -> 6 O2                    | 6 CO2 -> C6-H12-O6
+                                     |
+    Names:                           | Names:
+        1) Light Dependent Reaction  |     1) Light Independent Reaction
+        2) Z-Scheme                  |     2) Calvin Cycle
+               - The path of the     |     3) Dark Reaction
+                 electrons makes a   |
+                 'Z' shape.          |
+                                     |
+    Occurs in the thylakoid membrane | Occurs in the stroma of the chloroplast
+    of the chloroplast               |
+
+Light Dependent Reaction
+    - Summary:
+        - SEE: images/light-dependent-reaction.jpg (dual screen)
+        - Occurs in thylakoid of the chloroplast
+            - Recall that a granum is a stack of thylakoids (disk-like sacs)
+
+    - Procedure (input: H20 (electron donor), output: O2 (waste))
+        - H2O is the donor molecule.  It donates a pair of electrons to PS II.
+            - The remaining 2 H^+ ions is used during the chemiosmosis step
+        - PS II capture light energy (photons) and uses it to charge the
+          electrons
+        - PS II passes these high energy electrons to plastoquinone.
+        - Plastoquinone passes to the electron transport chain (Cytochrome
+          Complex), which pumps 4 H^+ ions into the thylakoid's lumen from the
+          stroma.
+        - The electron transport chain passes the electrons to plastocyanin,
+          which passes them to PS I, where again, light energy (photons)
+          transform them into high energy electrons (recharge them).
+        - PS 1 passes these electrons to Ferredoxin
+        - Ferredoxin passes the electrons to NADP^+ Reductase, which uses them
+          to link NADP^+ with a H^+ in order to reduce NADP^+ to NAPDPH
+        - This newly created NADPH goes to the Calvin cycle, while the H^+ ions
+          create a higher [H^+] inside the thylakoid lumen that drives ATP
+          synthase, linking together ADP + Psub(i) to make ATP, which flows back
+          into the stroma.
+        - This ATP also moves onto the Calvin cycle
+        - Remember, O2 is released as a byproduct to this process.
+
+    - Photosystem Details:
+        - Made of proteins and pigments (chlorophyll)
+            - 2 L's MATTERS!
+        - Consists of:
+            1) Antenna Complex
+                - Chlorophyll is here, has magnesium atom in the center
+                     __    __       _
+                    /  \__/  \       |
+                    \        /       |
+                    |   Mg  |        | Polar Region
+                    /   __   \       |
+                    \__/  \__/       |
+                       \            -
+                       /             |
+                       \             | Non-Polar Hydrocarbon Chain
+                       /             |
+                                    -
+
+                    - Amphipathic:
+                        - Having both a polar and a non-polar end
+
+                    - Purpose:
+                        - Sticks into the phospholipid bilayer like a stake
+
+                - Collects light energy and funnels it to the reaction center
+            2) Reaction Center
+                - Takes energy from the antenna complex and generates high
+                  energy electrons.
+
 
 The Calvin Cycle can be divided into 3 steps:
 	1) Fixation
