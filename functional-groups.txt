@@ -1,6 +1,6 @@
 Functional Groups | Formula           | Family of Molecules
 --------------------------------------------------------------------------------
-Amino             | NH2               | Amines
+Amino             | NH2               | Amines (are bases)
 Carboxyl          | COOH              | Carboxylic Acids
 Carbonyl          | CO                | Attached to an inner carbon: keytones
                   |                   | Attached to a terminal carbon: aldehydes
