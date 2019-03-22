@@ -87,7 +87,7 @@ Full Cellular Respiration Process (aerobic - when oxygen is present):
             Helps to replenish the amount of NAD in the cytoplasm
 
 2) Oxidative decarboxylation (pyruvate oxidation)
-    - Begins to move from cytosol into the mitochondria, which requires energy
+    - Begins to move from cytosol into the mitochondrion, which requires energy
       to pass double membrane
 
     Inputs:  1 Pyruvate, 1 CoA,   1 NAD   | This happens twice, as 2 pyruvates
@@ -123,7 +123,7 @@ Full Cellular Respiration Process (aerobic - when oxygen is present):
                      -> CoA comes off and can be used again in step 2
                     |
     Acetyl CoA      |       Citric Acid
-        -----       |               -----
+        -----      /                -----
     C-C-|CoA| ------------> C-C-C-C-|C-C|
         -----         /       |     -----
                       |       v
@@ -154,13 +154,13 @@ Energy released by this process gets converted mostly into NADH and FADHsub(2),
 
     ============================================================================
 
-        Mitochondrion double wall                               matrix
+        Mitochondrion double wall                            <-- matrix
         |  |                  -        ----
         |  |                 |Q|      |CytC|
-        |  |                  -        ----
-        |  |        NADH   FADHsub(2)
-        |   \----------O------O------O------O---------------------------------\
-        |    Complex:  i      ii     iii    iv                                 |
+        |  |                  -        ----             Intermembrane Space
+        |  |        NADH   FADHsub(2)                           |
+        |   \----------O------O------O------O-------------------|-------------\
+        |    Complex:  i      ii     iii    iv                  v              |
         |              |             |      |                                  |
         |              v             v      v                                  |
         |            4 H^+         4 H^+  2 H^+  -------------v                |
