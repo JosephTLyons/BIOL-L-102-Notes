@@ -1,0 +1,32 @@
+Mitochondria and Chloroplasts have several key structural similarities that they
+share with bacteria
+
+These similarities are the basis of the ENDOSYMBIONT THEORY, which is the idea
+that mitochondria, chloroplasts, and many other organelles may have evolved from
+bacteria that had been taken into eukaryotic cells at some point in the past.
+Thus, according to the endosymbiont theory, eukaryotic cells evolved from the
+merging together of multiple prokaryotic cells.
+
+Main Idea:
+    - Bacteria merges into a plant or animal cell and overtime, begins to
+      develop into organelles
+
+Evidence of Endosymbiotic Origin of Mitochondria and Chloroplasts
+    - Double membrane
+    - Similar in size to bacteria
+    - Replicate by fission (like bacteria), independently of cell division
+    - Have their own genome, consisting of a ring of DNA (but smaller than a
+      typical bacterial genome)
+    - Have their own ribosomes, similar to bacterial ribosomes
+    - Inner membrane of mitochondria has a molecule (CARDIOLIPIN) that is found
+      in bacterial membranes (but not eukaryotic membranes)
+        - Cardiolipin: 2 phospholipids connected by a glycerol
+    - Chloroplasts in some algae and mosses have an outer layer of
+      peptidoglycans
+
+Evolutionary Origin of Mitochondria and Chloroplasts
+    - Mitochondria are genetically similar to a group of bacteria
+      (α-proteobacteria) that commonly form symbiotic or parasitic relationships
+      with eukaryotes
+    - Chloroplasts are genetically similar to a very ancient group of
+      photosynthetic bacteria (cyanobacteria)

@@ -123,9 +123,9 @@ Full Cellular Respiration Process (aerobic - when oxygen is present):
                      -> CoA comes off and can be used again in step 2
                     |
     Acetyl CoA      |       Citric Acid
-        -----      /                -----
+         ---       /                 ---
     C-C-|CoA| ------------> C-C-C-C-|C-C|
-        -----         /       |     -----
+         ---          /       |      ---
                       |       v
     Oxaloacetate      |     C-C-C-C-C-C
     C-C-C-C ----------|       |      |                      1 ATP,
@@ -221,3 +221,5 @@ Final Short Recap of Products (On page 27 of notes below Krebs cycle)
 
     2 ATP from Glycolysis + 2 from Krebs + 34 from Oxidative Phosphorylation
         total = 38 ATP from one Glucose molecule
+
+SEE: endosymbiont-theory.txt
