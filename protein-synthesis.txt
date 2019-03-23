@@ -11,11 +11,11 @@ It is often stated as "DNA makes RNA and RNA makes Protein."
 ================================================================================
 
 DNA
-    - Consists of two strands of nucleotides (Guanine, Adenine-Thymine)
+    - Consists of two strands of nucleotides (Guanine-Cytosine, Adenine-Thymine)
     - Template Strand (3' to 5') vs Coding Strand (5' to 3')
 
 RNA
-    - Consists of a single strand of nucleotides (Guanine, Adenine-Uracil)
+    - Consists of a single strand of nucleotides (Guanine-Cytosine, Adenine-Uracil)
 
 Proteins (polypeptides)
     - Consists of a sequence of amino acids (20 different types)
