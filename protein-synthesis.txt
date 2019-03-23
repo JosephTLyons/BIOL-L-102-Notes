@@ -15,7 +15,8 @@ DNA
     - Template Strand (3' to 5') vs Coding Strand (5' to 3')
 
 RNA
-    - Consists of a single strand of nucleotides (Guanine-Cytosine, Adenine-Uracil)
+    - Consists of a single strand of nucleotides (Guanine-Cytosine, 
+      Adenine-Uracil)
 
 Proteins (polypeptides)
     - Consists of a sequence of amino acids (20 different types)
