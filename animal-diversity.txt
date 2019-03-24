@@ -1,0 +1,75 @@
+Animals:
+    - Key Common Traits Among All/Most Animals:
+        - Eukaryotic
+        - Multicellular
+        - No Cell Walls
+        - Extracellular Matrix (with collagen)
+            - Collagen:
+                - Protein unique to animals, present in all animals
+                - "Glues" things together
+        - Heterotrophic (animals generally “engulf” their food)
+            - Vs autotrophic
+                - Beings that generate their own food
+                    - Ex: Like plants do with photosynthesis
+        - Movement (typically involving nerves and muscle)
+            - Also, cilia and flagella
+        - Cleavage (a type of mitosis occurring during very early embryonic
+          development)
+
+Background Information:
+    -Mitosis vs Meiosis
+        - Definition
+            - Processes which describe the production of new cells
+        - Mitosis
+            - Produces 2 daughter cells which are genetically identical to the
+              parent cell
+            - Each daughter cell is diploid (contains the normal number of
+              chromosomes).
+            - Mitosis is used in growth and asexual reproduction.
+        - Meiosis
+            - Produces 4 daughter cells, each of which are unidentical to the
+              parent cell and to one another.
+            - Each daughter cell is haploid (contains half the number of normal
+              chromosomes).
+            - There are two cell divisions: the parent cell divides once and
+              then each cell produced by this first division divides once.
+            - Used to produce gametes (sperm and egg cells), the cells of sexual
+              reproduction. Two gametes fuse to form a zygote, a diploid cell
+              with the full number of chromosomes.
+
+    - Haploid, Diploid, Triploid ...
+        - Definition:
+            - Describe the amount of chromosomes in the cell
+        - Haploid: 1n
+        - Diploid: 2n
+            - Most mammals are diploid
+                - 23 Chromosome PAIRS (2n = 2 * 23 = 46)
+                - The haploid number for humans is 23
+        - Triploid: 3n
+        - Tetraploid: 4n
+
+    - Gamete
+        - A mature haploid male or female germ cell which is able to unite with
+          another of the opposite sex in sexual reproduction to form a zygote
+
+Cleavage (what makes it different from other types of mitosis?)
+    - Very rapid cell division
+    - Synchronized cell division
+    - Cells get progressively smaller with each division (i.e., no net increase
+      in the size of the embryo)
+    - Cleavage is a type of MITOTIC cell division only known to occur in the
+      earliest stages of animal development
+    * At the end of cleavage, the embryo becomes a "BLASTULA"
+        - "Blast-": something that will develop into something else
+    * It is after the blastula stage that development begins to vary among
+      animal phyla
+
+    - Process
+        1) 2 haploid gametes (egg and sperm germ cells) fuse to become a diploid
+           zygote.
+        2) This zygote begins to rapidly "cleave" until it becomes a blastula
+            - Morula: an intermediate stage during cleavage where the embryo
+              resembles a “mulberry” 
+            - The center of of the blastula is called a "blastocoel"
+                - "-coel": Having a chamber or cavity
+            - The cells here are undifferentiated
