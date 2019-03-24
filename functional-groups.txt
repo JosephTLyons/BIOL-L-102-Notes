@@ -6,5 +6,5 @@ Carbonyl          | CO                | Attached to an inner carbon: keytones
                   |                   | Attached to a terminal carbon: aldehydes
 Hydroxyl          | OH                | Alcohols
 Phosphate         | POsub(4)super(3-) | Organic Phosphates
-sulfhydryl        | SH                | Thiols
+Sulfhydryl        | SH                | Thiols
 Methyl            | CH3               | Alkanes
