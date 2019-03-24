@@ -7,7 +7,7 @@ The Central Dogma of Molecular Biology describes the two-step process,
 transcription and translation, by which the information in genes flows into
 proteins: DNA -> RNA -> Protein.
 
-It is often stated as "DNA makes RNA and RNA makes Protein."
+It is often stated as "DNA codes for RNA and RNA codes for Protein."
 ================================================================================
 
 DNA
@@ -15,7 +15,7 @@ DNA
     - Template Strand (3' to 5') vs Coding Strand (5' to 3')
 
 RNA
-    - Consists of a single strand of nucleotides (Guanine-Cytosine, 
+    - Consists of a single strand of nucleotides (Guanine-Cytosine,
       Adenine-Uracil)
 
 Proteins (polypeptides)
@@ -45,7 +45,7 @@ Transcription (in Eukaryotes):
             - A <-> T
 
     - Creation of an mRNA
-        1) pre-RNA strand (intermediate step to make mRNA)
+        1) pre-mRNA strand (intermediate step to make mRNA)
             - Technically made from the template strand
             - But it is easier to just copy the coding strand, swapping the
               'T' for 'U'
@@ -55,9 +55,9 @@ Transcription (in Eukaryotes):
            | |
             -
             | Gene 1              | Gene 2               | Gene 3         | ...
-            *-------------------------------------------------------------  ...
-            ^
-            |
+            *--------------------x*---------------------x*---------------x*  ...
+            ^                    ^
+            |                    | Terminator
             Promoter
                 - Short segment of DNA that marks the location of a gene in DNA.
                   This is where the transcription factor molecules will bind.
@@ -71,11 +71,11 @@ Transcription (in Eukaryotes):
                               specific gene on the template strand.
                         2) Elongation:
                             - Run down the template strand, zipping and
-                              unzipping the strands while making an pre-RNA
+                              unzipping the strands while making a pre-mRNA
                               transcript
                         3) Termination
                             - Pops off the template strand, leaving the new
-                              pre-RNA strand for the next step.
+                              pre-mRNA strand for the next step.
             - Example
                 - Template: 3' ACCAAACCGAGT 5'
                 - Coding:   5' TGGTTTGGCTCA 3'
@@ -120,8 +120,8 @@ Translation (in Eukaryotes):
       ribosomes might show up (such as the cytosol).
 
     - Ribosome consists of 2 components:
-        1) Large Subunit
-        2) Small Subunit
+        1) Large Ribosomal Subunit
+        2) Small Ribosomal Subunit
 
         Both are made from RNA and Protein in the nucleus
 
@@ -142,9 +142,106 @@ Translation (in Eukaryotes):
                    v mRNA binding sites (has mRNA sequence ??)
                    |||
                    ------
-                  |      | small subunit attaches on bottom
-                   ------  as a note, the large subunit attaches on top,
-                           "sandwiching" the mRNA transcript
+                  |      | - Small subunit attaches on bottom
+                   ------  - As a note, the large subunit attaches on top,
+                             "sandwiching" the mRNA transcript.
+                           - Links by base pairs
+
+            - Codon Definition:
+                - A sequence of 3 nucleotides that "code" for a specific amino
+                  acid.
+                - Codons refers the ones in the mRNA
+
+            - The 1st codon in a polypeptide coding sequence is always
+              methionine.  It is considered the "start codon" and its
+              represented by "AUG."
+
+            - Each amino acid is brought by transferRNA (tRNA), which has set of
+              3 nitrogenous bases called the "anticodon" that link with a codon
+              in the mRNA.
+                - tRNA has "stems" and "loops."
+                * remember, we are dealing with RNA here, so linking of base
+                  pairs in the codons and the anticodons are: G-C, A-U
+
+            * Note, at this point, the large ribosomal subunit is sitting on top
+              of the mRNA with each tRNA in either the E, P, or A region.
+
+            * Summary of Initiation
+                - The large and small ribosomal subunits attach to the mRNA at
+                  the start codon site ("AUG")
 
         2) Elongation
+            - The linking of individual amino acids after forming base pairs
+              with the codons of mRNA and anticodons of tRNA.
+
+            - We are still at the site of the start codon, "AUG," or methionine.
+
+            - E, P, and A sites
+                - A: Amino acyl (Right)
+                    - Where new AMINOACYL tRNA molecules come in to bind to the
+                      mRNA
+                        - AMINOACYL tRNA: has an amino acid
+                        - Note: the these can only enter the A site if they have
+                          the correct anticodon for the matching codon in the
+                          mRNA in the A site.
+                    - Condensation reaction occurs between amino acid in this
+                      site and amino acid in P site, forming a peptide bond
+                - P: Polypeptide / Protein) (Middle)
+                - E: Exit (Left)
+                    - Where old "uncharged" tRNA molecules leaves
+                        - "Uncharged" = lost its amino acid when it linked to
+                          another via condensation reaction (peptide bond)
+
+            - It should be noted that after a peptide bond is formed between
+              amino acids in the P and A sites, that the whole structure (both
+              small and large subunits) move down the line one codon (3 base
+              pairs) to the right.
+
+            - Polypeptide chain grows during elongation as moves one codon at a
+              time down the mRNA.
+
+            - Elongation occurs until a stop codon is reached
+
         3) Termination
+            - A stop codon is reached
+                - It enters the A site
+                - A release factor is a tRNA shaped protein that can enter the
+                  A site when a stop codon is present on the mRNA strand.
+                    - Causes process to end: Large Subunit, Small Subunit, and
+                      polypeptide chain all dissociate from the mRNA
+
+Transcription and Translation Video:
+    - https://www.youtube.com/watch?v=2BwWavExcFI
+
+Mutations can occur during translation (and transcription ?)
+    - Generalized effects of a mutation
+	    - N: Neutral
+	         (no change in protein function)
+
+	    - B: Beneficial
+             (enhancement in protein function)
+
+	    - D: Deleterious (from the word "delete")
+             (reduction or loss of protein function)
+
+    - Categories of Mutations:
+        1) Point Mutations
+            - Definition:
+                - Substituting one nucleotide for another
+
+            - Silent mutation (N)
+                - Results in synonymous codon (no change at all)
+                - (e.g. AGA -> AGG, still codes for arginine)
+
+            - Missense mutation (B, N, D)
+                - Results in a change from one amino acid to another
+                - (e.g. AGA -> GGA, changes from arginine to glycine)
+
+            - Nonsense mutation (D)
+                - Results in a change from a regular codon to a stop codon
+                - (e.g. AGA -> UGA, changes from arginine to ‘stop’)
+                - Mnemonic: "non-stop"
+
+        2) Frameshift Mutations (D)
+            - Insertion or deletion of one or more NUCLEOTIDES (not codon), affecting
+              every codon downstream from the mutation
