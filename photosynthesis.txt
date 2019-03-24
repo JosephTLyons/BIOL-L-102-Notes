@@ -181,7 +181,7 @@ Calvin Cycle
             - [Steps 1 and 2 occur 3x, step 3 occurs 1x] <- whole process 2x
                 - Calvin Cycle 6x to make 1 glucose and regenerate 6 more RuBP
                   to power the cycle again.
-        - https://www.youtube.com/watch?v=0UzMaoaXKaM
+            - https://www.youtube.com/watch?v=0UzMaoaXKaM
 
 Final Parallels Between Cell Respiration and Photosynthesis
     - Cell Respiration
