@@ -1,3 +1,7 @@
+================================================================================
+Animal Diversity Part 1
+================================================================================
+
 Animals:
     - Key Common Traits Among All/Most Animals:
         - Eukaryotic
@@ -39,7 +43,7 @@ Background Information:
 
     - Haploid, Diploid, Triploid ...
         - Definition:
-            - Describe the amount of chromosomes in the cell
+            - Describe the amount of copies of chromosomes in the cell
         - Haploid: 1n
         - Diploid: 2n
             - Most mammals are diploid
@@ -69,7 +73,197 @@ Cleavage (what makes it different from other types of mitosis?)
            zygote.
         2) This zygote begins to rapidly "cleave" until it becomes a blastula
             - Morula: an intermediate stage during cleavage where the embryo
-              resembles a “mulberry” 
+              resembles a “mulberry”
             - The center of of the blastula is called a "blastocoel"
                 - "-coel": Having a chamber or cavity
             - The cells here are undifferentiated
+            - Will develop into animals with no true tissues, no symmetry, and
+              no digestive tract
+                -> Porifera stem off here
+        3) The blastula undergoes gastrulation and begins to form an
+           invagination that becomes a "blastopore" and a "archenteron."  The
+           blastula is now called a "gastrula."
+            - Blastopore
+                - The opening of the now gastrula
+            - Archenteron
+                - The rudimentary alimentary cavity of an embryo at the gastrula
+                  stage.
+
+            - Gastrulation accomplishes two main things:
+                1) Establishes an inner and outer layer of cells
+                    - i.e. the beginning of tissue differentiation
+
+                2) Establishes the beginnings of a digestive system with an
+                   opening called a “blastopore” which will remain the only
+                   opening in the digestive system of some phyla, or will become
+                   either the mouth or the anus of the digestive system
+                   depending on whether the animal is a “protostome” or a
+                   “deuterostome”
+
+            - The early stage of gastrulation will go on to form cnidarians
+                - Will develop into radially symmetrical animals with only two
+                  tissue layers and a digestive tract with only one opening
+
+            - The late stage of gastrulation, the one that include ectoderm and
+              endoderm, the archenteron, and the blastopore, will go on to make
+              bilateria.
+                - Will develop into complex, bilaterally symmetrical animals
+                  with three tissue layers, and a complete digestive tract
+                  (mouth & anus)
+                    * Alimentary canal
+                        * Digestive track with 2 openings
+
+================================================================================
+Animal Diversity Part 2
+
+NOTE: These are just some notes, as most of this is in practical-1.txt
+================================================================================
+
+- Sponge vs Corral Identification:
+    - In telling the difference between sponge (porifera) and corral
+      (cnidarian), as in quiz 8, look for the specimen to have a cavity / tube.
+      If it does, it is more than likely a sponge.
+
+- Cnidocyte vs Nematocyst
+    - Cnidocyte:
+        - The overall stinging cel structure
+
+    - Nematocyst:
+        - Refers to an organelle inside the cnidocyte, consisting of an
+          ejectable thread that causes a sting.
+
+- Mesoglea vs Mesoderm
+    - Mesoglea (in diploblastic specimens)
+        - Mesoglea, also known as mesohyl, is the translucent, non-living,
+          jelly-like substance found between the two epithelial cell layers
+          (i.e., between the ectoderm and endoderm) in the bodies of cnidarians
+          and sponges.
+    - Mesoderm (in triploblastic specimens)
+        - In all bilaterian animals, the mesoderm is one of the three primary
+          germ layers in the very early embryo.
+
+- Symmetry
+    - Asymmetrical
+        - Porifera
+    - Radial
+        - Cnidarian
+        - "Aboral"
+    - Bilateria
+        - Anterior
+        - Posterior
+        - Ventral
+        - Dorsal
+
+    - In Cnidaria
+        - In terms of development, the blastopore (the opening the gastrula)
+          becomes the single opening for digestion, and acts as both a mouth and
+          an anus.
+
+        - The archenteron becomes the gastrovascular cavity.
+
+        - The generations flip / flop between polyp and medusa forms.
+
+- Protostomes vs Deuterostomes
+    - Protostomes
+        - Determinate cleavage
+        - "Mouth develops first" (from blastopore)
+        - Can't have twins
+    - Deuterostomes (echinoderms and chordates)
+        - Indeterminate cleavage
+        - "Mouth develops second" (from blastopore) (anus develops first)
+        - Can have twins
+
+    - Body Plans of Bilateria
+        -Early development (protostome vs deuterstome; trochophore larva)
+            - A trochophore larva is a developmental phase present in some
+              protostomes
+        - Coelom (body cavity)
+        - Segmentation
+        - Ecdysis (hard outer cuticle that must be shed periodically for the
+          animal to grow)
+
+================================================================================
+Animal Diversity Part 3 ("continued in slides 15")
+================================================================================
+
+-Bilateria
+    - Advantages of a Coelom
+        - Definition
+            - A fluid-filled body cavity found in triploblastic organisms
+            - A “true coelom” is surrounded by the mesoderm (specimen with true
+              coeloms -> "eucoelomates")
+                - As a reminder:
+                    - Pseudocoelom develops between the mesoderm and endoderm
+
+        1) Provides room for complex, independently moving organs
+
+        2) Provides a hydrostatic skeleton for movement
+            - Because water is “non-compressible”, if you apply pressure to a
+              fluid-filled cavity in one direction, it will cause the cavity to
+              lengthen in a direction perpendicular to the direction of
+              pressure.
+
+            - Two layers of muscles
+                1) Longitudinal muscle that runs the length of the coelom
+                    - When the longitudinal muscles contract, the coelom
+                      shortens but its diameter increases
+                    - Compress the coelom; shorten the body
+
+                2) Circular muscle wrapping around the coelom like a ring
+                    - Conversely, when the circular muscles contract, the coelom
+                      decreases its diameter but becomes more elongate.
+                    - Squeeze the coelom; elongate the body
+    - Protostomes
+        - Ecdysozoans (hard-bodied)
+            - Hard-bodied invertebrates, where the hard body is a protective
+              exoskeletons.  In order to grow, they need to periodically molt
+              there exoskeleton in a process called “ecdysis”.
+            - Examples
+                - Arthropoda (crabs, lobsters)
+                - Nematoda
+        - Lophotrochozoans (soft-bodied)
+            - Soft-bodied (sometimes protected by a shell) invertebrates which
+              can grow continuously.  Many of them start off life soon after
+              gastrulation as tiny, free-swimming “trochophore larvae” before
+              developing into their adult forms.
+            - Examples
+                - Annelida (Segmentation)
+                - Mollusca
+                - Platyhelminthes (Acoelomates)
+    - Deuterostomes
+        - Chordata
+            - Segmentation
+                - Bones are segmented
+                - Muscles are segmented
+        - Echinodermata (Radial symmetry, or pentaradiate)
+
+
+    - Segmentation
+        - Definition
+            - Repeated body units
+            - Has evolved independently among several animal phyla
+                - Anthropods
+                - Chordata
+                - Annelida
+        - When animals have repeated body units
+            - Can enhance the flexibility of movement
+            - Different segments can be specialized for different functions
+        - Annelids can elongate and compress individual segments independently
+          of each other.
+            - Not just one hydrostatic skeleton, but each segment is its own
+              hydrostatic skeleton.
+        - Tagmata
+            - Segments in specific regions that work together to carry out
+              specific sets of functions within anthropods.
+                - Insects
+                    - Head
+                    - Thorax
+                    - Abdomen
+                        - Digestive
+                        - Reproduction
+                - Crustacea (crabs and crayfish)
+                    - Cephalothorax
+                    - Abdomen
+
+- Multicellular Eukaryotic Organisms
+    - Plants, Animals, Fungi

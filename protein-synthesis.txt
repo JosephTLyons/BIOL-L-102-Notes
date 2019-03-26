@@ -1,4 +1,7 @@
-Dogma Definition: A truth everyone must agree on
+Dogma Definition:
+    - A principle or set of principles laid down by an authority as
+      incontrovertibly true.
+    - In other words, a truth everyone must agree on
 
 The Central Dogma: the currently accepted theory of protein synthesis
 
@@ -60,8 +63,8 @@ Transcription (in Eukaryotes):
             |                    | Terminator
             Promoter
                 - Short segment of DNA that marks the location of a gene in DNA.
-                  This is where the transcription factor molecules will bind.
-                  An enzyme called RNA polymerase is introduced at the sit of
+                  This is where the Transcription Factor molecules will bind.
+                  An enzyme called RNA polymerase is introduced at the site of
                   the transcription factor molecule.
 
                     - RNA polymerase will make an RNA transcript of the gene.
@@ -88,8 +91,8 @@ Transcription (in Eukaryotes):
               remove the intron, leaving only just the exons (contains
               information for making proteins) and a complete mRNA strand.
             - After all the introns are removed, a 5' cap is put on the left
-              side of the RNA transcript and a PolyA Tail (AAA...) is placed on
-              the right side (where the 3' would go) (terminal end)
+              side of the pre-mRNA transcript and a PolyA Tail (AAA...) is placed
+              on the right side (where the 3' would go) (terminal end)
                 - PolyA is a chain of adenosine molecules.
 
             Page 36 of notes has a drawing of this
@@ -106,8 +109,8 @@ Transcription (in Eukaryotes):
             where '|' mark where an intron was removes leaving only exons
 
         Review:
-            1) An RNA transcript is made using the template strand of DNA
-            2) Introns are removed (by snRNPs and Spliceosomes)
+            1) An pre-mRNA transcript is made using the template strand of DNA
+            2) Introns are removed (by snRNPs / Spliceosomes)
             3) 5' added to left, PolyA (AAA...) is added to right (3' side)
 
 Translation (in Eukaryotes):
@@ -115,9 +118,6 @@ Translation (in Eukaryotes):
     - When mRNA leaves the nucleus, it travels to ribosomes in the cytoplasm
       where the sequence of nucleotides in the mRNA is used to generate a
       corresponding sequence of amino acids (i.e., a polypeptide, or protein)
-    - Most translation occurs in the Rough Endoplasmic Reticulum, as that's
-      where most of the ribosomes are, but translation can occur elsewhere where
-      ribosomes might show up (such as the cytosol).
 
     - Ribosome consists of 2 components:
         1) Large Ribosomal Subunit
@@ -126,7 +126,7 @@ Translation (in Eukaryotes):
         Both are made from RNA and Protein in the nucleus
 
     - Steps have the same names as in transcription during the RNA polymerase
-      step (it seems whenever a structure attaches to some for of DNA/RNA, they
+      step (it seems whenever a structure attaches to some form of DNA/RNA, they
       have the same step names):
 
         1) Initiation
@@ -156,7 +156,7 @@ Translation (in Eukaryotes):
               methionine.  It is considered the "start codon" and its
               represented by "AUG."
 
-            - Each amino acid is brought by transferRNA (tRNA), which has set of
+            - Each amino acid is brought by transferRNA (aminoacyl tRNA), which has set of
               3 nitrogenous bases called the "anticodon" that link with a codon
               in the mRNA.
                 - tRNA has "stems" and "loops."
@@ -177,16 +177,18 @@ Translation (in Eukaryotes):
             - We are still at the site of the start codon, "AUG," or methionine.
 
             - E, P, and A sites
-                - A: Amino acyl (Right)
-                    - Where new AMINOACYL tRNA molecules come in to bind to the
+                - A: Aminoacyl (Right)
+                    - Where new Aminoacyl tRNA molecules come in to bind to the
                       mRNA
-                        - AMINOACYL tRNA: has an amino acid
+                        - Aminoacyl tRNA: has an amino acid attached to it
                         - Note: the these can only enter the A site if they have
                           the correct anticodon for the matching codon in the
                           mRNA in the A site.
                     - Condensation reaction occurs between amino acid in this
                       site and amino acid in P site, forming a peptide bond
-                - P: Polypeptide / Protein) (Middle)
+                - P: Polypeptide / Protein (Middle)
+                    - The growing polypeptide chains grows out of a hole in the
+                      P site.
                 - E: Exit (Left)
                     - Where old "uncharged" tRNA molecules leaves
                         - "Uncharged" = lost its amino acid when it linked to
@@ -204,9 +206,8 @@ Translation (in Eukaryotes):
 
         3) Termination
             - A stop codon is reached
-                - It enters the A site
-                - A release factor is a tRNA shaped protein that can enter the
-                  A site when a stop codon is present on the mRNA strand.
+                - A Release Factor, which is a tRNA shaped protein, enters the
+                  A site where a stop codon is present on the mRNA strand.
                     - Causes process to end: Large Subunit, Small Subunit, and
                       polypeptide chain all dissociate from the mRNA
 
@@ -243,5 +244,5 @@ Mutations can occur during translation (and transcription ?)
                 - Mnemonic: "non-stop"
 
         2) Frameshift Mutations (D)
-            - Insertion or deletion of one or more NUCLEOTIDES (not codon), affecting
-              every codon downstream from the mutation
+            - Insertion or deletion of one or more NUCLEOTIDES (not codon),
+              affecting every codon downstream from the mutation

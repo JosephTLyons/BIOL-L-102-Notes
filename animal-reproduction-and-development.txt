@@ -1,0 +1,174 @@
+- Meiosis
+    - A type of cell division in which 1 2n cell undergoes sets
+      of divisions to end up as 4 haploid daughter cells, each
+      of which is genetically different
+        - requires even number of chromosomes:
+            - diploid, tetraploid, ...
+- Mitosis
+    - A type of cell division in which a cell (of any ploidy)
+      divides once to end up as 2 genetically identical daughter
+      cells
+    - Mnemonic: MiTosis -> TWO -> TWINS
+
+- Sexual Reproduction:
+    - Egg and sperm fertilize to become a zygote
+        - Involves meiotic cell division
+            - 1 diploid cell divides twice to produce 4 genetically different
+              haploid daughter cells (gametes: egg & sperm)
+        - Both are "gamete" cells
+            - Gametes are produced by organs called gonads
+                - Ovary -> eggs
+                - Testes -> sperm
+            - Gametes are haploid and are produced by meiosis
+    - Offspring are genetically different from their parents and siblings
+
+    - Advantages:
+        - Genetically diverse offspring (is useful in a changing or
+          unpredictable environment)
+        - Provides protection against mutation load
+            - Definition of mutation load
+                - Harmful mutations tend to accumulate over many generations and
+                  are passed on to all of the offspring
+                - Accumulation of deleterious mutation
+        - More ideal during changing, unpredictable conditions or under
+          situations when mutation load is a problem
+
+    - Disadvantages:
+        - Genetically diverse means passing on a lower proportion of your own
+          genes.
+        - Resources needed to find a mate.
+        - Resources put into creation of sperm and egg (gamete production), but
+          most of these will never become zygotes (wasted)
+
+- Asexual Reproduction
+    - Some animals can reproduce asexually
+    - This will involve mitotic cell division
+    - Offspring are genetically identical to their parents or siblings
+
+    - Advantages:
+        - Pass on more copies of your genes
+        - No resources lost
+            - Looking for mates
+            - Producing unused gametes
+        - Resources can go towards the actual offspring
+
+    - Disadvantages:
+        - More ideal during stable, predictable conditions but can be
+          problematic over multiple generations due to mutation load
+            - Mutation load defined above
+        - Offspring are genetically identical, meaning that adverse conditions
+          that kill one of them could very likely kill all of them
+
+    - Types of Asexual Reproduction
+        - Budding
+            - A new individual sprouts from the body of another using mitosis
+                - Porifera and Cnidaria
+
+        - Fragmentation (or "Fission")
+            - When one individual splits its body into two or more pieces of
+              approximately the same size
+                - Cnidaria, Platyhelminthes, and Echinodermata
+
+        - Parthenogenesis
+            - When a female produces eggs through mitosis instead of meiosis
+            - These eggs do not need to be fertilized to undergo embryonic
+              development
+                - Occurs in a variety of phyla, including Arthropoda and
+                  Chordata
+            - Types of Parthenogenesis
+                - Haploid
+                    - Unfertilized haploid egg develops without being
+                      fertilized (this would've been diploid had they of been);
+                      not completely asexual because meiosis is involved even
+                      though fertilization is not
+                    - Develops into haploid individual
+                    - e.g., male bees, wasps, and ants
+
+                - Diploid
+                    - Apomictic
+                        - Females produce diploid eggs through mitosis which
+                          develop into clones of the mother; clearly asexual
+                        - Develops into diploid individual
+                        - e.g. aphids, daphnia
+
+                    - Automictic
+                        - Females produce haploid eggs that get fertilized by
+                          other oocytes or polar bodies
+                        - Develops into diploid individual
+                        - e.g. some lizards
+
+Gametogenesis:
+    - Germ Cells
+        - Cells in the body capable of undergoing meiosis to become gametes
+
+    - Spermatogenesis
+        - See slides L102_Lecture16&17
+
+               O           Germ Cell
+               |
+               | Mitosis and Differentiation (other copy after mitosis goes
+               v                              elsewhere ?)
+               O           Primary Spermatocyte (2n)
+               |
+               | Meiosis 1
+               v
+              O O          Secondary Spermatocyte (1n)
+               |
+               | Meiosis 2
+               v
+            O O O O        Undifferentiated cells (spematids)
+               |
+               |
+               v
+            * * * *        Mature Sperm Cells (spermatozoa)
+
+                - During spermatogenesis, each diploid “primary spermatocyte”
+                  produces four haploid “spermatozoa”
+
+        - High number because they take low amounts of resources to make
+            - Mobile
+
+    - Oogenesis
+        - See slides L102_Lecture16&17
+
+               O           Germ Cell
+               |
+               | Mitosis and Differentiation (other copy after mitosis goes
+               v                              elsewhere ?)
+               O           Primary Oocyte (2n)
+               |
+               | Meiosis 1
+               v
+              O #          O = Secondary Oocyte (1n)
+               |           # = First polar body
+               | Meiosis 2
+               v
+            * # # #        O = Mature Oocyte (1n)
+                           # = Polar bodies
+
+                - During oogenesis, each diploid “primary oocyte”
+                  produces only one haploid mature “ovum” and three
+                  haploid “polar bodies”
+
+        - Low number because they take high amounts of resources to make
+            - Stationary
+
+Fertilization
+    - Sperm use a chemical gradient to locate an egg (chemoattraction)
+    - Sperm binds to the outer layer of the egg
+    - Acrosomes release their contents and the flagellum increases its activity
+      to help the sperm penetrate to the cell membrane of the egg
+    - When the sperm contacts the cell membrane of the egg:
+        - The cell membranes of the sperm and the egg cell merge, allowing the
+          sperm nucleus to enter the egg
+        - Calcium ions inside the egg are used to generate a low voltage signal
+          (called an “action potential”) that rapidly travels over the surface
+          of the egg
+        - The action potential induces “cortical granules” near the surface of
+          the egg to release their contents via exocytosis
+        - The chemicals released break down sperm receptors on the outside
+          surface of the egg’s cell membrane and induce the vitelline envelope
+          to separate from the cell membrane and change into a denser
+          “fertilization envelope”
+    - The fertilization envelope prevents multiple sperm from fertilizing the
+      egg (i.e. it prevents “polyspermy”)

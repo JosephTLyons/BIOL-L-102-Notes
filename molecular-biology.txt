@@ -1,0 +1,36 @@
+- Molecular Biology
+    - Definition:
+        - A branch of biology that deals directly with the molecules that allow
+          a cell to function.
+        - Concerned with DNA replication (The Central Dogma of Molecular
+          Biology)
+
+    - Restriction Enzymes
+        - Proteins whose function is to catalyze the cleavage of a nucleic acid.
+            - These enzymes break the a specific covalent bond between
+              nucleotides in a strand.
+        - Cut DNA
+        - Example
+            - EcoRI
+
+    - Restriction Sites
+        - A very specific sequence of nitrogenous bases that each restriction
+          enzyme recognizes
+        - Usually are palindromes
+
+    - Ligases glue DNA
+
+    - Electrophoresis
+        - Refers to the movement of molecules in an electrical field, due to the
+          attraction between charges on the molecule and opposite charge on the
+          electrode.
+        - The molecules are placed in a gel, which provides an obstacle for
+          these molecules as they are being "pushed" by the electrical charge.
+        - The gel is a meshwork of large inert polymers
+            - Carbohydrates such as agarose
+        - DNA is negatively charged, it moves from the negative side to the
+          positive side.
+        - DNA Ladder is the "standard"
+        - If charge on the molecules is the same, then the size of the molecule
+          is what determines how far it travels through the meshwork.
+            - Smaller particles can move more freely and will move further down
