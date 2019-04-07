@@ -468,7 +468,5 @@ Important Points:
     - Know the teeth
     - Be able to tell differences between carnivores, herbivores, omnivores
 
-
-
 References:
     animal-anatomy-and-function.txt
