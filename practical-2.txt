@@ -1,8 +1,10 @@
 Topics Covered
 
-- Lab 10 (6): Molecular Biology
+- Lab 10 (Formerly Lab 6): Molecular Biology
 
 - Lab 11: Cardiac Physiology
+    - Lab Notes
+    - Lab Slides
 
 - Lab 12: Plant Structure
     - Generalized Plant Phylogeny:
@@ -16,8 +18,81 @@ Topics Covered
                 - Gymnosperms
                 - Angiosperms (flowering plants)
 
+    - Other Classification
+        - Seedless Non-Vascular:
+            - Ex: Mosses
+        - Seedless Vascular:
+            - Ex: Ferns
+        - Seed-bearing Vascular
+            - Gymnosperms
+                - Uncovered / "Naked" Seed
+                - Seeds are usually configured as cones
+                - Ex: Conifers
+                    - Spruce
+                    - Pine
+                    - Secoya
+            - Angiosperms
+                - Covered Seed
+                    - Closed within an ovary (usually a fruit)
+                - Ex. Flowering Plants, Monocots, Dicots
+
+    - Organ Systems
+        - Shoots (above ground usually)
+            - Stems (Organ)
+                - Nodes
+                    - The place in which a bud, leaf, twig, or branch is
+                      attached to the main portion of the plant
+                    - Ex: On a potato, the "eyes" are nodes; its where the
+                      sprouting begins (what is sprouting here though?)
+                - Internodes
+                    - Main portion of the plant between nodes (between nodes)
+            - Leaves (Organ)
+        - Roots (below ground usually)
+            - Organ is the Root
+
+    - Plant Cells and Tissues
+        - 3 tissues
+            - Epidermal
+                - Outer layer of of cells
+                - protection
+                - reduces water loss
+                - allows gas exchange
+                - In above-ground parts of terrestrial plants, covered with
+                  cuticle (wax = cutin)
+
+            - Vascular
+                - Conducts water, minerals, sugars throughout the plant body
+                - Provides support
+            - Ground
+                - Photosynthesis
+                - Storage
+                - Support
+
+    - 3 Types of Cells
+        1) Epidermal cells
+        2) Guard cells - open and close stomata
+        3) Hair cells (trichome cells)
+
+    - Vascular - tubes in plant
+        - Xylem
+            - Water
+            - Usually smaller
+            - Moves contents only up
+            - Tracheid Cells
+                - Cell that helps in the transportation of water
+                - Dead functional cells
+        - Phloem
+            - Food (sugar)
+            - Usually bigger
+            - Moves contents both up and down
+            - Companion Cells
+                - ????
+                - Load sugars
+                - Provides help to sieve tubes
+
     - Meristems
         - Produce primary growth
+            - Growth is indeterminate
         - Similar to stem cells in humans
         - Forever embryonic cells (??)
         - Kinds
@@ -26,6 +101,54 @@ Topics Covered
                 - Vertical growth upwards and downwards
             - Lateral
                 - Width growth (wood and bark)
+
+    - Monocot vs Dicot
+        - Monocot
+            - One cotyledon in seed
+                - Cotyledon: An embryonic leaf in seed-bearing plants
+            - Vascular bundles scattered in stem
+            - Leaf veins parallel
+            - Flower parts in 3s or multiples of 3s
+        - Dicot
+            - Two cotyledon in seed
+            - Vascular bundles in a distinct ring
+            - Leaf veins form a net pattern
+            - Flower parts in 4s / 5s or multiples of 4s / 5s
+
+=================DELETE AFTER QUIZ AND AFTER MOVING MATERIAL OUT================
+    - Important terms
+        - Plant classification:
+            √ nonvascular (moss)
+            √ vascular seedless (fern)
+            √ vascular naked seed (gymnosperm -	conifers)
+            √ vascular covered seeds (angiosperm - flowering plants,
+                                                   monocots,
+                                                   dicots)
+        - Plant organ systems:
+            - Stems
+                - organs:
+                    - leaves
+                    - shoot
+		    - Roots
+        -√Growth:
+            √ Meristem
+            √ Indeterminate
+        - Tissues:
+            - Epidermal
+            - Vascular
+            - Ground
+
+        - Xylem
+        - Tracheids
+        - vessel
+        - elements
+        - Phloem
+        - sieve
+        - companion
+        - Monocots, dicots
+        - Petiole, blade, internode
+
+================================================================================
 
 - Lab 13: Plant Reproduction
 
