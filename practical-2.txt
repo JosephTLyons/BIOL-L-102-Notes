@@ -42,13 +42,32 @@ Topics Covered
                 - Nodes
                     - The place in which a bud, leaf, twig, or branch is
                       attached to the main portion of the plant
+                    - A node is responsible for the growth contained in a bud
                     - Ex: On a potato, the "eyes" are nodes; its where the
                       sprouting begins (what is sprouting here though?)
                 - Internodes
                     - Main portion of the plant between nodes (between nodes)
             - Leaves (Organ)
+                - Consists of
+                    - Blade
+                        - The large flat portion
+                    - Petiole
+                        - The stem holding the blade on
+
         - Roots (below ground usually)
             - Organ is the Root
+            - Has a root cap to protect the apical meristems at the root tips
+
+            - Root Types
+                - Taproot
+                    - Single, main root, with branching
+                - Fibrous Root
+                    - Many similarly sized roots growing from base of stem
+
+            - Function
+                - Uptake of water and mineral nutrients
+                - Anchor the plant in the soil
+                - Storage of sugars
 
     - Plant Cells and Tissues
         - 3 tissues
@@ -70,8 +89,12 @@ Topics Covered
 
     - 3 Types of Cells
         1) Epidermal cells
-        2) Guard cells - open and close stomata
-        3) Hair cells (trichome cells)
+        2) Guard cells
+            - open and close stomata
+                - Stomate: Open during day, closed at night to retain water
+                    - On bottom of leaf
+        3) Trichome cells
+            - small hair-like structures on the plant
 
     - Vascular - tubes in plant
         - Xylem
@@ -86,15 +109,16 @@ Topics Covered
             - Usually bigger
             - Moves contents both up and down
             - Companion Cells
-                - ????
                 - Load sugars
                 - Provides help to sieve tubes
-
+                - Mnemonic
+                    - "Companions help you with food"
+                    - Can deduce that food = phloem
     - Meristems
         - Produce primary growth
             - Growth is indeterminate
         - Similar to stem cells in humans
-        - Forever embryonic cells (??)
+        - Forever embryonic cells (?)
         - Kinds
             - Apical
                 - Apical comes from the root "Apex"
@@ -114,29 +138,57 @@ Topics Covered
             - Vascular bundles in a distinct ring
             - Leaf veins form a net pattern
             - Flower parts in 4s / 5s or multiples of 4s / 5s
+        - See monocot-vs-dicot-(root || stem).jpg
+
+    - Modified Stems
+        - Stolons (runners)
+            - Horizontal
+            - Above Ground
+            - Ex:
+                - Strawberry, Clover, Bermuda Grass
+        - Rhizomes
+            - Horizontal
+            - Below ground
+            - Ex:
+                - Ferns, Orchid, Banana, Bamboo, Bluegrass
+        - Corm
+            - Plant stem that serves as a storage organ
+            - Swollen stem base
+            - Below ground
+                - Ex:
+                    - Gladius, Crocus
+        - Tuber
+            - Enlarged underground stem (rhizome) tip
+            - Ex:
+                - White potato
+        - Bulb
+            - Small stem, wrapped in leaves
+            - Fleshy leaves
+                - Ex:
+                    - Onion, Lily, Turnip
 
 =================DELETE AFTER QUIZ AND AFTER MOVING MATERIAL OUT================
     - Important terms
-        - Plant classification:
+        √ Plant classification:
             √ nonvascular (moss)
             √ vascular seedless (fern)
             √ vascular naked seed (gymnosperm -	conifers)
             √ vascular covered seeds (angiosperm - flowering plants,
                                                    monocots,
                                                    dicots)
-        - Plant organ systems:
+        X Plant organ systems:
             - Stems
                 - organs:
                     - leaves
                     - shoot
 		    - Roots
-        -√Growth:
+        √ Growth:
             √ Meristem
             √ Indeterminate
-        - Tissues:
-            - Epidermal
-            - Vascular
-            - Ground
+        X Tissues:
+            X Epidermal
+            X Vascular
+            X Ground
 
         - Xylem
         - Tracheids
@@ -144,7 +196,7 @@ Topics Covered
         - elements
         - Phloem
         - sieve
-        - companion
+        - Companion
         - Monocots, dicots
         - Petiole, blade, internode
 
