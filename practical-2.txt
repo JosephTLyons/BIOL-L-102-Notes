@@ -59,9 +59,9 @@ Topics Covered
             - Has a root cap to protect the apical meristems at the root tips
 
             - Root Types
-                - Taproot
+                - Taproot (dicot)
                     - Single, main root, with branching
-                - Fibrous Root
+                - Fibrous Root (monocot)
                     - Many similarly sized roots growing from base of stem
 
             - Function
