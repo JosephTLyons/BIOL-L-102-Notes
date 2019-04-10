@@ -99,14 +99,14 @@ Topics Covered
     - Vascular - tubes in plant
         - Xylem
             - Water
-            - Usually smaller
+            - Usually bigger
             - Moves contents only up
             - Tracheid Cells
                 - Cell that helps in the transportation of water
                 - Dead functional cells
         - Phloem
             - Food (sugar)
-            - Usually bigger
+            - Usually smaller
             - Moves contents both up and down
             - Companion Cells
                 - Load sugars
