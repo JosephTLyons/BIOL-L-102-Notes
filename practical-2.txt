@@ -1,6 +1,9 @@
 Topics Covered
 
 - Lab 10 (Formerly Lab 6): Molecular Biology
+    - Lab Notes
+    - Lab Slides
+    - Lab Assignment
 
 - Lab 11: Cardiac Physiology
     - Lab Notes
@@ -216,6 +219,8 @@ Topics Covered
 ================================================================================
 
 - Lab 13: Plant Reproduction
+    - Lab Notes
+    - Lab Slides
 
 Practical 2 Items to Know:
 
