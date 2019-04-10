@@ -14,6 +14,8 @@ Topics Covered
         - Embryophytes: Informally - LAND PLANTS
             - Mosses
             - Tracheophytes: Vascular Plants
+                - "Tracheophyte" means its a plant with tracheid cells (see
+                  tracheid section)
                 - Ferns
                 - Gymnosperms
                 - Angiosperms (flowering plants)
@@ -36,9 +38,12 @@ Topics Covered
                     - Closed within an ovary (usually a fruit)
                 - Ex. Flowering Plants, Monocots, Dicots
 
-    - Organ Systems
+    - Organ Systems (see plant-anatomy.png)
         - Shoots (above ground usually)
             - Stems (Organ)
+                - Definition: Near base of plant; support the laves and
+                  reproductive structures, and they provide the vascular link
+                  to the roots
                 - Nodes
                     - The place in which a bud, leaf, twig, or branch is
                       attached to the main portion of the plant
@@ -98,16 +103,24 @@ Topics Covered
 
     - Vascular - tubes in plant
         - Xylem
-            - Water
+            - Conducts (moves) water
             - Usually bigger
             - Moves contents only up
             - Tracheid Cells
+                * in all vascular plants
                 - Cell that helps in the transportation of water
                 - Dead functional cells
+            - Vessel elements
+                * Angiosperms (which are tracheophytes)
         - Phloem
-            - Food (sugar)
+            - Conducts (moves) food (sugar)
             - Usually smaller
             - Moves contents both up and down
+            - Sieve
+                - Sieve elements' major function includes transporting sugars
+                  over long distance through plants by acting as a channel.
+                  Sieve elements elongate cells containing sieve areas on their
+                  walls.
             - Companion Cells
                 - Load sugars
                 - Provides help to sieve tubes
@@ -132,7 +145,9 @@ Topics Covered
                 - Cotyledon: An embryonic leaf in seed-bearing plants
             - Vascular bundles scattered in stem
             - Leaf veins parallel
+                - Ex: Corn
             - Flower parts in 3s or multiples of 3s
+            * Vascular bundle looks like a monkey face!
         - Dicot
             - Two cotyledon in seed
             - Vascular bundles in a distinct ring
@@ -173,14 +188,13 @@ Topics Covered
             √ nonvascular (moss)
             √ vascular seedless (fern)
             √ vascular naked seed (gymnosperm -	conifers)
-            √ vascular covered seeds (angiosperm - flowering plants,
-                                                   monocots,
+            √ vascular covered seeds (angiosperm - flowering plants, monocots,
                                                    dicots)
         X Plant organ systems:
-            - Stems
-                - organs:
-                    - leaves
-                    - shoot
+            - Shoots
+                - Organs:
+                    - Stems
+                    - Leaves
 		    - Roots
         √ Growth:
             √ Meristem
@@ -191,12 +205,11 @@ Topics Covered
             X Ground
 
         - Xylem
-        - Tracheids
-        - vessel
-        - elements
+            - Tracheids
+            - Vessel elements
         - Phloem
-        - sieve
-        - Companion
+            - Sieve
+            - Companion
         - Monocots, dicots
         - Petiole, blade, internode
 
