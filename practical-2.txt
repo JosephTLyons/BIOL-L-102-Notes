@@ -10,6 +10,12 @@ Topics Covered
     - Lab Slides
 
 - Lab 12: Plant Structure
+======================================TODO======================================
+    * STUDY QUIZ 5!!!
+    * Go over all slides of this lecture and fill in what I missed / Delete the
+      section of important terms?
+==================================END OF TODO===================================
+
     - Generalized Plant Phylogeny:
         - Water Plants:
             - Green Algae (produce 1/2 oxygen in the atmosphere)
@@ -223,5 +229,4 @@ Topics Covered
     - Lab Slides
 
 Practical 2 Items to Know:
-
-Left off on slide 2 of slides 7 Plant Diversity
+    - There's no cheat sheet this time :(
