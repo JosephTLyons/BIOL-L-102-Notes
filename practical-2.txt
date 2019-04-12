@@ -73,35 +73,34 @@ Topics Covered:
     ================================END OF TODO=================================
 
     ==============================IMPORTANT TERMS===============================
-    - Important terms
-        √ Plant classification:
-            √ nonvascular (moss)
-            √ vascular seedless (fern)
-            √ vascular naked seed (gymnosperm -	conifers)
-            √ vascular covered seeds (angiosperm - flowering plants, monocots,
-                                                   dicots)
-        X Plant organ systems:
-            - Shoots
-                - Organs:
-                    - Stems
-                    - Leaves
-		    - Roots
-        √ Growth:
-            √ Meristem
-            √ Indeterminate
-        X Tissues:
-            X Epidermal
-            X Vascular
-            X Ground
+    √ Plant classification:
+        √ nonvascular (moss)
+        √ vascular seedless (fern)
+        √ vascular naked seed (gymnosperm -	conifers)
+        √ vascular covered seeds (angiosperm - flowering plants, monocots,
+                                               dicots)
+    X Plant organ systems:
+        - Shoots
+            - Organs:
+                - Stems
+                - Leaves
+	    - Roots
+    √ Growth:
+        √ Meristem
+        √ Indeterminate
+    X Tissues:
+        X Epidermal
+        X Vascular
+        X Ground
 
-        - Xylem
-            - Tracheids
-            - Vessel elements
-        - Phloem
-            - Sieve
-            - Companion
-        - Monocots, dicots
-        - Petiole, blade, internode
+    - Xylem
+        - Tracheids
+        - Vessel elements
+    - Phloem
+        - Sieve
+        - Companion
+    - Monocots, dicots
+    - Petiole, blade, internode
     ===========================END OF IMPORTANT TERMS===========================
 
     - Generalized Plant Phylogeny:
