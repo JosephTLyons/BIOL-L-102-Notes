@@ -1,5 +1,7 @@
 Topics Covered:
 
+================================================================================
+
 - Lab 10 (Formerly Lab 6): Molecular Biology
     ====================================TODO====================================
     - Lab Notes
@@ -21,6 +23,9 @@ Topics Covered:
         - An autonomously replicating genetic element used to carry DNA into a
           host cell for the purpose of gene cloning
     ? Transformation
+        - The genetic alteration of a cell resulting from the direct uptake and
+          incorporation of exogenous genetic material from its surroundings
+          through the cell membrane(s).
     ? Electrophoresis-size fractionation
         - Small molecules travel faster (further)
         - Large molecules move slower (not as far)
@@ -60,8 +65,92 @@ Topics Covered:
 ================================================================================
 
 - Lab 11: Cardiac Physiology
+    ====================================TODO====================================
     - Lab Notes
     - Lab Slides
+    - Bradycardia Experiment Review
+    ================================END OF TODO=================================
+    - See images/heart.jpg
+    - https://www.free-anatomy-quiz.com/heartQs1.html
+
+    - Know:
+        - Chambers (L and R are swapped)
+            - Top 2: Atriums
+            - Bottom 2: Ventricles
+
+        - Vessels
+
+        - Blood Flow
+            - Pulmonary Artery -> Lungs
+                - Where it carries deoxygenated blood
+            - Systemic -> Rest of the Body
+                - Aorta
+                    - Artery
+                    - Systemic loop
+                - Where it carries oxygenated blood
+                - Must pump harder than pulmonary artery
+        - Arteries
+            - Coronary
+                -
+            - Blood travels away from the heart
+        - Veins
+            - Blood travels towards the heart
+            - Superior Vena Cava
+                - Carries deoxygenated blood to the heart from the head, arms,
+                  and upper body.
+            - Inferior Vena Cava
+                - Carries deoxygenated blood to the heart from the legs and
+                  lower body.
+
+    - Don't need to know
+        - Valves
+
+    - Blood Flow in Humans
+        1) Deoxygenated Blood (DB) arrives in the right atrium via the superior
+           vena cava (from upper part of the body) and the inferior vena cava
+           (from lower part of they body)
+        2) The DB is pushed into the right ventricle
+        3) The DB is then pushed into the pulmonary artery, which takes blood
+           away from the heart and into the left and right lungs (pulmonary
+           circulation)
+        4) The lungs convert the DB into Oxygenated Blood (OB).
+        5) The blood is then pulled into the left atrium from the left and right
+           pulmonary veins (pulmonary: lungs, veins: towards the heart)
+        6) The OB is pushed into the left ventricle.
+        7) The OB is pushed out of the aorta (an artery) and then circulates
+           throughout the upper and lower body (systemic circulation).
+        8) After circulating the body, the OB blood becomes DB, and it returns
+           to the superior vena cava and inferior vena cava.
+
+    - Red:  Oxygenated
+    - Blue: Deoxygenated
+
+    ============================================================================
+
+    - Open-Heart Systems
+        1) Pumps blood out of the system via arteries
+        2) Brings blood directly back into the heart through openings in it
+        -  Ex:
+            - Grasshoppers
+    - Closed-Heart Systems (based on birds and mammals system slide)
+        1) Pulmonary Circulation: Heart pumps deoxygenated blood to capillaries
+           (in humans, this is in the lungs) via the arteries
+        2) The capillaries return oxygenated blood to the heart via the veins.
+        3) Systemic Circulation: The heart then pumps the oxygenated blood to
+           the system (aorta)
+        4) The system returns deoxygenated blood to the heart.
+
+        - Blood never leaves the system like it does in an open-heart system
+
+    - Bradycardia
+        - Heart beat slows
+    - Tachycardia
+        - Heart beats quickly
+    - Blood pressure
+        - Systole (contraction) / Diastole (relaxation)
+
+
+
 
 ================================================================================
 
@@ -70,6 +159,7 @@ Topics Covered:
     * STUDY QUIZ 5!!!
     * Go over all slides of this lecture and fill in what I missed / Delete the
       section of important terms?
+    - Photos in Lab 12 Folder
     ================================END OF TODO=================================
 
     ==============================IMPORTANT TERMS===============================
@@ -115,6 +205,7 @@ Topics Covered:
                 - Ferns
                 - Gymnosperms
                 - Angiosperms (flowering plants)
+                    - Most disperse flowering plants
 
     - Other Classification
         - Seedless Non-Vascular:
@@ -283,6 +374,4 @@ Topics Covered:
 - Lab 13: Plant Reproduction
     - Lab Notes
     - Lab Slides
-
-Practical 2 Items to Know:
-    - There's no cheat sheet this time :(
+    - Photos in Lab 13 Folder
