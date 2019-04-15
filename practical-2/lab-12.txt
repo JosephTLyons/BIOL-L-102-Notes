@@ -1,159 +1,3 @@
-Topics Covered:
-
-================================================================================
-
-- Lab 10 (Formerly Lab 6): Molecular Biology
-    ====================================TODO====================================
-    - Lab Notes
-    - Lab Slides
-    - Lab Assignment
-    ================================END OF TODO=================================
-
-    ==============================IMPORTANT TERMS===============================
-    - Restriction enzymes
-        - Cut DNA at specific recognition sites
-        - Fragment count = recognition sites + 1
-            - Ex: 5 cuts => 6 fragments
-    - Ligases
-        - Glue DNA
-            - Must be blunt pieces with compatible ends (sticky ends)
-    ? Polymerases
-        - Synthesize DNA/RNA
-    - Cloning Vectors
-        - An autonomously replicating genetic element used to carry DNA into a
-          host cell for the purpose of gene cloning
-    ? Transformation
-        - The genetic alteration of a cell resulting from the direct uptake and
-          incorporation of exogenous genetic material from its surroundings
-          through the cell membrane(s).
-    ? Electrophoresis-size fractionation
-        - Small molecules travel faster (further)
-        - Large molecules move slower (not as far)
-    - Ethidium Bromide (EtBr)
-        - A planar molecule that intercalates (inserts) between DNA base pairs
-            - Binds between the base pairs pairs
-        - IS A CARCINOGEN
-        - It fluoresces orange when excited with ultraviolet light
-            - UV CAN BURN YOUR EYES!
-
-    ===========================END OF IMPORTANT TERMS===========================
-
-    - Making new DNA usually involves:
-        1) Cutting DNA (restriction enzyme)
-        2) Pasting DNA (Ligase)
-        3) Making many copies and clones (Cloning Vector)
-
-    - Electrophoresis
-        - Separation technology
-        - Molecules move with electric current
-        - Electrophoresis-size fractionation
-            - Small molecules go fast, large molecules go slow
-        - DNA is negatively charged
-            - Moves from the negative side to the positive side
-        - Gel Agarose
-            - Provides the mesh that the DNA must travel through when pulled
-              towards the positive side
-        - Ladder (Standard Size)
-            - Pre cut DNA with known number of base pairs per fragment that we
-              can use to as a "ruler" for the DNA we are actually testing.
-            - Brightest glowing pair on ladder usually is some specific size of
-              base pairs (300 or 500 base pairs)
-        - Lambda phage
-            - We usually have one uncut lambda and then the lambda cut with the
-              unknown enzymes
-
-================================================================================
-
-- Lab 11: Cardiac Physiology
-    ====================================TODO====================================
-    - Lab Notes
-    - Lab Slides
-    - Bradycardia Experiment Review
-    ================================END OF TODO=================================
-    - See images/heart.jpg
-    - https://www.free-anatomy-quiz.com/heartQs1.html
-
-    - Know:
-        - Chambers (L and R are swapped)
-            - Top 2: Atriums
-            - Bottom 2: Ventricles
-
-        - Vessels
-
-        - Blood Flow
-            - Pulmonary Artery -> Lungs
-                - Where it carries deoxygenated blood
-            - Systemic -> Rest of the Body
-                - Aorta
-                    - Artery
-                    - Systemic loop
-                - Where it carries oxygenated blood
-                - Must pump harder than pulmonary artery
-        - Arteries
-            - Coronary
-                -
-            - Blood travels away from the heart
-        - Veins
-            - Blood travels towards the heart
-            - Superior Vena Cava
-                - Carries deoxygenated blood to the heart from the head, arms,
-                  and upper body.
-            - Inferior Vena Cava
-                - Carries deoxygenated blood to the heart from the legs and
-                  lower body.
-
-    - Don't need to know
-        - Valves
-
-    - Blood Flow in Humans
-        1) Deoxygenated Blood (DB) arrives in the right atrium via the superior
-           vena cava (from upper part of the body) and the inferior vena cava
-           (from lower part of they body)
-        2) The DB is pushed into the right ventricle
-        3) The DB is then pushed into the pulmonary artery, which takes blood
-           away from the heart and into the left and right lungs (pulmonary
-           circulation)
-        4) The lungs convert the DB into Oxygenated Blood (OB).
-        5) The blood is then pulled into the left atrium from the left and right
-           pulmonary veins (pulmonary: lungs, veins: towards the heart)
-        6) The OB is pushed into the left ventricle.
-        7) The OB is pushed out of the aorta (an artery) and then circulates
-           throughout the upper and lower body (systemic circulation).
-        8) After circulating the body, the OB blood becomes DB, and it returns
-           to the superior vena cava and inferior vena cava.
-
-    - Red:  Oxygenated
-    - Blue: Deoxygenated
-
-    ============================================================================
-
-    - Open-Heart Systems
-        1) Pumps blood out of the system via arteries
-        2) Brings blood directly back into the heart through openings in it
-        -  Ex:
-            - Grasshoppers
-    - Closed-Heart Systems (based on birds and mammals system slide)
-        1) Pulmonary Circulation: Heart pumps deoxygenated blood to capillaries
-           (in humans, this is in the lungs) via the arteries
-        2) The capillaries return oxygenated blood to the heart via the veins.
-        3) Systemic Circulation: The heart then pumps the oxygenated blood to
-           the system (aorta)
-        4) The system returns deoxygenated blood to the heart.
-
-        - Blood never leaves the system like it does in an open-heart system
-
-    - Bradycardia
-        - Heart beat slows
-    - Tachycardia
-        - Heart beats quickly
-    - Blood pressure
-        - Systole (contraction) / Diastole (relaxation)
-
-
-
-
-================================================================================
-
 - Lab 12: Plant Structure
     ====================================TODO====================================
     * STUDY QUIZ 5!!!
@@ -326,19 +170,42 @@ Topics Covered:
             - Lateral
                 - Width growth (wood and bark)
 
+    - Compound Leaves
+        - Leaflets
+            - Each of the leaflike structures that together make up a compound
+              leaf
+            - Do not have axillary buds
+                - One of the ways to know a leaf is actually a leaflet belonging
+                  to a complex leaf.
+        - Pinnate vs Palmate
+            - Pinnate
+                - Coming off in various places on a
+            - Palmate
+                - Leaves radiating outward from a central location
+        - Doubly compound leaves
+            - Compound leaves coming off of compound leaves
+
+    - Sheath
+        - The tubular portion of the leaf which wraps around or encloses the
+          stem
+
     - Monocot vs Dicot
         - Monocot
             - One cotyledon in seed
                 - Cotyledon: An embryonic leaf in seed-bearing plants
             - Vascular bundles scattered in stem
-            - Leaf veins parallel
+            - Venation:
+                - Def
+                    - The arrangement of veins in a leaf
+                - Parallel leaf veins
                 - Ex: Corn
             - Flower parts in 3s or multiples of 3s
             * Vascular bundle looks like a monkey face!
         - Dicot
             - Two cotyledon in seed
             - Vascular bundles in a distinct ring
-            - Leaf veins form a net pattern
+            - Venation:
+                - Leaf veins form a net pattern
             - Flower parts in 4s / 5s or multiples of 4s / 5s
         - See monocot-vs-dicot-(root || stem).jpg
 
@@ -368,10 +235,3 @@ Topics Covered:
             - Fleshy leaves
                 - Ex:
                     - Onion, Lily, Turnip
-
-================================================================================
-
-- Lab 13: Plant Reproduction
-    - Lab Notes
-    - Lab Slides
-    - Photos in Lab 13 Folder

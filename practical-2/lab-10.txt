@@ -1,0 +1,59 @@
+- Lab 10 (Formerly Lab 6): Molecular Biology
+    ====================================TODO====================================
+    - Lab Notes
+    - Lab Slides
+    - Lab Assignment
+    ================================END OF TODO=================================
+
+    ==============================IMPORTANT TERMS===============================
+    - Restriction enzymes
+        - Cut DNA at specific recognition sites
+        - Fragment count = recognition sites + 1
+            - Ex: 5 cuts => 6 fragments
+    - Ligases
+        - Glue DNA
+            - Must be blunt pieces with compatible ends (sticky ends)
+    ? Polymerases
+        - Synthesize DNA/RNA
+    - Cloning Vectors
+        - An autonomously replicating genetic element used to carry DNA into a
+          host cell for the purpose of gene cloning
+    ? Transformation
+        - The genetic alteration of a cell resulting from the direct uptake and
+          incorporation of exogenous genetic material from its surroundings
+          through the cell membrane(s).
+    ? Electrophoresis-size fractionation
+        - Small molecules travel faster (further)
+        - Large molecules move slower (not as far)
+    - Ethidium Bromide (EtBr)
+        - A planar molecule that intercalates (inserts) between DNA base pairs
+            - Binds between the base pairs pairs
+        - IS A CARCINOGEN
+        - It fluoresces orange when excited with ultraviolet light
+            - UV CAN BURN YOUR EYES!
+
+    ===========================END OF IMPORTANT TERMS===========================
+
+    - Making new DNA usually involves:
+        1) Cutting DNA (restriction enzyme)
+        2) Pasting DNA (Ligase)
+        3) Making many copies and clones (Cloning Vector)
+
+    - Electrophoresis
+        - Separation technology
+        - Molecules move with electric current
+        - Electrophoresis-size fractionation
+            - Small molecules go fast, large molecules go slow
+        - DNA is negatively charged
+            - Moves from the negative side to the positive side
+        - Gel Agarose
+            - Provides the mesh that the DNA must travel through when pulled
+              towards the positive side
+        - Ladder (Standard Size)
+            - Pre cut DNA with known number of base pairs per fragment that we
+              can use to as a "ruler" for the DNA we are actually testing.
+            - Brightest glowing pair on ladder usually is some specific size of
+              base pairs (300 or 500 base pairs)
+        - Lambda phage
+            - We usually have one uncut lambda and then the lambda cut with the
+              unknown enzymes

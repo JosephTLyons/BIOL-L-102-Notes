@@ -1,0 +1,111 @@
+- Lab 11: Cardiac Physiology
+    ====================================TODO====================================
+    - Lab Notes
+    - Lab Slides
+    - Bradycardia Experiment Review
+    ================================END OF TODO=================================
+    - See images/heart.jpg
+    - https://www.free-anatomy-quiz.com/heartQs1.html
+
+    - Know:
+        - Chambers (L and R are swapped)
+            - Top 2: Atriums
+            - Bottom 2: Ventricles
+                - Note: Left ventricle is has the biggest wall as it has to pump
+                  harder to move blood throughout the body (systemic
+                  circulation) then the right ventricle, which only has to move
+                  blood to the lungs and back (pulmonary circulation).
+                - The pulmonary circulation is, overall, a much lower pressure
+                  system than that of systemic circulation.  The systemic
+                  circulation has to work against gravity, especially when a
+                  person is standing.
+
+        - Vessels
+
+        - Blood Flow
+            - Pulmonary Artery -> Lungs
+                - Where it carries deoxygenated blood
+            - Systemic -> Rest of the Body
+                - Aorta
+                    - Artery
+                    - Systemic loop
+                - Where it carries oxygenated blood
+                - Must pump harder than pulmonary artery
+        - Arteries
+            - Def
+                - Carries oxygenated blood
+                - Usually blood travels away from the heart
+            - Coronary
+                - Some parts of the heart only pump deoxygenated blood, such as
+                  the right atrium and right ventricle.  However, the muscles
+                  that cause these parts of the heart to pump still need
+                  oxygenated blood.  The coronary (artery) carries oxygenated
+                  blood to these regions to keep the tissue and muscles living.
+                - Oxygen-depleted blood must be carried away. The coronary
+                  arteries wrap around the outside of the heart. They send
+                  oxygen-rich blood into the heart's muscle tissues.
+        - Veins
+            -Def
+                - Carries deoxygenated blood
+                - Usually blood travels towards the heart
+            - Superior Vena Cava
+                - Carries deoxygenated blood to the heart from the head, arms,
+                  and upper body.
+            - Inferior Vena Cava
+                - Carries deoxygenated blood to the heart from the legs and
+                  lower body.
+
+    * Don't need to know
+        - Valves
+
+    - Blood Flow in Humans
+        1) Deoxygenated Blood (DB) arrives in the right atrium via the superior
+           vena cava (from upper part of the body) and the inferior vena cava
+           (from lower part of they body)
+        2) The DB is pushed into the right ventricle
+        3) The DB is then pushed into the pulmonary artery, which takes blood
+           away from the heart and into the left and right lungs (pulmonary
+           circulation)
+        4) The lungs convert the DB into Oxygenated Blood (OB).
+        5) The blood is then pulled into the left atrium from the left and right
+           pulmonary veins (pulmonary: lungs, veins: towards the heart)
+        6) The OB is pushed into the left ventricle.
+        7) The OB is pushed out of the aorta (an artery) and then circulates
+           throughout the upper and lower body (systemic circulation).
+        8) After circulating the body, the OB blood becomes DB, and it returns
+           to the superior vena cava and inferior vena cava.
+
+    - Red:  Oxygenated
+    - Blue: Deoxygenated (like characters in cartoons when they hold their
+            breath)
+    ===================================REVIEW===================================
+    - Blood pressure
+        - Systole (contraction): beating pressure
+        - Diastole (relaxation)
+        - Ex: 120/80
+
+    ============================================================================
+
+    - Open-Heart Systems
+        1) Pumps blood out of the system via arteries
+        2) Brings blood directly back into the heart through openings in it
+        -  Ex:
+            - Grasshoppers
+    - Closed-Heart Systems (based on birds and mammals system slide)
+        1) Pulmonary Circulation: Heart pumps deoxygenated blood to capillaries
+           (in humans, this is in the lungs) via the arteries
+        2) The capillaries return oxygenated blood to the heart via the veins.
+        3) Systemic Circulation: The heart then pumps the oxygenated blood to
+           the system (aorta)
+        4) The system returns deoxygenated blood to the heart.
+
+        - Blood never leaves the system like it does in an open-heart system
+
+    - Bradycardia
+        - Heart beat slows
+    - Tachycardia
+        - Heart beats quickly
+    - Blood pressure
+        - Systole (contraction) / Diastole (relaxation)
+
+================================================================================
