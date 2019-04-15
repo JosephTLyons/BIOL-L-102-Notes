@@ -72,9 +72,9 @@
     - Organ Systems (see plant-anatomy.png)
         - Shoots (above ground usually)
             - Stems (Organ)
-                - Definition: Near base of plant; support the laves and
-                  reproductive structures, and they provide the vascular link
-                  to the roots
+                - Definition:
+                    - The stem is normally divided into nodes and internodes.
+                    - The central "shaft"
                 - Nodes
                     - The place in which a bud, leaf, twig, or branch is
                       attached to the main portion of the plant
@@ -174,20 +174,39 @@
         - Leaflets
             - Each of the leaflike structures that together make up a compound
               leaf
-            - Do not have axillary buds
+            * Do not have axillary buds
                 - One of the ways to know a leaf is actually a leaflet belonging
                   to a complex leaf.
-        - Pinnate vs Palmate
-            - Pinnate
-                - Coming off in various places on a
-            - Palmate
-                - Leaves radiating outward from a central location
         - Doubly compound leaves
             - Compound leaves coming off of compound leaves
+
+    - Venation Terms
+        - Pinnate (Dicot)
+            - Coming off in various places on a central "shaft"
+        - Palmate (Dicot)
+            - Leaves radiating outward from a central location
+        - Parallel (Monocot)
+            - Running in the same, one direction
+
+    - Leaf Arrangement Terms
+        - Opposite
+            - Grow opposite of each other, across the petiole extension (rachis)
+        - Alternate
+            - Grow alternatively on either side of the petiole extension
+              (rachis)
+        - Whorled
+            - Grow around the petiole extension (rachis)
+
+        - Some of the venation terms are also used in leaf arrangement
+            - Pinnate
+            - Palmate
 
     - Sheath
         - The tubular portion of the leaf which wraps around or encloses the
           stem
+    - Stipule
+        - One of a pair of lateral appendages, often leaflike, at the base of a
+          leaf petiole in many plants.
 
     - Monocot vs Dicot
         - Monocot
@@ -211,6 +230,9 @@
 
     - Modified Stems
         - Stolons (runners)
+            - Definition
+                - A creeping horizontal plant stem or runner that takes root at
+                  points along its length to form new plants
             - Horizontal
             - Above Ground
             - Ex:
@@ -235,3 +257,12 @@
             - Fleshy leaves
                 - Ex:
                     - Onion, Lily, Turnip
+
+    ===================================Review===================================
+    - Blade anatomy
+    - Bulliform Cells
+        - In monocots, Bulliform cells help the leave to roll up in the abscence
+          of water, to keep the plant's surface area at a minimum to preserve
+          water from evaporation in the sun.
+    - Vegetable Slide
+    - Comparison Slide

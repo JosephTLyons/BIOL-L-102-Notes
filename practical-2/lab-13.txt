@@ -1,4 +1,52 @@
 - Lab 13: Plant Reproduction
+    ====================================TODO====================================
     - Lab Notes
     - Lab Slides
     - Photos in Lab 13 Folder
+    ================================END OF TODO=================================
+
+    - Alternations of Generations
+        - Gametophyte (1N) -> Sporophyte  (2N)
+        - Sporophyte  (2N) -> Gametophyte (1N)
+
+    - Flower Structure
+        - Pedicel
+            - A small stalk bearing an individual flower.
+            - The main support piece
+        - Petal
+            -
+        - Sepal
+            - Usually green, sepals typically function as protection for the
+              flower in bud, and often as support for the petals when in bloom
+        - Receptacle
+            - In angiosperms, the receptacle is the thickened part of a stem
+              (pedicel) from which the flower organs grow.
+            - In some accessory fruits, for example the pome and strawberry, the
+              receptacle gives rise to the edible part of the fruit.
+        - Ovule
+            - The part of the ovary of seed plants that contains the female germ
+              cell and after fertilization becomes the seed
+        - Corolla
+            - Outermost ring of petals
+        - Calyx
+            - Middle ring of petals
+        - Reproduction Organs
+            - Male
+                - Stamen
+                    - Anthers (microsporangia)
+                        - HONEY SMACKS!
+                        - Pollen comes from here
+                    - Filament
+                        - HOLDS THE HONEY SMACKS!
+            - Female
+                - Pistil (or Carpel)
+                    - Stigma
+                        - Funnels the pollen down a "pollen tube," through the
+                          style portion of the pistil, and directly into the
+                          ovary.
+                    - Style
+                    - Ovary
+            - Perfect
+                - Individual flower has both stamens AND carpels
+            - Imperfect
+                - Individual flower has stamens OR carpels

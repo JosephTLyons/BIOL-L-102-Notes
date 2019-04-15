@@ -4,6 +4,7 @@
     - Lab Slides
     - Bradycardia Experiment Review
     ================================END OF TODO=================================
+
     - See images/heart.jpg
     - https://www.free-anatomy-quiz.com/heartQs1.html
 
@@ -107,5 +108,3 @@
         - Heart beats quickly
     - Blood pressure
         - Systole (contraction) / Diastole (relaxation)
-
-================================================================================
