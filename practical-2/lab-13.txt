@@ -3,11 +3,20 @@
     - Lab Notes
     - Lab Slides
     - Photos in Lab 13 Folder
+    - KNOW ALTERNATING GENERATIONS
     ================================END OF TODO=================================
-
     - Alternations of Generations
         - Gametophyte (1N) -> Sporophyte  (2N)
         - Sporophyte  (2N) -> Gametophyte (1N)
+
+        - Mnemonic
+            - 1 O  in gametophyte = 1N
+            - 2 Os in sporophyte  = 2N
+
+        - Gametophyte produces gametes
+        - Sporophyte  produces spores
+
+        - Overview: Haploid to Diploid to Haploid ...
 
     - Flower Structure
         - Pedicel
@@ -23,9 +32,6 @@
               (pedicel) from which the flower organs grow.
             - In some accessory fruits, for example the pome and strawberry, the
               receptacle gives rise to the edible part of the fruit.
-        - Ovule
-            - The part of the ovary of seed plants that contains the female germ
-              cell and after fertilization becomes the seed
         - Corolla
             - Outermost ring of petals
         - Calyx
@@ -37,7 +43,7 @@
                         - HONEY SMACKS!
                         - Pollen comes from here
                     - Filament
-                        - HOLDS THE HONEY SMACKS!
+                        - HOLDS THE HONEY SMACK!
             - Female
                 - Pistil (or Carpel)
                     - Stigma
@@ -46,7 +52,98 @@
                           ovary.
                     - Style
                     - Ovary
+                        - Ovule
+                            - The part of the ovary of seed plants that contains
+                              the female germ cell and after fertilization
+                              becomes the seed
+                        - Classifications
+                            - Superior
+                                - Ovary is above the places where petals attach
+                            - Inferior
+                                - Ovary is below the places where petals attach
+                            - Half-inferior
+                                - Petals attach to the middle of the ovary
             - Perfect
                 - Individual flower has both stamens AND carpels
             - Imperfect
                 - Individual flower has stamens OR carpels
+
+    - Types of Fruits
+        - Definition of a Fruit
+            - Ripened ovary
+        ========
+        - Dry
+            - Sunflower
+            - Hazel
+            - Etc.
+        - Fleshy
+            - Berry
+            - Apple
+            - Etc.
+        ========
+        - Dehiscent
+            - Are mostly dry
+            - At maturity, splits open to reveal seeds
+            - "Characterized by splitting or bursting open"
+        - Indehiscent
+            - Are mostly fleshy
+            - Predation, decay releases seeds
+            - "Not splitting open to release the seeds when ripe"
+        ========
+        - Simple Fruit
+            - Ripe ovary of a single carpel of a single flower
+        - Aggregate Fruit
+            - Develops from one flower, many carpels
+                - Strawberry
+                    - Many one-seeded archenes produced by a single flower
+                    - Archenes are the bumps on the strawberry
+        - Multiple Fruit
+            - Develops from many flowers with many carpels
+            - Produced from tightly packed flowers
+            - Pineapple
+                - Each one of the sectioned-off pieces is an individual and
+                  separate fruit
+                - "Multiple fruit develope from many individual flowers on an
+                  inflorescence.  As the individual fruit grow, they fuse
+                  together."
+        ========
+        - The last 3 fruit types can also be modified by being an accessory
+          fruit
+            - Accessory Fruit
+                - Ovary wall plus other parts of flower
+                    - American Apple (Simple Fruit)
+                        - Accessory Fruit
+                            - Because it has other parts of the flower, such as
+                                - Pedicel
+                                - Remnants of the calyx
+
+    - Germination is the process by which an organism grows from a seed or
+      similar structure
+
+    - Seeds
+        - Cotyledons
+            * THESE BECOME THE FIRST LEAVES!
+            - 1 in monocots (monocotyledon)
+            - 2 in dicots   (dicotyledon)
+        - Embryo
+        - Food supply
+            - Stored in endosperm (monocots only)
+            - or cotyledons       (dicots)
+        - Endosperm
+            - The part of a seed which acts as a food store for the developing
+              plant embryo, usually containing starch with protein and other
+              nutrients
+        - Seed coat (AKA Testa)
+            - Offers protection to the seed
+        - Radicle
+            - Embryonic root
+        - Plumule
+            - Rudimentary stem / root
+
+    ===================================Review===================================
+    - Different Types of Fruit
+    - Parts of the Seed
+    - Characteristics of each fruit / plant
+        - Is an apple simple / complex?
+        - Which are dehiscent / indehiscent
+    - Comparison slides (if one exists)

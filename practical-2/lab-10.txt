@@ -57,3 +57,7 @@
         - Lambda phage
             - We usually have one uncut lambda and then the lambda cut with the
               unknown enzymes
+
+    ===================================Review===================================
+    - Lab
+        - Redo lab to help recall it all

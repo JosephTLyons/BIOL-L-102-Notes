@@ -261,7 +261,7 @@
     ===================================Review===================================
     - Blade anatomy
     - Bulliform Cells
-        - In monocots, Bulliform cells help the leave to roll up in the abscence
+        - In monocots, Bulliform cells help the leave to roll up in the absence
           of water, to keep the plant's surface area at a minimum to preserve
           water from evaporation in the sun.
     - Vegetable Slide
