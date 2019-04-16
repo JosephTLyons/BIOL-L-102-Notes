@@ -1,0 +1,23 @@
+- Lab 3:
+    - All items surrounding Lab 3
+    - Know the difference in prokaryotes and eukaryotes
+        - Eukaryote is much bigger, has organelles, and nucleus
+        - Prokaryotes are much smaller, lack organelles, no nucleus
+    - Whittaker 5 Kingdom model
+    - Taxonomic ranks
+        - D.K.P.C.O.F.G.S.
+            - Domain (probably won't matter for this professor)
+            - Kingdom
+            - Phylum
+            - Class
+            - Order
+            - Family
+            - Genus
+            - Species
+    - Be able to look at slide and tell what sort of bacteria
+        - gram positive = purple | gram negative = pink
+            - see: gram-stain.txt
+        - all bacteria is prokaryote
+        - see: bacterial-shapes.txt
+        - Be able to recognize all the protists
+            - see: cells.txt (protist examples) and midterm 1
