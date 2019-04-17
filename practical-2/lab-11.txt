@@ -34,7 +34,7 @@
                 - Must pump harder than pulmonary artery
         - Arteries
             - Def
-                - Carries oxygenated blood
+                - Carries oxygenated blood if going to systemic loop
                 - Usually blood travels away from the heart
             - Coronary
                 - Some parts of the heart only pump deoxygenated blood, such as
@@ -47,7 +47,7 @@
                   oxygen-rich blood into the heart's muscle tissues.
         - Veins
             -Def
-                - Carries deoxygenated blood
+                - Carries deoxygenated blood if going to pulmonary loop
                 - Usually blood travels towards the heart
             - Superior Vena Cava
                 - Carries deoxygenated blood to the heart from the head, arms,
@@ -79,13 +79,6 @@
     - Red:  Oxygenated
     - Blue: Deoxygenated (like characters in cartoons when they hold their
             breath)
-    ===================================REVIEW===================================
-    - Blood pressure
-        - Systole (contraction): beating pressure
-        - Diastole (relaxation)
-        - Ex: 120/80
-
-    ============================================================================
 
     - Open-Heart Systems
         1) Pumps blood out of the system via arteries
@@ -108,3 +101,11 @@
         - Heart beats quickly
     - Blood pressure
         - Systole (contraction) / Diastole (relaxation)
+
+    ===================================REVIEW===================================
+    - Blood pressure
+        - Systole (contraction): beating pressure
+        - Diastole (relaxation)
+        - Ex:
+            - Systole / Diastole
+            - 120/80

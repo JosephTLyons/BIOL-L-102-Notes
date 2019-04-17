@@ -226,6 +226,11 @@
             - Venation:
                 - Leaf veins form a net pattern
             - Flower parts in 4s / 5s or multiples of 4s / 5s
+            - Ex:
+                - Flowering plants
+                - Cacti
+                    - Have Taproots -> Dicot
+                        - Recall that fibrous roots are typical of monocots
         - See monocot-vs-dicot-(root || stem).jpg
 
     - Modified Stems
@@ -258,6 +263,21 @@
                 - Ex:
                     - Onion, Lily, Turnip
 
+    - Blade anatomy
+        - See: blade-anatomy.jpg
+        - Cuticle
+        - Palisade Mesophyll
+        - Spongy Mesophyll
+        - Epidermis
+            - Under cuticle on both sides
+            - Upper
+            - Lower
+        - Vein
+            - Xylem
+            - Phloem
+        - Stomata
+            - Guard Cells
+
     ===================================Review===================================
     - Blade anatomy
     - Bulliform Cells
@@ -266,3 +286,4 @@
           water from evaporation in the sun.
     - Vegetable Slide
     - Comparison Slide
+    - Modified Stems Slide

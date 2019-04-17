@@ -59,5 +59,4 @@
               unknown enzymes
 
     ===================================Review===================================
-    - Lab
-        - Redo lab to help recall it all
+    - Redo lab to help recall it all

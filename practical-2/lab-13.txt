@@ -56,6 +56,9 @@
                             - The part of the ovary of seed plants that contains
                               the female germ cell and after fertilization
                               becomes the seed
+                            - Locule
+                                - Each of a number of small separate cavities,
+                                  especially in an ovary
                         - Classifications
                             - Superior
                                 - Ovary is above the places where petals attach
@@ -67,6 +70,11 @@
                 - Individual flower has both stamens AND carpels
             - Imperfect
                 - Individual flower has stamens OR carpels
+
+        - Hypanthium
+            - A cuplike or tubular enlargement of the receptacle of a flower,
+              loosely surrounding the gynoecium or united with it.
+
 
     - Types of Fruits
         - Definition of a Fruit
@@ -91,31 +99,46 @@
             - "Not splitting open to release the seeds when ripe"
         ========
         - Simple Fruit
-            - Ripe ovary of a single carpel of a single flower
+            - Definition
+                - Ripe ovary of a single carpel of a single flower
+            - Example
+                - Apple
+                - Tomato
+                - Pea
         - Aggregate Fruit
-            - Develops from one flower, many carpels
+            - Definition
+                - Develops from one flower, many carpels
+            - Example
                 - Strawberry
                     - Many one-seeded archenes produced by a single flower
                     - Archenes are the bumps on the strawberry
+                    - They are remnants of the carpels
+                    - The green leaves are the sepals
         - Multiple Fruit
-            - Develops from many flowers with many carpels
+            - Definition
+                - Develops from many flowers with many carpels
             - Produced from tightly packed flowers
-            - Pineapple
-                - Each one of the sectioned-off pieces is an individual and
-                  separate fruit
-                - "Multiple fruit develope from many individual flowers on an
-                  inflorescence.  As the individual fruit grow, they fuse
-                  together."
+            - Example
+                - Pineapple
+                    - Each one of the sectioned-off pieces is an individual and
+                      separate fruit
+                    - "Multiple fruit develop from many individual flowers on an
+                      inflorescence.  As the individual fruit grow, they fuse
+                      together."
         ========
         - The last 3 fruit types can also be modified by being an accessory
           fruit
             - Accessory Fruit
                 - Ovary wall plus other parts of flower
                     - American Apple (Simple Fruit)
-                        - Accessory Fruit
-                            - Because it has other parts of the flower, such as
-                                - Pedicel
-                                - Remnants of the calyx
+                        - Accessory fruit because it has other parts of the
+                          flower, such as
+                            - Pedicel
+                            - Remnants of the calyx
+                    - Strawberry (Aggregate)
+                        - Accessory fruit because it has other parts of the
+                          flower, such as
+                            - Sepal
 
     - Germination is the process by which an organism grows from a seed or
       similar structure
@@ -123,6 +146,7 @@
     - Seeds
         - Cotyledons
             * THESE BECOME THE FIRST LEAVES!
+                - Die shortly after
             - 1 in monocots (monocotyledon)
             - 2 in dicots   (dicotyledon)
         - Embryo
@@ -139,6 +163,12 @@
             - Embryonic root
         - Plumule
             - Rudimentary stem / root
+    - Fruit and Seed Dispersal
+        - Wind-dispersed fruit
+        - Water-dispersed fruit
+        - Animal-dispersed hitchhiker fruit
+        - Animal-dispersed editable fruit
+            - Animals eat, then digest, and excrete them in new locations
 
     ===================================Review===================================
     - Different Types of Fruit
