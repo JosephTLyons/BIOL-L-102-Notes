@@ -1,0 +1,51 @@
+Phylum Chordata
+    - Examples
+        * Vertebrates
+            - Humans
+        - Lancelet
+        - Sea squirts
+
+    - Key Body Plan Features
+        - Bilateral symmetry
+        - Triploblastic
+        - Alimentary canal
+            - The whole passage along which food passes through the body from
+              mouth to anus. It includes the esophagus, stomach, and intestines.
+        - Eucoelomate
+            - Have a coelom (a cavity surrounding the digestive tract)
+        - Deuterostome
+            - Digestive tract develops mouth second (anus first)
+        - Segmentation
+
+    - Other Features Unique to Chordates
+        - All chordates have these four features during at least one point in
+          their life
+            1) Dorsal Hollow nerve cord
+            2) Phyaryngeal gill slits
+                - Openings between the pharynx, or throat, and the outside
+            3) Notochord
+                - A cartilaginous skeletal rod supporting the body in all
+                  embryonic and some adult chordate animals
+            4) Post-anal tail
+                - All chordates have a post-anal tail. A post-anal tail is an
+                  extension of the body that runs past the anal opening.
+                - In some species, like humans, this feature is only present
+                  during the embryonic stage.
+        - Phylum Chordata can be divided into different subphyla based on
+          what happens to the notochord
+            - Cephalochordata (head)
+                - The notochord extends the entire length of the animal,
+                  including into the “head” (hence “cephalo-”)
+                - Cephalochordates are the only chordates to retain their
+                  notochord as adults
+            - Urochordata (tail)
+                - The notochord is only present in the tail of the animal
+                  (hence “uro-” which means “tail”)
+                - As adults, urochordates lose their tails and become sessile
+                  animals called “sea squirts”)
+            - Vertebrata
+                - The notochord is replaced during early development by a
+                  series of vertebrae
+                - Vertebrata are also the only chordates to have extensive
+                  brain development and a protective “cranium” around their
+                  brain
