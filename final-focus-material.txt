@@ -1,6 +1,28 @@
-A's Photo
+- Material to study according to A.
+    - Midterm 1
+    - Midterm 2
+    - Plant Structure - leaves and flowers
+    - Types of plants
+    - Dicot and monocot roots/stems
+    - Pollen grain - plant reproduction
+    - Structure of embryonic development
+    - Chordate Structure
+    - Animal Phyla and diversity
+    - Cell structure and organelles
+    - Eukaryote / prokaryote
+    - Cellular respiration processes
+    - Know EKG
+    - Gametophytes
+        - male: pollen
+        - female: embryo sac
+    - Thorns -> modified stem -> only occur at nodes
+    - Spines -> modified leaf -> only occur at nodes
+    - Prickles -> dermal structure
 
-Lecture 18
+- Lecture 18
     - Chordata.txt material
     - Know all structures of proglottid
-    - sexual-reproduction.txt material 
+    - sexual-reproduction.txt material
+    - animal-development.txt
+        - Chordate Embryo Development
+    - slide 13 / Middle of page 53 in notes

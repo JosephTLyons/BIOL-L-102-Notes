@@ -1,0 +1,66 @@
+- Yoke
+    - nutrients in ovum for developing embryo
+    - Echinoderms (Starfish)
+        - Very little yoke
+    - Yoke interferes with cell division
+        - Lots of yoke in egg can disrupt cleavage
+    - Eggs with little yoke
+        - Holoblastic cleavage
+            - Complete cell division during cleavage
+    - Eggs with lots of yoke
+        - Meroblastic cleavage
+            - Some cells don't undergo complete cell division during cleavage
+        - Ex
+            - Chicken Egg
+    - Membranes that carry out specific functions necessary for embryonic
+      development
+        - Amnion
+            - Protection from drying out
+        - Chorion
+            - Gas exchange
+        - Yolk Sac
+            - Nutrient supply
+        - Allantois
+            - Waste disposal in eggs
+
+- How the 3 embryonic tissues contribute to the structure of the body in
+  vertebrates
+    - Derived from ectoderm
+        - Upper layer of skin (epidermis)
+        - Nervous system (Brain)
+        - Cornea & Lens of the eye
+        - Lining of mouth and rectum
+    - Derived from mesoderm
+        - Bones
+        - Muscles
+        - Circulatory system
+        - Lymphatic system
+        - Excretory system (kidneys)
+        - Reproductive system
+        - Lower layers of skin (dermis)
+    - Derived from endoderm
+        - Inner lining of
+            - Digestive tract
+            - Respiratory tract
+            - Reproductive tract
+            - Urinary tract
+        - Liver
+        - Pancreas
+        - Thyroid Gland
+
+- Chordate Embryo Development
+    - Neurulation
+        - Summary
+            - Beginning to build a neural system
+        * The process by which the nerve cord forms is called “neurulation” and
+          involves the folding inward of *ectoderm* along the dorsal surface of
+          the embryo.  Thus, even though our brains and spinal chord are inside
+          the body, they are actually derived from *ectoderm*.
+        * Also involves the formation of the cylindrical notochord from mesoderm
+          immediately ventral to the neural tube.  Lateral to the neural tube
+          and along its length, spherical clusters of *mesoderm* cells called
+          “somites” form symmetrically along the right and left side
+        - See neurulation-in-chordates.png
+            * Not pictured, but
+                - Gut is below Notochord
+                - Coeloms are to the left and right of notochord
