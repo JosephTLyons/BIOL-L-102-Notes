@@ -1,0 +1,44 @@
+- Monoecious
+    - Have both male and female sexual reproduction organs
+        - Hermaphrodites
+    - Each individual is capable of reproducing both gametes (eggs and sperm)
+    - Self-fertilization is possible in some cases, but most cases require
+      finding a mate
+    - Ex:
+        - Annelida,
+        - Porifera,
+        - Cnidaria,
+        - Urochordata,
+        - Gastropoda,
+        - Platyhelminthes,
+            - Tapeworm (Parasitic Platyhelminthes)
+                - Resort to self-fertilization, as it is hard to find other
+                  mates inside the reproductive tracts of the hosts they live
+                  off of.
+
+- Dioecious
+    - Each individual is distinctively male or female
+    - Ex:
+        - Mollusca (except for gastropods),
+        - Chordata (except for urochordates),
+        - Echinodermata,
+        - Arthropoda,
+        - Nematoda
+
+- Types of Fertilization
+    - Internal
+        -Def
+            - Fertilization outside the female reproductive tract
+        * Restricted to aquatic environments
+
+    - External
+        - Def
+            - Fertilization inside the female reproductive tract
+        - Required for terrestrial fertilization, but can occur in aquatic
+          environments
+        * Fertilization occurs within the female reproductive tract
+        - Structures are required to deliver the sperm to the female’s
+          reproductive tract
+            - Intermittent (or copulatory) organ
+            - Spermatophore
+                - Like an egg or vessel to hold sperm ?
