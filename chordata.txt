@@ -1,9 +1,8 @@
 Phylum Chordata
     - Examples
-        * Vertebrates
-            - Humans
-        - Lancelet
-        - Sea squirts
+        * Vertebrates (Vertebrata: Humans)
+        - Lancelet (Cephalochordata)
+        - Sea squirts (Urochordata)
 
     - Key Body Plan Features
         - Bilateral symmetry
@@ -34,18 +33,25 @@ Phylum Chordata
         - Phylum Chordata can be divided into different subphyla based on
           what happens to the notochord
             - Cephalochordata (head)
-                - The notochord extends the entire length of the animal,
+                * The notochord extends the entire length of the animal,
                   including into the “head” (hence “cephalo-”)
                 - Cephalochordates are the only chordates to retain their
                   notochord as adults
+                * Exhibits all four previous features as an adult
             - Urochordata (tail)
-                - The notochord is only present in the tail of the animal
+                * The notochord is only present in the tail of the animal
                   (hence “uro-” which means “tail”)
                 - As adults, urochordates lose their tails and become sessile
                   animals called “sea squirts”)
+                * The key chordate features are generally more characteristic
+                  of the free-swimming larval stage than in the sessile adult
             - Vertebrata
-                - The notochord is replaced during early development by a
+                * The notochord is replaced during early development by a
                   series of vertebrae
                 - Vertebrata are also the only chordates to have extensive
                   brain development and a protective “cranium” around their
                   brain
+                * The notochord is generally only present in the early
+                  embryonic stages of development; in many terrestrial
+                  vertebrates, the pharyngeal gill slits are also usually only
+                  present during development.
