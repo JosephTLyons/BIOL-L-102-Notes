@@ -42,6 +42,10 @@
             - Green Algae (produce 1/2 oxygen in the atmosphere)
 
         - Embryophytes: Informally - LAND PLANTS
+            - Def
+                - Members of this kingdom can also be called “embryophytes”
+                  because the embryos are retained within the parent during
+                  their early embryonic stages
             - Mosses
             - Tracheophytes: Vascular Plants
                 - "Tracheophyte" means its a plant with tracheid cells (see
@@ -78,12 +82,18 @@
                 - Nodes
                     - The place in which a bud, leaf, twig, or branch is
                       attached to the main portion of the plant
+                        - Bud
+                            - Meristematic tissue left behind by apical
+                              meristem to help leaves grow.
                     - A node is responsible for the growth contained in a bud
                     - Ex: On a potato, the "eyes" are nodes; its where the
                       sprouting begins (what is sprouting here though?)
                 - Internodes
                     - Main portion of the plant between nodes (between nodes)
             - Leaves (Organ)
+                - Functions
+                    - Photosynthesis
+                    - Sexual reproduction (often helped by symbiotic fungi)
                 - Consists of
                     - Blade
                         - The large flat portion
@@ -106,22 +116,23 @@
                 - Storage of sugars
 
     - Plant Cells and Tissues
-        - 3 tissues
+        - 4 tissues
             - Epidermal
                 - Outer layer of of cells
-                - protection
-                - reduces water loss
+                * protection
+                * reduces water loss
                 - allows gas exchange
                 - In above-ground parts of terrestrial plants, covered with
                   cuticle (wax = cutin)
-
             - Vascular
                 - Conducts water, minerals, sugars throughout the plant body
                 - Provides support
             - Ground
-                - Photosynthesis
-                - Storage
-                - Support
+                * Photosynthesis
+                * Storage
+                * Support
+            - Meristematic
+                * Responsible for new growth, site of mitosis
 
     - 3 Types of Cells
         1) Epidermal cells
@@ -201,11 +212,11 @@
             - Pinnate
             - Palmate
 
-    - Sheath
+    - Sheath (only in monocots)
         - The tubular portion of the leaf which wraps around or encloses the
           stem
     - Stipule
-        - One of a pair of lateral appendages, often leaflike, at the base of a
+        - One of a pair of lateral appendages, often leaf-like, at the base of a
           leaf petiole in many plants.
 
     - Monocot vs Dicot
@@ -221,6 +232,7 @@
             - Flower parts in 3s or multiples of 3s
             * Vascular bundle looks like a monkey face!
         - Dicot
+            - Stems are capable of lateral growth
             - Two cotyledon in seed
             - Vascular bundles in a distinct ring
             - Venation:
@@ -266,7 +278,10 @@
     - Blade anatomy
         - See: blade-anatomy.jpg
         - Cuticle
+            - Waterproofs the surface of the plant
+	        - Prevents water loss and provides protection from UV radiation
         - Palisade Mesophyll
+            - Photosynthetic cells
         - Spongy Mesophyll
         - Epidermis
             - Under cuticle on both sides

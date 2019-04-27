@@ -3,7 +3,7 @@
     - Midterm 2
     - Plant Structure - leaves and flowers
     - Types of plants
-    - Dicot and monocot roots/stems
+    - Dicot and monocot roots / stems
     - Pollen grain - plant reproduction
     - Structure of embryonic development
     - Chordate Structure
@@ -25,4 +25,18 @@
     - sexual-reproduction.txt material
     - animal-development.txt
         - Chordate Embryo Development
-    - slide 13 / Middle of page 53 in notes
+    - Slide 13 / middle of page 53 in notes
+
+- Lecture 19
+    - Embryophytes.txt
+        - Alteration of Generations
+
+- Lecture 20
+    - All the labeled parts of the cross sections
+        - Pericycle
+        - Cortex
+        - Etc.
+        * Some of this is in Quiz 11
+
+- Lecture 21
+    - Leaves / Endophyte Diversity
