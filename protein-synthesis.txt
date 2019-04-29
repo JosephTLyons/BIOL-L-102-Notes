@@ -57,7 +57,7 @@ Transcription (in Eukaryotes):
             -
            | |
             -
-            | Gene 1              | Gene 2               | Gene 3         | ...
+            | Gene 1              | Gene 2               | Gene 3         |  ...
             *--------------------x*---------------------x*---------------x*  ...
             ^                    ^
             |                    | Terminator
@@ -91,8 +91,9 @@ Transcription (in Eukaryotes):
               remove the intron, leaving only just the exons (contains
               information for making proteins) and a complete mRNA strand.
             - After all the introns are removed, a 5' cap is put on the left
-              side of the pre-mRNA transcript and a PolyA Tail (AAA...) is placed
-              on the right side (where the 3' would go) (terminal end)
+              side of the newly modified mRNA transcript and a PolyA Tail
+              (AAA...) is placed on the right side (where the 3' would go)
+              (terminal end)
                 - PolyA is a chain of adenosine molecules.
 
             Page 36 of notes has a drawing of this
@@ -150,15 +151,16 @@ Translation (in Eukaryotes):
             - Codon Definition:
                 - A sequence of 3 nucleotides that "code" for a specific amino
                   acid.
-                - Codons refers the ones in the mRNA
+                - Codons refers to the ones in the mRNA
+                - Anticodons refers to the ones in the tRNA
 
             - The 1st codon in a polypeptide coding sequence is always
               methionine.  It is considered the "start codon" and its
               represented by "AUG."
 
-            - Each amino acid is brought by transferRNA (aminoacyl tRNA), which has set of
-              3 nitrogenous bases called the "anticodon" that link with a codon
-              in the mRNA.
+            - Each amino acid is brought by aminoacyl transferRNA (amino acid +
+              tRNA), which has set of 3 nitrogenous bases called the "anticodon"
+              that link with a codon in the mRNA.
                 - tRNA has "stems" and "loops."
                 * remember, we are dealing with RNA here, so linking of base
                   pairs in the codons and the anticodons are: G-C, A-U
