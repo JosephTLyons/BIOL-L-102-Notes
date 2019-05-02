@@ -48,11 +48,13 @@
 
 - Lecture 22
     - Mosses (Bryophytes)
+        - Gametophyte (1N) is the dominant stage b/c (it is simple)
     - Liverworts (Hepaticophytes)
         - Spores
+        - Gametophyte (1N) is the dominant stage b/c (it is simple)
     - Ferns (Pteridophytes)
         - Sorus
-
+        - Sporophyte (2N) is the dominant stage b/c (it more complex)
     - Gametophyte structures
         - Eggs => Archegonium
         - Sperm => Antheridium
@@ -68,8 +70,27 @@
         - Protein synthesis
 
 Next:
-    Photosynthesis
-    Cell Respiration
-    Tests 1 and 2 Material
+    Test 1 (review concepts for missed problems)
+        - Cell Respiration
+            - Steps 1 - 3, make NADH and FADHsub(2) for step 4
+            - Input at step 4: Oxidative Phosphorylation
+                - NADH       (electron donors) -> Complex I
+                - FADHsub(2) (electron donors) -> Complex II
+            - Output at step 4: Oxidative Phosphorylation
+                - Oxygen (to make water)
+                - CO2 (as waste)
+    Test 2 Material (review concepts for missed problems)
+        - Photosynthesis
+            - Input at step 1: Light Dependent Reaction (in thylakoid)
+                - H2O (electron donors) -> PS II
+            - Output at step 1: Light Dependent Reaction (in thylakoid)
+                - ATP                               (used in Calvin)
+                - NADP (electron acceptor) -> NADPH (used in Calvin)
+                - Oxygen (as waste)
+        - Protein Synthesis
+        - Phylum Diversity
+            - Which phylum are protostomes (P1)
     All material since test 1 and 2
+        - Chordata
+        - Quiz 11 and 12
     Aidens List

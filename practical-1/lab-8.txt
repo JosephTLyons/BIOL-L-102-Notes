@@ -372,8 +372,8 @@ Posterior: located to the back, or in back of
                   |   |   |   |   |   |   |   |   |   Asymmetry
                   |   |   |   |   |   |   |   |   |   |   Radial Symmetry
                   |   |   |   |   |   |   |   |   |   |   |   Bilateral Symmetry
-                  |   |   |   |   |   |   |   |   |   |   |   |   Pentaradial Sym
-                  |   |   |   |   |   |   |   |   |   |   |   |   |
+                  |   |   |   |   |   |   |   |   |   |   |   |   Pentaradial
+                  |   |   |   |   |   |   |   |   |   |   |   |   |     Symmetry
 Table Recap       v   v   v   v   v   v   v   v   v   v   v   v   v
 --------------------------------------------------------------------------------
 Porifera        |   |   |   |   |   | X |   |   |   | X |   |   |   |

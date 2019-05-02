@@ -54,7 +54,7 @@ Light Dependent Reaction
 
         - H2O is the donor molecule.  It donates a pair of electrons to PS II.
             - The remaining 2 H^+ ions is used during the chemiosmosis step
-        - PS II capture light energy (photons) and uses it to charge the
+        - PS II captures light energy (photons) and uses it to charge the
           electrons
         - PS II passes these high energy electrons to plastoquinone.
         - Plastoquinone passes to the electron transport chain (Cytochrome
@@ -63,7 +63,7 @@ Light Dependent Reaction
         - The electron transport chain passes the electrons to plastocyanin,
           which passes them to PS I, where again, light energy (photons)
           transform them into high energy electrons (recharge them).
-        - PS 1 passes these electrons to Ferredoxin
+        - PS I passes these electrons to Ferredoxin
         - Ferredoxin passes the electrons to NADP^+ Reductase, which uses them
           to link NADP^+ with a H^+ in order to reduce NADP^+ to NAPDPH
         - This newly created NADPH goes to the Calvin cycle, while the H^+ ions
@@ -125,7 +125,7 @@ Calvin Cycle
     - SEE: images/calvin_cycle.jpg (dual screen)
 
     - Takes place in the stroma
-        - Parallel to Krebs cycle in the matrix or mitochondrion
+        - Parallel to Krebs cycle in the matrix of mitochondrion
         - Main objective is to build larger molecules from CO2
             - To do this, it requires energy in the form of ATP and NADPH
                 - These are generated from the light dependent reaction
@@ -157,7 +157,7 @@ Calvin Cycle
                 - The difference between a glycerol and a -glycerate is that a
                   -glycerate has a carboxyl group (COOH) attached to it.
 
-        2) Reduction (USES NADPH and ATP - Quiz 9: Q 8, 9)
+        2) Reduction (USES NADPH and ATP - Quiz 9 -> Q: 8, 9)
             - The 2 phosphoglycerates are phosphorylated by ATP and
               reduced by NADPH (passes its electrons to 3PGA) to make
               glyceraldehyde-3-phosphate
